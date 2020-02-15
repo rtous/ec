@@ -7,4 +7,6 @@
 
 [Sessió 2 (Tema 2.Instruccions i tipus de dades bàsics / Assemblador)](./slides/sessio2_1_tema2_assemblador.pdf)
 
+[Sessió 3 (Tema 2.Instruccions i tipus de dades bàsics / Repàs naturals i enters)](./slides/sessio3_1_tema2_enters.pdf)
+
 
