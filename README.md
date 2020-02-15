@@ -9,6 +9,6 @@
 
 [Sessió 3 (Tema 2. Instruccions i tipus de dades bàsics / Repàs naturals i enters)](./slides/sessio3_1_tema2_enters.pdf)
 
-[Sessió 3 (Tema 2. Instruccions i tipus de dades bàsics / ASCII, format instruccions, vectors i punters)](./slides/sessio3_2_tema2_vectors_punters.pdf)
+[Sessió 3 (Tema 2. Instruccions i tipus de dades bàsics / ASCII, format instruccions, vectors)](./slides/sessio3_2_tema2_ascii_instr_vectors.pdf)
 
 
