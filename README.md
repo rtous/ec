@@ -11,4 +11,6 @@
 
 [Sessió 3 (Tema 2. Instruccions i tipus de dades bàsics / ASCII, format instruccions, vectors)](./slides/sessio3_2_tema2_ascii_instr_vectors.pdf)
 
+[Sessió 4 (Tema 2. Instruccions i tipus de dades bàsics / punters)](./slides/sessio4_1_tema2_punters.pdf)
+
 
