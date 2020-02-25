@@ -1,7 +1,7 @@
 # EC: Estructura de Computadors (material professor R. Tous)
-## Transparències
+## Materials sessions
 
-Sessió 1 (presentació) [slides)](./slides/sessio1_1_presentacio.pdf)
+Sessió 1 (presentació) [slides](./slides/sessio1_1_presentacio.pdf)
 
 Sessió 1 (Tema 2. Instruccions i tipus de dades bàsics / Introducció) [slides](./slides/sessio1_2_tema2_intro.pdf)
 
