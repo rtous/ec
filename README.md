@@ -17,5 +17,9 @@ Sessió 5 (Tema 2. Problemes) [enunciats](./problemes/expr2_extended.pdf) i [sol
 
 Sessió 6 (Tema 3. Traducció de programes / bitwise, condicions, if-then-else) [slides](./slides/sessio6_1_tema3_condicionals.pdf)
 
+Sessió 7 (Tema 3. Traducció de programes / switch i bucles) [slides](./slides/sessio7_1_tema3_switch_i_bucles.pdf)
+
+Sessió 7 (Tema 3. Traducció de programes / subrutines) [slides](./slides/sessio7_2_tema3_subrutines.pdf)
+
 
 
