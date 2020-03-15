@@ -49,7 +49,7 @@ dimecres 11 de març:
 
 * Sessió 10 (Tema 4. Matrius) [slides](./slides/sessio9_2_tema4_matrius1.pdf)
 <hr>
-**[PROPERA CLASSE]** dilluns 16 de març (no hi ha classe presencial):
+**PROPERA CLASSE** dilluns 16 de març (no hi ha classe presencial):
 
 * Sessió 11 (Tema 4. Matrius / accés seqüencial) 
 
