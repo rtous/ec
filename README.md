@@ -30,6 +30,8 @@ Sessió 10 (Tema 3. Estructura de la memòria, compilació, assemblatge, enllaç
 
 Sessió 10 (Tema 4. Matrius) [slides](./slides/sessio9_2_tema4_matrius1.pdf)
 <hr>
+23 de març:
+
 Sessió 11 (Tema 4. Matrius / accés seqüencial) 
 
 Sessió 11 (Tema 4. Problemes: 4.4, 4.5, 4.8) [solucions](./problemes/tema4_problemes_pissarra.pdf)
