@@ -29,7 +29,7 @@ Sessió 9 (Tema 3. Problemes de subrutines) [enunciats](./problemes/expr3.pdf)
 Sessió 10 (Tema 3. Estructura de la memòria, compilació, assemblatge, enllaçat i càrrega) [slides](./slides/sessio9_1_tema3_mem_i_compilacio.pdf)
 
 Sessió 10 (Tema 4. Matrius) [slides](./slides/sessio9_2_tema4_matrius1.pdf)
-
+<hr>
 Sessió 11 (Tema 4. Matrius / accés seqüencial) 
 
 Sessió 11 (Tema 4. Problemes: 4.4, 4.5, 4.8) [solucions](./problemes/tema4_problemes_pissarra.pdf)
