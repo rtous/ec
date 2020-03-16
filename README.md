@@ -77,6 +77,7 @@ dimecres 11 de març:
 
 <hr>
 
+<!--
 <span style="color:gray">
 dimecres 18 de març (no hi ha classe presencial):
 
@@ -93,7 +94,7 @@ dimecres 18 de març (no hi ha classe presencial):
 
 * Sessió 13 (Tema 1. Examen de problemes) [enunciats](./problemes/expr1.pdf) i [solucions](./problemes/expr1s.pdf)
 
-
+-->
 
 
 
