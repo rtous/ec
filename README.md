@@ -87,7 +87,7 @@ dimecres 18 de març (no hi ha classe presencial):
 
 <hr>
 
-<span style="color:blue">dilluns 23 de març (no hi ha classe presencial):</span>
+<span style="color: red;">dilluns 23 de març (no hi ha classe presencial):</span>
 
 * Sessió 13 (Tema 1. Solució problemes encarregats) [solucions](./problemes/tema1_4_2_4_9_1_7_1_11.pdf)
 
