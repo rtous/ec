@@ -30,7 +30,7 @@ dimecres 19 de febrer:
 
 dilluns 24 de febrer:
 
-* Sessió 5 (Tema 2. Problemes) [enunciats](./problemes/expr2_extended.pdf) i [solucions](./problemes/expr2s_extended.pdf)
+* Sessió 5 (Tema 2. Examen de problemes) [enunciats](./problemes/expr2_extended.pdf) i [solucions](./problemes/expr2s_extended.pdf)
 
 <hr>
 
@@ -56,7 +56,7 @@ dimecres 4 de març:
 
 dilluns 9 de març:
 
-* Sessió 9 (Tema 3. Problemes de subrutines) [enunciats](./problemes/expr3.pdf) 
+* Sessió 9 (Tema 3. Examen de problemes) [enunciats](./problemes/expr3.pdf) 
 <!--i [solucions](./problemes/expr3s.pdf)-->
 
 <hr>
@@ -75,6 +75,29 @@ dimecres 11 de març:
 
 * Sessió 11 (Tema 4. Problemes: 4.4, 4.5, 4.8) [solucions](./problemes/tema4_problemes_pissarra.pdf)
 
+<hr>
+
+<span style="color:gray">
+
+dimecres 18 de març (no hi ha classe presencial):
+
+* Sessió 12 (Tema 1. Rendiment i consum) [slides](./slides/sessio11_1_tema1_rendiment.pdf)
+
+* Problemes per dilluns: 4.2, 4.9, 1.7, 1.11
+
+</span>
+
+<hr>
+
+<span style="color:gray">
+
+dilluns 23 de març (no hi ha classe presencial):
+
+* Sessió 13 (Tema 1. Solució problemes encarregats) [solucions](./problemes/tema1_4_2_4_9_1_7_1_11.pdf)
+
+* Sessió 13 (Tema 1. Examen de problemes) [enunciats](./problemes/expr1.pdf) i [solucions](./problemes/expr1s.pdf)
+
+</span>
 
 
 
