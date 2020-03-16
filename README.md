@@ -78,21 +78,41 @@ dimecres 11 de març:
 <hr>
 
 <!--
-<span style="color:gray">
 dimecres 18 de març (no hi ha classe presencial):
 
 * Sessió 12 (Tema 1. Rendiment i consum) [slides](./slides/sessio11_1_tema1_rendiment.pdf)
 
 * Problemes per dilluns: 4.2, 4.9, 1.7, 1.11
-</span>
 
 <hr>
 
-<span style="color: red;">dilluns 23 de març (no hi ha classe presencial):</span>
+dilluns 23 de març (no hi ha classe presencial):
 
 * Sessió 13 (Tema 1. Solució problemes encarregats) [solucions](./problemes/tema1_4_2_4_9_1_7_1_11.pdf)
 
 * Sessió 13 (Tema 1. Examen de problemes) [enunciats](./problemes/expr1.pdf) i [solucions](./problemes/expr1s.pdf)
+
+<hr>
+
+dimecres 25 de març (no hi ha classe presencial):
+
+* Sessió 14 (Tema 5. Aritmètica d'enters i coma flotant / 5.1-5.3 Aritmètica d'enters) [slides](./slides/????.pdf)
+
+* Problemes per dilluns: ????
+
+<hr>
+
+dilluns 30 de març (no hi ha classe presencial):
+
+* Sessió 15 (Tema 5. Aritmètica d'enters i coma flotant / 5.4 Representació) [slides](./slides/????.pdf)
+
+<hr>
+
+dimecres 1 d'abril (no hi ha classe presencial):
+
+* Sessió 16 (Tema 5. Problemes) [slides](./slides/????.pdf)
+
+* Problemes per Setmana Santa: 
 
 -->
 
