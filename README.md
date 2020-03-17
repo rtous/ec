@@ -69,7 +69,7 @@ dimecres 11 de març:
 
 <hr>
 
-(PROPERA CLASSE) dilluns 16 de març (no hi ha classe presencial):
+dilluns 16 de març (no hi ha classe presencial):
 
 * Sessió 11 (Tema 4. Matrius / accés seqüencial) 
 
@@ -77,8 +77,7 @@ dimecres 11 de març:
 
 <hr>
 
-
-dimecres 18 de març (no hi ha classe presencial):
+(PROPERA CLASSE) dimecres 18 de març (no hi ha classe presencial):
 
 * Sessió 12 (Tema 1. Rendiment i consum) [slides](./slides/sessio11_1_tema1_rendiment.pdf)
 
