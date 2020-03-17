@@ -73,7 +73,7 @@ dimecres 11 de març:
 
 * Sessió 11 (Tema 4. Matrius / accés seqüencial) 
 
-* Sessió 11 (Tema 4. Problemes: 4.4, 4.5, 4.8) [solucions](./problemes/tema4_problemes_pissarra.pdf)
+* Sessió 11 (Tema 4. Problemes resolts: 4.4, 4.5, 4.8) [solucions](./problemes/tema4_problemes_pissarra.pdf)
 
 <hr>
 
@@ -82,7 +82,7 @@ dimecres 18 de març (no hi ha classe presencial):
 
 * Sessió 12 (Tema 1. Rendiment i consum) [slides](./slides/sessio11_1_tema1_rendiment.pdf)
 
-* Problemes per dilluns: 4.2, 4.9, 1.7, 1.11
+* Problemes per dilluns 23 de març: 4.2, 4.9, 1.7, 1.11
 
 <hr>
 
@@ -98,11 +98,13 @@ dimecres 25 de març (no hi ha classe presencial):
 
 * Sessió 14 (Tema 5. Aritmètica d'enters i coma flotant / 5.1-5.3 Aritmètica d'enters) [slides](./slides/????.pdf)
 
-* Problemes per dilluns: ????
+* Problemes per dilluns 30 de març: 5.6, 5.7, 5.11.a, 5.15.b
 
 <hr>
 
 dilluns 30 de març (no hi ha classe presencial):
+
+* Sessió 15 (Tema 5. Solució problemes encarregats) [solucions](./problemes/???.pdf)
 
 * Sessió 15 (Tema 5. Aritmètica d'enters i coma flotant / 5.4 Representació) [slides](./slides/????.pdf)
 
@@ -110,9 +112,7 @@ dilluns 30 de març (no hi ha classe presencial):
 
 dimecres 1 d'abril (no hi ha classe presencial):
 
-* Sessió 16 (Tema 5. Problemes) [slides](./slides/????.pdf)
-
-* Problemes per Setmana Santa: 
+* Sessió 16 (Tema 5. Problemes resolts: 5.21, 5.23, 5.25) [slides](./slides/????.pdf)
 
 -->
 
