@@ -77,7 +77,7 @@ dimecres 11 de març:
 
 <hr>
 
-<!--
+
 dimecres 18 de març (no hi ha classe presencial):
 
 * Sessió 12 (Tema 1. Rendiment i consum) [slides](./slides/sessio11_1_tema1_rendiment.pdf)
@@ -85,6 +85,8 @@ dimecres 18 de març (no hi ha classe presencial):
 * Problemes per dilluns 23 de març: 4.2, 4.9, 1.7, 1.11
 
 <hr>
+
+<!--
 
 dilluns 23 de març (no hi ha classe presencial):
 
