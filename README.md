@@ -77,7 +77,7 @@ dilluns 16 de març (no hi ha classe presencial):
 
 <hr>
 
-(PROPERA CLASSE) dimecres 18 de març (no hi ha classe presencial):
+dimecres 18 de març (no hi ha classe presencial):
 
 * Sessió 12 (Tema 1. Rendiment i consum) [slides](./slides/sessio11_1_tema1_rendiment.pdf)
 
@@ -85,13 +85,13 @@ dilluns 16 de març (no hi ha classe presencial):
 
 <hr>
 
-<!--
-
-dilluns 23 de març (no hi ha classe presencial):
+(PROPERA CLASSE) dilluns 23 de març (no hi ha classe presencial):
 
 * Sessió 13 (Tema 1. Solució problemes encarregats) [solucions](./problemes/tema1_4_2_4_9_1_7_1_11.pdf)
 
 * Sessió 13 (Tema 1. Examen de problemes) [enunciats](./problemes/expr1.pdf) i [solucions](./problemes/expr1s.pdf)
+
+<!--
 
 <hr>
 
