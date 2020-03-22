@@ -91,7 +91,7 @@ dimecres 18 de març (no hi ha classe presencial):
 
 * Sessió 13 (Tema 1. Examen de problemes) [enunciats](./problemes/expr1.pdf)
 
-(les solucions a l'examen de problemes es publicaran demà) 
+(les solucions a l'examen de problemes es publicaran dilluns per la tarda) 
 
 <!--
 
