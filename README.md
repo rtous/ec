@@ -85,7 +85,7 @@ dimecres 18 de març (no hi ha classe presencial):
 
 <hr>
 
-(PROPERA CLASSE) dilluns 23 de març (no hi ha classe presencial):
+dilluns 23 de març (no hi ha classe presencial):
 
 * Sessió 13 (Tema 1. Solució problemes encarregats) [solucions](./problemes/tema1_4_2_4_9_1_7_1_11.pdf)
 
@@ -93,22 +93,16 @@ dimecres 18 de març (no hi ha classe presencial):
 
 <!--(les solucions a l'examen de problemes es publicaran dilluns per la tarda) -->
 
-<!--
-
-i [solucions](./problemes/expr1s.pdf)
-
-
-
 <hr>
 
-dimecres 25 de març (no hi ha classe presencial):
+(PROPERA CLASSE) dimecres 25 de març (no hi ha classe presencial):
 
-* Sessió 14 (Tema 5. Aritmètica d'enters i coma flotant / 5.1-5.3 Aritmètica d'enters) [slides](./slides/????.pdf)
+* Sessió 14 (Tema 5. Aritmètica d'enters i coma flotant / 5.1-5.3 Aritmètica d'enters) [apunts](http://docencia.ac.upc.edu/FIB/grau/EC/privat/TeoriaEC-tema5.pdf)
 
 * Problemes per dilluns 30 de març: 5.6, 5.7, 5.11.a, 5.15.b
 
 <hr>
-
+<!--
 dilluns 30 de març (no hi ha classe presencial):
 
 * Sessió 15 (Tema 5. Solució problemes encarregats) [solucions](./problemes/???.pdf)
