@@ -102,19 +102,20 @@ dilluns 23 de març (no hi ha classe presencial):
 * Problemes per dilluns 30 de març: 5.6, 5.7, 5.11.a, 5.15.b
 
 <hr>
-<!--
+
 dilluns 30 de març (no hi ha classe presencial):
 
-* Sessió 15 (Tema 5. Solució problemes encarregats) [solucions](./problemes/???.pdf)
+* Vídeos [multiplicador](https://www.youtube.com/watch?v=d-LYzUcRK1w&t=365s)/[divisor](https://www.youtube.com/watch?v=oWHNRd7dGP4&t=1209s) naturals/enters.
 
-* Sessió 15 (Tema 5. Aritmètica d'enters i coma flotant / 5.4 Representació) [slides](./slides/????.pdf)
+* Sessió 15 (Tema 5. Solució problemes encarregats) [solucions](./problemes/tema5_5_6_5_7_5_11a_5_15b.pdf)
+
+* Sessió 15 (Tema 5. Aritmètica d'enters i coma flotant / 5.4 Representació) (seguir amb apunts Tema 5)
 
 <hr>
-
+<!--
 dimecres 1 d'abril (no hi ha classe presencial):
 
-* Sessió 16 (Tema 5. Problemes resolts: 5.21, 5.23, 5.25) [slides](./slides/????.pdf)
-
+* Sessió 16 (Tema 5. Problemes resolts: 5.21, 5.23, 5.25) [solucions](./problemes/tema5_5_21_5_23_5_25.pdf)
 -->
 
 
