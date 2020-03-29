@@ -95,7 +95,7 @@ dilluns 23 de març (no hi ha classe presencial):
 
 <hr>
 
-(PROPERA CLASSE) dimecres 25 de març (no hi ha classe presencial):
+dimecres 25 de març (no hi ha classe presencial):
 
 * Sessió 14 (Tema 5. Aritmètica d'enters i coma flotant / 5.1-5.3 Aritmètica d'enters) [apunts](http://docencia.ac.upc.edu/FIB/grau/EC/privat/TeoriaEC-tema5.pdf)
 
@@ -103,7 +103,7 @@ dilluns 23 de març (no hi ha classe presencial):
 
 <hr>
 
-dilluns 30 de març (no hi ha classe presencial):
+(PROPERA CLASSE) dilluns 30 de març (no hi ha classe presencial):
 
 * Vídeos [multiplicador](https://www.youtube.com/watch?v=d-LYzUcRK1w&t=365s)/[divisor](https://www.youtube.com/watch?v=oWHNRd7dGP4&t=1209s) naturals/enters.
 
