@@ -98,7 +98,10 @@ Sessió 13: dilluns 23 de març (no hi ha classe presencial):
 
 Sessió 14: dimecres 25 de març (no hi ha classe presencial):
 
-* Tema 5. Aritmètica d'enters i coma flotant / 5.1-5.3 Aritmètica d'enters [apunts](http://docencia.ac.upc.edu/FIB/grau/EC/privat/TeoriaEC-tema5.pdf) [vídeo multiplicador](https://www.youtube.com/watch?v=d-LYzUcRK1w&t=365s)/[ vídeo divisor](https://www.youtube.com/watch?v=oWHNRd7dGP4&t=1209s) naturals/enters.
+* Tema 5. Aritmètica d'enters i coma flotant / 5.1-5.3 Aritmètica d'enters
+    * [apunts](http://docencia.ac.upc.edu/FIB/grau/EC/privat/TeoriaEC-tema5.pdf)
+    * [vídeo multiplicador](https://www.youtube.com/watch?v=d-LYzUcRK1w&t=365s)
+    * [vídeo divisor](https://www.youtube.com/watch?v=oWHNRd7dGP4&t=1209s) naturals/enters.
 
 * Problemes per dilluns 30 de març: 5.6, 5.7, 5.11.a, 5.15.b
 
@@ -108,7 +111,9 @@ Sessió 14: dimecres 25 de març (no hi ha classe presencial):
 
 * Tema 5. Solució problemes encarregats [solucions](./problemes/tema5_5_6_5_7_5_11a_5_15b.pdf)
 
-* Tema 5. Aritmètica d'enters i coma flotant / 5.4 Representació [vídeo 1: coma fixa](https://www.youtube.com/watch?v=zsGChigW4Fs) [vídeo 2: IEEE 754](https://www.youtube.com/watch?v=QrfAShP95I4)
+* Tema 5. Aritmètica d'enters i coma flotant / 5.4 Representació 
+    * [vídeo 1: coma fixa](https://www.youtube.com/watch?v=zsGChigW4Fs) 
+    * [vídeo 2: IEEE 754](https://www.youtube.com/watch?v=QrfAShP95I4)
 
 <hr>
 <!--
