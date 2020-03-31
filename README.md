@@ -111,7 +111,7 @@ Sessió 15: dilluns 30 de març (no hi ha classe presencial):
 
 * Tema 5. Solució problemes encarregats [solucions](./problemes/tema5_5_6_5_7_5_11a_5_15b.pdf)
 
-* Tema 5. Aritmètica d'enters i coma flotant / 5.4 Representació 
+* Tema 5. Aritmètica d'enters i coma flotant / 5.4 Representació 1/2
     * [vídeo 1: coma fixa](https://www.youtube.com/watch?v=zsGChigW4Fs) 
     * [vídeo 2: IEEE 754](https://www.youtube.com/watch?v=QrfAShP95I4)
 
@@ -119,8 +119,9 @@ Sessió 15: dilluns 30 de març (no hi ha classe presencial):
 
 (PROPERA CLASSE) Sessió 16: dimecres 1 d'abril (Zoom: https://us04web.zoom.us/j/392317836)
 
-**Aquesta classe es realitzarà per videoconferència dins l'horari previst (de 8h a 10h) i mitjançant Zoom ([Avís al Racó](https://raco.fib.upc.edu/avisos/veure.jsp?espai=270006&id=106454)).**
+* **Aquesta classe es realitzarà per videoconferència dins l'horari previst (de 8h a 10h) i mitjançant Zoom ([Avís al Racó](https://raco.fib.upc.edu/avisos/veure.jsp?espai=270006&id=106454)).**
 
+* Tema 5. Aritmètica d'enters i coma flotant / 5.4 Representació 2/2 [slides](./slides/sessio16_1_tema5_2_floats_1.pdf)
 
 <!--
 * Tema 5. Problemes resolts: 5.21, 5.23, 5.25) [solucions](./problemes/tema5_5_21_5_23_5_25.pdf)
