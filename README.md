@@ -119,7 +119,7 @@ Sessió 15: dilluns 30 de març (no hi ha classe presencial):
 
 (PROPERA CLASSE) Sessió 16: dimecres 1 d'abril (Zoom: https://us04web.zoom.us/j/392317836)
 
-** Aquesta classe es realitzarà per videoconferència dins l'horari previst (de 8h a 10h) i mitjançant Zoom ([Avís al Racó](https://raco.fib.upc.edu/avisos/veure.jsp?espai=270006&id=106454)).**
+**Aquesta classe es realitzarà per videoconferència dins l'horari previst (de 8h a 10h) i mitjançant Zoom ([Avís al Racó](https://raco.fib.upc.edu/avisos/veure.jsp?espai=270006&id=106454)).**
 
 
 <!--
