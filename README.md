@@ -117,15 +117,35 @@ Sessió 15: dilluns 30 de març (no hi ha classe presencial):
 
 <hr>
 
-(PROPERA CLASSE) Sessió 16: dimecres 1 d'abril (Zoom: https://us04web.zoom.us/j/392317836)
+Sessió 16: dimecres 1 d'abril (Zoom: https://us04web.zoom.us/j/392317836)
 
 * **Aquesta classe es realitzarà per videoconferència dins l'horari previst (de 8h a 10h) i mitjançant Zoom ([Avís al Racó](https://raco.fib.upc.edu/avisos/veure.jsp?espai=270006&id=106454)).**
 
 * Tema 5. Aritmètica d'enters i coma flotant / 5.4 Representació 2/2 [slides](./slides/sessio16_1_tema5_2_floats_1.pdf)
 
+
+<hr>
+
+(PROPERA CLASSE) Sessió 17: dimecres 15 d'abril
+
+* **Aquesta classe es realitzarà per videoconferència dins l'horari previst (de 8h a 10h) i mitjançant [Zoom](https://us04web.zoom.us/j/392317836).**
+
+* Tema 5. Aritmètica d'enters i coma flotant / 5.4 Representació 2/2 (continuació)
+
+* Tema 5. Aritmètica d'enters i coma flotant / Suma i resta [slides](./slides/sessio17_1_tema5_2_floats_2.pdf)
+
+* Problemes per dilluns 18 d'abril: 5.21.b, 5.21.d, 5.23.c, 5.27
+
 <!--
-* Tema 5. Problemes resolts: 5.21, 5.23, 5.25) [solucions](./problemes/tema5_5_21_5_23_5_25.pdf)
--->
 
+<hr>
 
+(PROPERA CLASSE) Sessió 18: dilluns 20 d'abril
 
+* **En aquesta classe els estudiants treballaran de forma autònoma en un examen de problemes però el professor mantidrà oberta una videoconferència per resoldre dubtes dins l'horari previst (de 8h a 10h) [Zoom](https://us04web.zoom.us/j/392317836).**
+
+* Tema 5. Aritmètica d'enters i coma flotant / Multiplicació i coma flotant a MIPS [slides](./slides/sessio17_2_tema5_3_floats_3.pdf)
+
+* Tema 5. Examen de problemes [enunciats](./problemes/expr5.pdf)
+
+ i [solucions](./problemes/expr5s.pdf) 
