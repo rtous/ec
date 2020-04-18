@@ -140,11 +140,11 @@ Sessió 17: dimecres 15 d'abril
 
 <hr>
 
-(PROPERA CLASSE) Sessió 18: dilluns 20 d'abril
+**(PROPERA CLASSE)** Sessió 18: dilluns 20 d'abril
 
 * **Aquesta classe es realitzarà per videoconferència dins l'horari previst (de 8h a 10h) i mitjançant [Zoom](https://us04web.zoom.us/j/392317836).**
 
-* Tema 5. Solució problemes encarregats 5.21.b, 5.21.d, 5.23.c, 5.27 [solucions](./problemes/tema5_5_21b_5_21d_5_23c_5_27.pdf)
+* Tema 5.  [Solucions problemes encarregats 5.21.b, 5.21.d, 5.23.c, 5.27](./problemes/tema5_5_21b_5_21d_5_23c_5_27.pdf)
 
 * Tema 5. Aritmètica d'enters i coma flotant / Multiplicació i coma flotant a MIPS [slides](./slides/sessio17_2_tema5_3_floats_3.pdf)
 
