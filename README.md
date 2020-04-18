@@ -126,7 +126,7 @@ Sessió 16: dimecres 1 d'abril (Zoom: https://us04web.zoom.us/j/392317836)
 
 <hr>
 
-(PROPERA CLASSE) Sessió 17: dimecres 15 d'abril
+Sessió 17: dimecres 15 d'abril
 
 * **Aquesta classe es realitzarà per videoconferència dins l'horari previst (de 8h a 10h) i mitjançant [Zoom](https://us04web.zoom.us/j/392317836).**
 
@@ -136,16 +136,52 @@ Sessió 16: dimecres 1 d'abril (Zoom: https://us04web.zoom.us/j/392317836)
 
 * Problemes per dilluns 18 d'abril: 5.21.b, 5.21.d, 5.23.c, 5.27
 
-<!--
+
 
 <hr>
 
 (PROPERA CLASSE) Sessió 18: dilluns 20 d'abril
 
-* **En aquesta classe els estudiants treballaran de forma autònoma en un examen de problemes però el professor mantidrà oberta una videoconferència per resoldre dubtes dins l'horari previst (de 8h a 10h) [Zoom](https://us04web.zoom.us/j/392317836).**
+* **Aquesta classe es realitzarà per videoconferència dins l'horari previst (de 8h a 10h) i mitjançant [Zoom](https://us04web.zoom.us/j/392317836).**
+
+* Tema 5. Solució problemes encarregats 5.21.b, 5.21.d, 5.23.c, 5.27 [solucions](./problemes/tema5_5_21b_5_21d_5_23c_5_27.pdf)
 
 * Tema 5. Aritmètica d'enters i coma flotant / Multiplicació i coma flotant a MIPS [slides](./slides/sessio17_2_tema5_3_floats_3.pdf)
+
+<!--
+
+ <hr>
+
+(PROPERA CLASSE) Sessió 19: dimecres 22 d'abril
+
+* **Aquesta classe es realitzarà per videoconferència dins l'horari previst (de 8h a 10h) i mitjançant [Zoom](https://us04web.zoom.us/j/392317836).**
+
+* Tema 6. Memòria cache / Introducció i disseny bàsic [slides](./slides/sessio19_1_tema6_1.pdf)
+
+ <hr>
+
+(PROPERA CLASSE) Sessió 20: dilluns 27 d'abril
+
+* **Aquest dilluns no hi haurà classe en directe. Se us proposa realitzar el següent examen de problemes del Tema 5, quan ho creieu més convenient (les solucions es publicaran dimarts): **
 
 * Tema 5. Examen de problemes [enunciats](./problemes/expr5.pdf)
 
  i [solucions](./problemes/expr5s.pdf) 
+
+ <hr>
+
+(PROPERA CLASSE) Sessió 21: dimecres 29 d'abril
+
+* Examen Parcial. Seguiu les instruccions de la convocatòria publicada al Racó.
+
+
+
+
+
+
+
+
+
+
+
+
