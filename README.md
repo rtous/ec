@@ -140,7 +140,7 @@ Sessió 17: dimecres 15 d'abril
 
 <hr>
 
-**(PROPERA CLASSE)** Sessió 18: dilluns 20 d'abril
+Sessió 18: dilluns 20 d'abril
 
 * **Aquesta classe es realitzarà per videoconferència dins l'horari previst (de 8h a 10h) i mitjançant [Zoom](https://us04web.zoom.us/j/392317836).**
 
@@ -150,7 +150,7 @@ Sessió 17: dimecres 15 d'abril
 
  <hr>
 
-(PROPERA CLASSE) Sessió 19: dimecres 22 d'abril
+**(PROPERA CLASSE)** Sessió 19: dimecres 22 d'abril
 
 * **Aquesta classe es realitzarà per videoconferència dins l'horari previst (de 8h a 10h) i mitjançant [Zoom](https://us04web.zoom.us/j/392317836).**
 
