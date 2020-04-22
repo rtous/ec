@@ -160,7 +160,7 @@ Sessió 19: dimecres 22 d'abril
 
 **(PROPERA CLASSE)** Sessió 20: dilluns 27 d'abril
 
-* **Aquest dilluns no hi haurà classe en directe. Se us proposa realitzar el següent examen de problemes del Tema 5, quan ho creieu més convenient: **
+* Aquest dilluns **no hi haurà classe en directe**. Se us proposa realitzar el següent examen de problemes del Tema 5, quan ho creieu més convenient: 
 
 * Tema 5. Examen de problemes [enunciats](./problemes/expr5.pdf) i [solucions](./problemes/expr5s.pdf) 
 
