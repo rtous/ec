@@ -150,23 +150,22 @@ Sessió 18: dilluns 20 d'abril
 
  <hr>
 
-**(PROPERA CLASSE)** Sessió 19: dimecres 22 d'abril
+Sessió 19: dimecres 22 d'abril
 
 * **Aquesta classe es realitzarà per videoconferència dins l'horari previst (de 8h a 10h) i mitjançant [Zoom](https://us04web.zoom.us/j/392317836).**
 
 * Tema 6. Memòria cache / Introducció i disseny bàsic [slides](./slides/sessio19_1_tema6_1.pdf)
 
-<!--
-
  <hr>
 
-(PROPERA CLASSE) Sessió 20: dilluns 27 d'abril
+**(PROPERA CLASSE)** Sessió 20: dilluns 27 d'abril
 
-* **Aquest dilluns no hi haurà classe en directe. Se us proposa realitzar el següent examen de problemes del Tema 5, quan ho creieu més convenient (les solucions es publicaran dimarts): **
+* **Aquest dilluns no hi haurà classe en directe. Se us proposa realitzar el següent examen de problemes del Tema 5, quan ho creieu més convenient: **
 
-* Tema 5. Examen de problemes [enunciats](./problemes/expr5.pdf)
+* Tema 5. Examen de problemes [enunciats](./problemes/expr5.pdf) i [solucions](./problemes/expr5s.pdf) 
 
- i [solucions](./problemes/expr5s.pdf) 
+ 
+<!--
 
  <hr>
 
