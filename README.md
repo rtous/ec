@@ -158,22 +158,19 @@ Sessió 19: dimecres 22 d'abril
 
  <hr>
 
-**(PROPERA CLASSE)** Sessió 20: dilluns 27 d'abril
+Sessió 20: dilluns 27 d'abril
 
 * Aquest dilluns **no hi haurà classe en directe**. Se us proposa realitzar el següent examen de problemes del Tema 5, quan ho creieu més convenient: 
 
 * Tema 5. Examen de problemes [enunciats](./problemes/expr5.pdf) i [solucions](./problemes/expr5s.pdf) 
 
- 
-<!--
-
  <hr>
 
-(PROPERA CLASSE) Sessió 21: dimecres 29 d'abril
+**(PROPERA CLASSE)** Sessió 21: dimecres 29 d'abril
 
 * Examen Parcial. Seguiu les instruccions de la convocatòria publicada al Racó.
 
-
+<!--
 
 
 
