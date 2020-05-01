@@ -166,12 +166,27 @@ Sessió 20: dilluns 27 d'abril
 
  <hr>
 
-**(PROPERA CLASSE)** Sessió 21: dimecres 29 d'abril
+Sessió 21: dimecres 29 d'abril
 
 * Examen Parcial. Seguiu les instruccions de la convocatòria publicada al Racó.
 
+ <hr>
+
+**(PROPERA CLASSE)** Sessió 22: dilluns 4 de maig
+
+* **Aquesta classe es realitzarà per videoconferència dins l'horari previst (de 8h a 10h) i mitjançant [Zoom](https://us04web.zoom.us/j/392317836).**
+
+* Tema 6. Memòria cache / Part 2: Gestió de les escriptures [slides](./slides/sessio22_1_tema6_2.pdf)
+
 <!--
 
+ <hr>
+
+ **(PROPERA CLASSE)** Sessió 23: dimecres 6 de maig
+
+* **Aquesta classe es realitzarà per videoconferència dins l'horari previst (de 8h a 10h) i mitjançant [Zoom](https://us04web.zoom.us/j/392317836).**
+
+* Tema 6. Memòria cache / Part 3: Model de temps i millores [slides](./slides/sessio23_1_tema6_3.pdf)
 
 
 
