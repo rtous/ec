@@ -119,7 +119,7 @@ Sessió 15: dilluns 30 de març (no hi ha classe presencial):
 
 Sessió 16: dimecres 1 d'abril (Zoom: https://us04web.zoom.us/j/392317836)
 
-* **Aquesta classe es realitzarà per videoconferència dins l'horari previst (de 8h a 10h) i mitjançant Zoom ([Avís al Racó](https://raco.fib.upc.edu/avisos/veure.jsp?espai=270006&id=106454)).**
+* Aquesta classe es realitzarà per videoconferència dins l'horari previst (de 8h a 10h) i mitjançant Zoom ([Avís al Racó](https://raco.fib.upc.edu/avisos/veure.jsp?espai=270006&id=106454)).
 
 * Tema 5. Aritmètica d'enters i coma flotant / 5.4 Representació 2/2 [slides](./slides/sessio16_1_tema5_2_floats_1.pdf)
 
@@ -128,7 +128,7 @@ Sessió 16: dimecres 1 d'abril (Zoom: https://us04web.zoom.us/j/392317836)
 
 Sessió 17: dimecres 15 d'abril
 
-* **Aquesta classe es realitzarà per videoconferència dins l'horari previst (de 8h a 10h) i mitjançant [Zoom](https://us04web.zoom.us/j/392317836).**
+* Aquesta classe es realitzarà per videoconferència dins l'horari previst (de 8h a 10h) i mitjançant [Zoom](https://us04web.zoom.us/j/392317836).
 
 * Tema 5. Aritmètica d'enters i coma flotant / 5.4 Representació 2/2 (continuació)
 
@@ -142,7 +142,7 @@ Sessió 17: dimecres 15 d'abril
 
 Sessió 18: dilluns 20 d'abril
 
-* **Aquesta classe es realitzarà per videoconferència dins l'horari previst (de 8h a 10h) i mitjançant [Zoom](https://us04web.zoom.us/j/392317836).**
+* Aquesta classe es realitzarà per videoconferència dins l'horari previst (de 8h a 10h) i mitjançant [Zoom](https://us04web.zoom.us/j/392317836).
 
 * Tema 5.  [Solucions problemes encarregats 5.21.b, 5.21.d, 5.23.c, 5.27](./problemes/tema5_5_21b_5_21d_5_23c_5_27.pdf)
 
@@ -152,7 +152,7 @@ Sessió 18: dilluns 20 d'abril
 
 Sessió 19: dimecres 22 d'abril
 
-* **Aquesta classe es realitzarà per videoconferència dins l'horari previst (de 8h a 10h) i mitjançant [Zoom](https://us04web.zoom.us/j/392317836).**
+* Aquesta classe es realitzarà per videoconferència dins l'horari previst (de 8h a 10h) i mitjançant [Zoom](https://us04web.zoom.us/j/392317836).
 
 * Tema 6. Memòria cache / Introducció i disseny bàsic [slides](./slides/sessio19_1_tema6_1.pdf)
 
@@ -174,7 +174,7 @@ Sessió 21: dimecres 29 d'abril
 
 **(PROPERA CLASSE)** Sessió 22: dilluns 4 de maig
 
-* **Aquesta classe es realitzarà per videoconferència dins l'horari previst (de 8h a 10h) i mitjançant [Zoom](https://us04web.zoom.us/j/392317836).**
+* Aquesta classe es realitzarà per videoconferència dins l'horari previst (de 8h a 10h) i mitjançant [Zoom](https://us04web.zoom.us/j/392317836).
 
 * Tema 6. Memòria cache / Part 2: Gestió de les escriptures [slides](./slides/sessio22_1_tema6_2.pdf)
 
@@ -184,7 +184,7 @@ Sessió 21: dimecres 29 d'abril
 
  **(PROPERA CLASSE)** Sessió 23: dimecres 6 de maig
 
-* **Aquesta classe es realitzarà per videoconferència dins l'horari previst (de 8h a 10h) i mitjançant [Zoom](https://us04web.zoom.us/j/392317836).**
+* Aquesta classe es realitzarà per videoconferència dins l'horari previst (de 8h a 10h) i mitjançant [Zoom](https://us04web.zoom.us/j/392317836).
 
 * Tema 6. Memòria cache / Part 3: Model de temps i millores [slides](./slides/sessio23_1_tema6_3.pdf)
 
