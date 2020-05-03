@@ -178,6 +178,8 @@ Sessió 21: dimecres 29 d'abril
 
 * Tema 6. Memòria cache / Part 2: Gestió de les escriptures [slides](./slides/sessio22_1_tema6_2.pdf)
 
+* Tema 6. Problemes resolts: 6.2
+
 <!--
 
  <hr>
@@ -187,6 +189,10 @@ Sessió 21: dimecres 29 d'abril
 * Aquesta classe es realitzarà per videoconferència dins l'horari previst (de 8h a 10h) i mitjançant [Zoom](https://us04web.zoom.us/j/392317836).
 
 * Tema 6. Memòria cache / Part 3: Model de temps i millores [slides](./slides/sessio23_1_tema6_3.pdf)
+
+* Tema 6. Problemes resolts: 6.10, 6.12
+
+* Problemes per dilluns 11 de maig: 6.11
 
 
 
