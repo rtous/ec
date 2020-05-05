@@ -190,7 +190,7 @@ Sessió 22: dilluns 4 de maig
 
 * Tema 6. Problemes resolts: 6.10
 
-* Problemes per dilluns 11 de maig: 6.11
+* Problemes per dilluns 11 de maig: 6.7, 6.11
 
 <!--
 
