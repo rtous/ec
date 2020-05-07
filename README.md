@@ -138,6 +138,7 @@ Sessió 17: dimecres 15 d'abril
 
 
 
+
 <hr>
 
 Sessió 18: dilluns 20 d'abril
@@ -182,7 +183,7 @@ Sessió 22: dilluns 4 de maig
 
  <hr>
 
- **(PROPERA CLASSE)** Sessió 23: dimecres 6 de maig
+Sessió 23: dimecres 6 de maig
 
 * Aquesta classe es realitzarà per videoconferència dins l'horari previst (de 8h a 10h) i mitjançant [Zoom](https://us04web.zoom.us/j/392317836).
 
@@ -192,8 +193,36 @@ Sessió 22: dilluns 4 de maig
 
 * Problemes per dilluns 11 de maig: 6.7, 6.11
 
+ <hr>
+
+**(PROPERA CLASSE)** Sessió 24: dilluns 11 de maig
+
+* Aquesta classe es realitzarà per videoconferència dins l'horari previst (de 8h a 10h) i mitjançant [Zoom](https://us04web.zoom.us/j/392317836).
+
+* Tema 6. Solució problemes encarregats 6.7, 6.11 [solucions](./problemes/tema6_6_7_6_11.pdf)
+
+* Tema 6. Examen de problemes [enunciats](./problemes/expr6.pdf) 
+
+<!-- i [solucions](./problemes/expr6s.pdf) -->
+
+<hr>
+
 <!--
 
+**(PROPERA CLASSE)** Sessió 23: dimecres 6 de maig
+
+* Aquesta classe es realitzarà per videoconferència dins l'horari previst (de 8h a 10h) i mitjançant [Zoom](https://us04web.zoom.us/j/392317836).
+
+* Tema 6. Solució problemes encarregats 6.7, 6.11 [solucions](./problemes/tema6_6_7_6_11.pdf)
+
+* Tema 6. Memòria cache / Part 3: Model de temps i millores [slides](./slides/sessio23_1_tema6_3.pdf)
+
+
+
+
+
+
+-->
 
 
 
