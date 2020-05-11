@@ -195,31 +195,61 @@ Sessió 23: dimecres 6 de maig
 
  <hr>
 
-**(PROPERA CLASSE)** Sessió 24: dilluns 11 de maig
+Sessió 24: dilluns 11 de maig
 
 * Aquesta classe es realitzarà per videoconferència dins l'horari previst (de 8h a 10h) i mitjançant [Zoom](https://us04web.zoom.us/j/392317836).
 
 * Tema 6. Solució problemes encarregats 6.7, 6.11 ([solucions](./problemes/tema6_6_7_6_11.pdf))
 
-* Tema 6. Examen de problemes ([enunciats](./problemes/expr6.pdf)) 
+* Tema 6. Examen de problemes ([enunciats](./problemes/expr6.pdf) i [solucions](./problemes/expr6s.pdf)) 
 
 <!-- i [solucions](./problemes/expr6s.pdf) -->
 
 <hr>
 
-<!--
 
-**(PROPERA CLASSE)** Sessió 23: dimecres 6 de maig
+**(PROPERA CLASSE)** Sessió 25: dimecres 13 de maig
 
 * Aquesta classe es realitzarà per videoconferència dins l'horari previst (de 8h a 10h) i mitjançant [Zoom](https://us04web.zoom.us/j/392317836).
 
-* Tema 6. Solució problemes encarregats 6.7, 6.11 [solucions](./problemes/tema6_6_7_6_11.pdf)
-
-* Tema 6. Memòria cache / Part 3: Model de temps i millores [slides](./slides/sessio23_1_tema6_3.pdf)
+* Tema 6. Examen de problemes 2 ([enunciats](./problemes/expr6_2.pdf)) 
 
 
+<!--
 
+<hr>
 
+**(PROPERA CLASSE)** Sessió 26: dilluns 18 de maig
+
+* Aquesta classe es realitzarà per videoconferència dins l'horari previst (de 8h a 10h) i mitjançant [Zoom](https://us04web.zoom.us/j/392317836).
+
+* Tema 7.  Memòria virtual [slides](./slides/sessio26_1_tema7.pdf)
+
+<hr>
+
+**(PROPERA CLASSE)** Sessió 27: dimecres 20 de maig
+
+* Aquesta classe es realitzarà per videoconferència dins l'horari previst (de 8h a 10h) i mitjançant [Zoom](https://us04web.zoom.us/j/392317836).
+
+* Tema 7.  Memòria virtual 
+
+* Tema 7. Problemes resolts: ?????
+
+<hr>
+
+**(PROPERA CLASSE)** Sessió 28: dilluns 25 de maig
+
+* Aquesta classe es realitzarà per videoconferència dins l'horari previst (de 8h a 10h) i mitjançant [Zoom](https://us04web.zoom.us/j/392317836).
+
+* Tema 7. Examen de problemes ([enunciats](./problemes/expr7.pdf)) 
+
+<hr>
+
+**(PROPERA CLASSE)** Sessió 29: dimecres 27 de maig
+
+* Aquesta classe es realitzarà per videoconferència dins l'horari previst (de 8h a 10h) i mitjançant [Zoom](https://us04web.zoom.us/j/392317836).
+
+* Tema 7. ???
 
 
 -->
