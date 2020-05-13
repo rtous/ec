@@ -207,13 +207,11 @@ Sessió 24: dilluns 11 de maig
 
 <hr>
 
-
-**(PROPERA CLASSE)** Sessió 25: dimecres 13 de maig
+Sessió 25: dimecres 13 de maig
 
 * Aquesta classe es realitzarà per videoconferència dins l'horari previst (de 8h a 10h) i mitjançant [Zoom](https://us04web.zoom.us/j/392317836).
 
-* Tema 6. Examen de problemes 2 ([enunciats](./problemes/expr6_2.pdf)) 
-
+* Tema 6. Examen de problemes 2 ([enunciats](./problemes/expr6_2.pdf) i [solucions](./problemes/expr6_2s.pdf)) 
 
 <!--
 
@@ -224,6 +222,8 @@ Sessió 24: dilluns 11 de maig
 * Aquesta classe es realitzarà per videoconferència dins l'horari previst (de 8h a 10h) i mitjançant [Zoom](https://us04web.zoom.us/j/392317836).
 
 * Tema 7.  Memòria virtual [slides](./slides/sessio26_1_tema7.pdf)
+
+
 
 <hr>
 
@@ -250,6 +250,13 @@ Sessió 24: dilluns 11 de maig
 * Aquesta classe es realitzarà per videoconferència dins l'horari previst (de 8h a 10h) i mitjançant [Zoom](https://us04web.zoom.us/j/392317836).
 
 * Tema 7. ???
+
+
+
+
+* Aquesta classe es realitzarà per videoconferència dins l'horari previst (de 8h a 10h) i mitjançant [Zoom](https://us02web.zoom.us/j/81231578582?pwd=NFFjTG8vZVVsem96OFhieEZzc2pXUT09):
+	* Meeting ID: 812 3157 8582
+	* Password: el mateix de la web d'EC
 
 
 -->
