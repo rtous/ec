@@ -216,7 +216,7 @@ Sessió 25: dimecres 13 de maig
 
 <hr>
 
-**(PROPERA CLASSE)** Sessió 26: dilluns 18 de maig
+Sessió 26: dilluns 18 de maig
 
 * Aquesta classe es realitzarà per videoconferència dins l'horari previst (de 8h a 10h) i mitjançant [Zoom](https://us04web.zoom.us/j/392317836).
 
@@ -224,7 +224,6 @@ Sessió 25: dimecres 13 de maig
 
 * Tema 7. Problemes resolts: 7.1, 7.4
 
-<!--
 
 <hr>
 
@@ -235,6 +234,8 @@ Sessió 25: dimecres 13 de maig
 * Tema 7. Memòria virtual (TLB, protecció i compartició)
 
 * Tema 7. Problemes resolts: 7.6
+
+<!--
 
 <hr>
 
