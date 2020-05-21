@@ -222,20 +222,18 @@ Sessió 26: dilluns 18 de maig
 
 * Tema 7. Memòria virtual [slides](./slides/sessio26_1_tema7_1.pdf)
 
-* Tema 7. Problemes resolts: 7.1, 7.4
+* Tema 7. Problemes resolts: 7.1, 7.4 [solucions](./problemes/tema7_7_4.pdf)
 
 
 <hr>
 
-**(PROPERA CLASSE)** Sessió 27: dimecres 20 de maig
+Sessió 27: dimecres 20 de maig
 
 * Aquesta classe es realitzarà per videoconferència dins l'horari previst (de 8h a 10h) i mitjançant [Zoom](https://us04web.zoom.us/j/392317836).
 
 * Tema 7. Memòria virtual (TLB, protecció i compartició)
 
-* Tema 7. Problemes resolts: 7.6
-
-<!--
+* Tema 7. Problemes resolts: 7.6 [solucions](./problemes/tema7_7_6.pdf)
 
 <hr>
 
@@ -246,6 +244,8 @@ Sessió 26: dilluns 18 de maig
 * Tema 7. Examen de problemes ([enunciats](./problemes/expr7.pdf)) 
 
 <hr>
+
+<!--
 
 **(PROPERA CLASSE)** Sessió 29: dimecres 27 de maig
 
