@@ -137,8 +137,6 @@ Sessió 17: dimecres 15 d'abril
 * Problemes per dilluns 20 d'abril: 5.21.b, 5.21.d, 5.23.c, 5.27
 
 
-
-
 <hr>
 
 Sessió 18: dilluns 20 d'abril
@@ -237,32 +235,17 @@ Sessió 27: dimecres 20 de maig
 
 <hr>
 
-**(PROPERA CLASSE)** Sessió 28: dilluns 25 de maig
+Sessió 28: dilluns 25 de maig
 
 * Aquesta classe es realitzarà per videoconferència dins l'horari previst (de 8h a 10h) i mitjançant [Zoom](https://us04web.zoom.us/j/392317836).
 
-* Tema 7. Examen de problemes ([enunciats](./problemes/expr7.pdf)) 
+* Tema 7. Examen de problemes ([enunciats](./problemes/expr7.pdf) i [solucions](./problemes/expr7s2.pdf)) 
+
+* Tema 7. Problemes resolts: 7.2 i 7.7 [solucions](./problemes/tema7_7_2_7_7.pdf)
 
 <hr>
 
-<!--
-
-**(PROPERA CLASSE)** Sessió 29: dimecres 27 de maig
-
-* Aquesta classe es realitzarà per videoconferència dins l'horari previst (de 8h a 10h) i mitjançant [Zoom](https://us04web.zoom.us/j/392317836).
-
-* Tema 7. ???
-
-
-
-
-* Aquesta classe es realitzarà per videoconferència dins l'horari previst (de 8h a 10h) i mitjançant [Zoom](https://us02web.zoom.us/j/81231578582?pwd=NFFjTG8vZVVsem96OFhieEZzc2pXUT09):
-	* Meeting ID: 812 3157 8582
-	* Password: el mateix de la web d'EC
-
-
--->
-
+** Dimecres 27 de maig NO HI HAURÀ CLASSE **
 
 
 
