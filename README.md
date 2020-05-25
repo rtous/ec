@@ -245,7 +245,7 @@ Sessió 28: dilluns 25 de maig
 
 <hr>
 
-** Dimecres 27 de maig NO HI HAURÀ CLASSE **
+**Dimecres 27 de maig NO HI HAURÀ CLASSE**
 
 
 
