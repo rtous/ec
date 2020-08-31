@@ -1,6 +1,8 @@
 # EC: Estructura de Computadors (material professor R. Tous)
 ## Materials sessions
 
+<!--
+
 Sessió 1: dilluns 10 de febrer:
 
 * Presentació [slides](./slides/sessio1_1_presentacio.pdf)
@@ -58,7 +60,6 @@ Sessió 8: dimecres 4 de març:
 Sessió 9: dilluns 9 de març:
 
 * Tema 3. Examen de problemes [enunciats](./problemes/expr3.pdf) 
-<!--i [solucions](./problemes/expr3s.pdf)-->
 
 <hr>
 
@@ -92,7 +93,6 @@ Sessió 13: dilluns 23 de març (no hi ha classe presencial):
 
 * Tema 1. Examen de problemes [enunciats](./problemes/expr1.pdf) i [solucions](./problemes/expr1s.pdf)
 
-<!--(les solucions a l'examen de problemes es publicaran dilluns per la tarda) -->
 
 <hr>
 
@@ -201,8 +201,6 @@ Sessió 24: dilluns 11 de maig
 
 * Tema 6. Examen de problemes ([enunciats](./problemes/expr6.pdf) i [solucions](./problemes/expr6s.pdf)) 
 
-<!-- i [solucions](./problemes/expr6s.pdf) -->
-
 <hr>
 
 Sessió 25: dimecres 13 de maig
@@ -247,6 +245,7 @@ Sessió 28: dilluns 25 de maig
 
 **Dimecres 27 de maig NO HI HAURÀ CLASSE**
 
+-->
 
 
 
