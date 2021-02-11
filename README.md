@@ -6,9 +6,9 @@
 
 Sessió 1: dimecres 17 de febrer
 
-* Presentació [slides](./slides/sessio1_1_presentacio.pdf)
+* Presentació [(slides)](./slides/sessio1_1_presentacio.pdf)
 
-* Tema 2. Instruccions i tipus de dades bàsics / Introducció [slides](./slides/sessio1_2_tema2_intro.pdf)
+* Tema 2. Instruccions i tipus de dades bàsics / Introducció [(slides)](./slides/sessio1_2_tema2_intro.pdf)
 
 <!--
 
