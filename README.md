@@ -2,22 +2,25 @@
 ## Materials sessions
 
 <!--
+* Aquesta classe es realitzarà per videoconferència dins l'horari previst (de 12h a 14h) i mitjançant [Google Meet](???????).-->
 
-Sessió 1: dilluns 10 de febrer:
+Sessió 1: dimecres 17 de febrer
 
 * Presentació [slides](./slides/sessio1_1_presentacio.pdf)
 
 * Tema 2. Instruccions i tipus de dades bàsics / Introducció [slides](./slides/sessio1_2_tema2_intro.pdf)
 
+<!--
+
 <hr>
 
-Sessió 2: dimecres 12 de febrer:
+Sessió 2: divendres 19 de febrer
 
 * Tema 2. Instruccions i tipus de dades bàsics / Assemblador [slides](./slides/sessio2_1_tema2_assemblador.pdf)
 
 <hr>
 
-Sessió 3: dilluns 17 de febrer:
+Sessió 3: dimecres 24 de febrer
 
 * Tema 2. Instruccions i tipus de dades bàsics / Repàs naturals i enters [slides](./slides/sessio3_1_tema2_enters.pdf)
 
@@ -25,53 +28,48 @@ Sessió 3: dilluns 17 de febrer:
 
 <hr>
 
-Sessió 4: dimecres 19 de febrer:
+Sessió 4: divendres 26 de febrer
 
 * Tema 2. Instruccions i tipus de dades bàsics / punters [slides](./slides/sessio4_1_tema2_punters.pdf)
 
 <hr>
 
-Sessió 5: dilluns 24 de febrer:
+Sessió 5: dimecres 3 de març
 
 * Tema 2. Examen de problemes [enunciats](./problemes/expr2_extended.pdf) i [solucions](./problemes/expr2s_extended.pdf)
 
 <hr>
 
-Sessió 6: dimecres 26 de febrer:
+Sessió 6: divendres 5 de març
 
 * Tema 3. Traducció de programes / bitwise, condicions, if-then-else [slides](./slides/sessio6_1_tema3_condicionals.pdf)
 
+* Tema 3. Traducció de programes / switch i bucles [slides](./slides/sessio7_1_tema3_switch_i_bucles.pdf)
+
 <hr>
 
-Sessió 7: dilluns 2 de març:
-
-* Tema 3. Traducció de programes / switch i bucles [slides](./slides/sessio7_1_tema3_switch_i_bucles.pdf)
+Sessió 7: dimecres 10 de març
 
 * Tema 3. Traducció de programes / subrutines [slides](./slides/sessio7_2_tema3_subrutines.pdf)
 
 <hr>
 
-Sessió 8: dimecres 4 de març:
-
-* Tema 3. Traducció de programes / subrutines
-
-<hr>
-
-Sessió 9: dilluns 9 de març:
+Sessió 8: divendres 12 de març
 
 * Tema 3. Examen de problemes [enunciats](./problemes/expr3.pdf) 
 
+* Tema 3. Estructura de la memòria, compilació, assemblatge, enllaçat i càrrega [slides](./slides/sessio9_1_tema3_mem_i_compilacio.pdf)
+
 <hr>
 
-Sessió 10: dimecres 11 de març:
-
-* Tema 3. Estructura de la memòria, compilació, assemblatge, enllaçat i càrrega [slides](./slides/sessio9_1_tema3_mem_i_compilacio.pdf)
+Sessió 9: dimecres 17 de març
 
 * Tema 4. Matrius [slides](./slides/sessio9_2_tema4_matrius1.pdf)
 
+
 <hr>
 
-Sessió 11: dilluns 16 de març (no hi ha classe presencial):
+Sessió 10: divendres 19 de març
 
 * Tema 4. Matrius / accés seqüencial 
 
@@ -79,35 +77,28 @@ Sessió 11: dilluns 16 de març (no hi ha classe presencial):
 
 <hr>
 
-Sessió 12: dimecres 18 de març (no hi ha classe presencial):
+Sessió 11: dimecres 24 de març
 
 * Tema 1. Rendiment i consum [slides](./slides/sessio11_1_tema1_rendiment.pdf)
 
-* Problemes per dilluns 23 de març: 4.2, 4.9, 1.7, 1.11
+* Problemes per dimecres 7 d'abril: 4.2, 4.9, 1.7, 1.11
 
 <hr>
 
-Sessió 13: dilluns 23 de març (no hi ha classe presencial):
+Sessió 12: divendres 26 de març
 
 * Tema 1. Solució problemes encarregats [solucions](./problemes/tema1_4_2_4_9_1_7_1_11.pdf)
-
-* Tema 1. Examen de problemes [enunciats](./problemes/expr1.pdf) i [solucions](./problemes/expr1s.pdf)
-
-
-<hr>
-
-Sessió 14: dimecres 25 de març (no hi ha classe presencial):
 
 * Tema 5. Aritmètica d'enters i coma flotant / 5.1-5.3 Aritmètica d'enters
     * [apunts](http://docencia.ac.upc.edu/FIB/grau/EC/privat/TeoriaEC-tema5.pdf)
     * [vídeo 1: multiplicador](https://www.youtube.com/watch?v=d-LYzUcRK1w&t=365s)
     * [vídeo 2: divisor](https://www.youtube.com/watch?v=oWHNRd7dGP4&t=1209s)
 
-* Problemes per dilluns 30 de març: 5.6, 5.7, 5.11.a, 5.15.b
+* Problemes per dimecres 14 d'abril: 5.6, 5.7, 5.11.a, 5.15.b
 
 <hr>
 
-Sessió 15: dilluns 30 de març (no hi ha classe presencial):
+Sessió 13: dimecres 7 d'abril
 
 * Tema 5. Solució problemes encarregats [solucions](./problemes/tema5_5_6_5_7_5_11a_5_15b.pdf)
 
@@ -115,20 +106,16 @@ Sessió 15: dilluns 30 de març (no hi ha classe presencial):
     * [vídeo 1: coma fixa](https://www.youtube.com/watch?v=zsGChigW4Fs) 
     * [vídeo 2: IEEE 754](https://www.youtube.com/watch?v=QrfAShP95I4)
 
+
 <hr>
 
-Sessió 16: dimecres 1 d'abril (Zoom: https://us04web.zoom.us/j/392317836)
-
-* Aquesta classe es realitzarà per videoconferència dins l'horari previst (de 8h a 10h) i mitjançant Zoom ([Avís al Racó](https://raco.fib.upc.edu/avisos/veure.jsp?espai=270006&id=106454)).
+Sessió 14: divendres 9 d'abril
 
 * Tema 5. Aritmètica d'enters i coma flotant / 5.4 Representació 2/2 [slides](./slides/sessio16_1_tema5_2_floats_1.pdf)
 
-
 <hr>
 
-Sessió 17: dimecres 15 d'abril
-
-* Aquesta classe es realitzarà per videoconferència dins l'horari previst (de 8h a 10h) i mitjançant [Zoom](https://us04web.zoom.us/j/392317836).
+Sessió 15: dimecres 14 d'abril
 
 * Tema 5. Aritmètica d'enters i coma flotant / 5.4 Representació 2/2 (continuació)
 
@@ -136,44 +123,40 @@ Sessió 17: dimecres 15 d'abril
 
 * Problemes per dilluns 20 d'abril: 5.21.b, 5.21.d, 5.23.c, 5.27
 
-
 <hr>
 
-Sessió 18: dilluns 20 d'abril
-
-* Aquesta classe es realitzarà per videoconferència dins l'horari previst (de 8h a 10h) i mitjançant [Zoom](https://us04web.zoom.us/j/392317836).
+Sessió 16: divenres 16 d'abril
 
 * Tema 5.  [Solucions problemes encarregats 5.21.b, 5.21.d, 5.23.c, 5.27](./problemes/tema5_5_21b_5_21d_5_23c_5_27.pdf)
 
 * Tema 5. Aritmètica d'enters i coma flotant / Multiplicació i coma flotant a MIPS [slides](./slides/sessio17_2_tema5_3_floats_3.pdf)
 
- <hr>
+-->
 
-Sessió 19: dimecres 22 d'abril
+<hr>
 
-* Aquesta classe es realitzarà per videoconferència dins l'horari previst (de 8h a 10h) i mitjançant [Zoom](https://us04web.zoom.us/j/392317836).
-
-* Tema 6. Memòria cache / Introducció i disseny bàsic [slides](./slides/sessio19_1_tema6_1.pdf)
-
- <hr>
-
-Sessió 20: dilluns 27 d'abril
-
-* Aquest dilluns **no hi haurà classe en directe**. Se us proposa realitzar el següent examen de problemes del Tema 5, quan ho creieu més convenient: 
-
-* Tema 5. Examen de problemes [enunciats](./problemes/expr5.pdf) i [solucions](./problemes/expr5s.pdf) 
-
- <hr>
-
-Sessió 21: dimecres 29 d'abril
+EXAMEN PARCIAL: dimarts 20 d'abril
 
 * Examen Parcial. Seguiu les instruccions de la convocatòria publicada al Racó.
 
+<!--
+
+<hr>
+
+Sessió 17: dimecres 21 d'abril
+
+* Tema 6. Memòria cache / Introducció i disseny bàsic [slides](./slides/sessio19_1_tema6_1.pdf)
+
+
+<hr>
+
+Sessió 18: divendres 23 d'abril
+
+* Tema 5. Examen de problemes [enunciats](./problemes/expr5.pdf) i [solucions](./problemes/expr5s.pdf)
+
  <hr>
 
-Sessió 22: dilluns 4 de maig
-
-* Aquesta classe es realitzarà per videoconferència dins l'horari previst (de 8h a 10h) i mitjançant [Zoom](https://us04web.zoom.us/j/392317836).
+Sessió 19: dimecres 28 d'abril
 
 * Tema 6. Memòria cache / Part 2: Gestió de les escriptures [slides](./slides/sessio22_1_tema6_2.pdf)
 
@@ -181,51 +164,36 @@ Sessió 22: dilluns 4 de maig
 
  <hr>
 
-Sessió 23: dimecres 6 de maig
+Sessió 20: divendres 30 d'abril
 
-* Aquesta classe es realitzarà per videoconferència dins l'horari previst (de 8h a 10h) i mitjançant [Zoom](https://us04web.zoom.us/j/392317836).
-
-* Tema 6. Memòria cache / Part 3: Model de temps i millores [slides](./slides/sessio23_1_tema6_3.pdf)
+ * Tema 6. Memòria cache / Part 3: Model de temps i millores [slides](./slides/sessio23_1_tema6_3.pdf)
 
 * Tema 6. Problemes resolts: 6.10
 
-* Problemes per dilluns 11 de maig: 6.7, 6.11
+* Problemes per dimecres 12 de maig: 6.7, 6.11
 
  <hr>
 
-Sessió 24: dilluns 11 de maig
-
-* Aquesta classe es realitzarà per videoconferència dins l'horari previst (de 8h a 10h) i mitjançant [Zoom](https://us04web.zoom.us/j/392317836).
+Sessió 21: dimecres 12 de maig
 
 * Tema 6. Solució problemes encarregats 6.7, 6.11 ([solucions](./problemes/tema6_6_7_6_11.pdf))
 
 * Tema 6. Examen de problemes ([enunciats](./problemes/expr6.pdf) i [solucions](./problemes/expr6s.pdf)) 
 
-<hr>
+NO:
+	* Tema 6. Examen de problemes 2 ([enunciats](./problemes/expr6_2.pdf) i [solucions](./problemes/expr6_2s.pdf)) 
 
-Sessió 25: dimecres 13 de maig
+ <hr>
 
-* Aquesta classe es realitzarà per videoconferència dins l'horari previst (de 8h a 10h) i mitjançant [Zoom](https://us04web.zoom.us/j/392317836).
-
-* Tema 6. Examen de problemes 2 ([enunciats](./problemes/expr6_2.pdf) i [solucions](./problemes/expr6_2s.pdf)) 
-
-
-<hr>
-
-Sessió 26: dilluns 18 de maig
-
-* Aquesta classe es realitzarà per videoconferència dins l'horari previst (de 8h a 10h) i mitjançant [Zoom](https://us04web.zoom.us/j/392317836).
+Sessió 22: divendres 14 de maig
 
 * Tema 7. Memòria virtual [slides](./slides/sessio26_1_tema7_1.pdf)
 
 * Tema 7. Problemes resolts: 7.1, 7.4 [solucions](./problemes/tema7_7_4.pdf)
 
+ <hr>
 
-<hr>
-
-Sessió 27: dimecres 20 de maig
-
-* Aquesta classe es realitzarà per videoconferència dins l'horari previst (de 8h a 10h) i mitjançant [Zoom](https://us04web.zoom.us/j/392317836).
+Sessió 23: dimecres 19 de maig
 
 * Tema 7. Memòria virtual (TLB, protecció i compartició)
 
@@ -233,9 +201,7 @@ Sessió 27: dimecres 20 de maig
 
 <hr>
 
-Sessió 28: dilluns 25 de maig
-
-* Aquesta classe es realitzarà per videoconferència dins l'horari previst (de 8h a 10h) i mitjançant [Zoom](https://us04web.zoom.us/j/392317836).
+Sessió 24: divendres 21 de maig
 
 * Tema 7. Examen de problemes ([enunciats](./problemes/expr7.pdf) i [solucions](./problemes/expr7s2.pdf)) 
 
@@ -243,7 +209,15 @@ Sessió 28: dilluns 25 de maig
 
 <hr>
 
-**Dimecres 27 de maig NO HI HAURÀ CLASSE**
+Sessió 26: dimecres 26 de maig
+
+* Tema 8.
+
+<hr>
+
+Sessió 27: divendres 28 de maig
+
+* Tema 8.
 
 -->
 
