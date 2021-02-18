@@ -10,13 +10,13 @@ Sessió 1: dimecres 17 de febrer
 
 * Tema 2. Instruccions i tipus de dades bàsics / Introducció [(slides)](./slides/sessio1_2_tema2_intro.pdf)
 
-<!--
-
 <hr>
 
 Sessió 2: divendres 19 de febrer
 
 * Tema 2. Instruccions i tipus de dades bàsics / Assemblador [slides](./slides/sessio2_1_tema2_assemblador.pdf)
+
+<!--
 
 <hr>
 
