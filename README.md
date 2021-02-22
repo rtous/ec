@@ -16,8 +16,6 @@ Sessió 2: divendres 19 de febrer
 
 * Tema 2. Instruccions i tipus de dades bàsics / Assemblador [slides](./slides/sessio2_1_tema2_assemblador.pdf)
 
-<!--
-
 <hr>
 
 Sessió 3: dimecres 24 de febrer
@@ -25,6 +23,8 @@ Sessió 3: dimecres 24 de febrer
 * Tema 2. Instruccions i tipus de dades bàsics / Repàs naturals i enters [slides](./slides/sessio3_1_tema2_enters.pdf)
 
 * Tema 2. Instruccions i tipus de dades bàsics / ASCII, format instruccions, vectors [slides](./slides/sessio3_2_tema2_ascii_instr_vectors.pdf)
+
+<!--
 
 <hr>
 
