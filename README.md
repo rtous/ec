@@ -102,7 +102,7 @@ Sessió 13: dimecres 7 d'abril
 
 * Tema 5. Solució problemes encarregats [solucions](./problemes/tema5_5_6_5_7_5_11a_5_15b.pdf)
 
-* Tema 5. Aritmètica d'enters i coma flotant / 5.4 Representació 1/2
+* Tema 5. Aritmètica d'enters i coma flotant / 5.4 Representació 1/2 [slides](./slides/sessio16_1_tema5_2_floats_1.pdf)
     * [vídeo 1: coma fixa](https://www.youtube.com/watch?v=zsGChigW4Fs) 
     * [vídeo 2: IEEE 754](https://www.youtube.com/watch?v=QrfAShP95I4)
 
