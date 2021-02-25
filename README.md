@@ -32,9 +32,13 @@ Sessió 4: divendres 26 de febrer
 
 * Tema 2. Instruccions i tipus de dades bàsics / punters [slides](./slides/sessio4_1_tema2_punters.pdf)
 
+* Tema 2. Problemes per dimecres 3 de març: 2.6, 2.22, 2.23.a
+
 <hr>
 
 Sessió 5: dimecres 3 de març
+
+* Tema 2. Solució problemes encarregats [solucions](./problemes/tema1_2_6_2_22_2_23_a.pdf)
 
 * Tema 2. Examen de problemes [enunciats](./problemes/expr2_extended.pdf) i [solucions](./problemes/expr2s_extended.pdf)
 
