@@ -24,15 +24,27 @@ Sessió 3: dimecres 24 de febrer
 
 * Tema 2. Instruccions i tipus de dades bàsics / ASCII, format instruccions, vectors [slides](./slides/sessio3_2_tema2_ascii_instr_vectors.pdf)
 
-<!--
+* Tema 2. Problemes resolts: 2.3
+
+* Tema 2. Instruccions i tipus de dades bàsics / punters 1/2 [slides](./slides/sessio4_1_tema2_punters.pdf)
+
+* Tema 2. Problemes per 26 de febrer: 2.6 (memòria)
 
 <hr>
 
 Sessió 4: divendres 26 de febrer
 
-* Tema 2. Instruccions i tipus de dades bàsics / punters [slides](./slides/sessio4_1_tema2_punters.pdf)
+* Tema 2. Solució problemes encarregats: 2.6 (memòria)
 
-* Tema 2. Problemes per dimecres 3 de març: 2.6, 2.22, 2.23.a
+* Tema 2. Problemes resolts: 2.32.b (vectors)
+
+* Tema 2. Instruccions i tipus de dades bàsics / punters 2/2 [slides](./slides/sessio4_1_tema2_punters.pdf)
+
+* Tema 2. Problemes resolts: 2.26, 2.30, 2.27 (punters)
+
+* Tema 2. Problemes per dimecres 3 de març: 2.22, 2.23.a, 2.32.a, 2.31 
+
+<!--
 
 <hr>
 
