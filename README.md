@@ -50,7 +50,7 @@ Sessió 4: divendres 26 de febrer
 
 Sessió 5: dimecres 3 de març
 
-* Tema 2. Solució problemes encarregats [solucions](./problemes/tema1_2_6_2_22_2_23_a.pdf)
+* Tema 2. Solució problemes encarregats: 2.22, 2.23.c, 2.31 [solucions](./problemes/tema2_2_22_2_23c_2_31.pdf)
 
 * Tema 2. Examen de problemes [enunciats](./problemes/expr2_extended.pdf) i [solucions](./problemes/expr2s_extended.pdf)
 
@@ -61,6 +61,8 @@ Sessió 6: divendres 5 de març
 * Tema 3. Traducció de programes / bitwise, condicions, if-then-else [slides](./slides/sessio6_1_tema3_condicionals.pdf)
 
 * Tema 3. Traducció de programes / switch i bucles [slides](./slides/sessio7_1_tema3_switch_i_bucles.pdf)
+
+* Problemes per dimecres 10 de març: ????
 
 <hr>
 
@@ -76,12 +78,13 @@ Sessió 8: divendres 12 de març
 
 * Tema 3. Estructura de la memòria, compilació, assemblatge, enllaçat i càrrega [slides](./slides/sessio9_1_tema3_mem_i_compilacio.pdf)
 
+* Problemes per dimecres 17 de març: ????
+
 <hr>
 
 Sessió 9: dimecres 17 de març
 
 * Tema 4. Matrius [slides](./slides/sessio9_2_tema4_matrius1.pdf)
-
 
 <hr>
 
