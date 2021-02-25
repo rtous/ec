@@ -36,7 +36,7 @@ Sessió 4: divendres 26 de febrer
 
 * Tema 2. Solució problemes encarregats: 2.6 (memòria)
 
-* Tema 2. Problemes resolts: 2.32.b (vectors)
+* Tema 2. Problemes resolts: 2.32.d (vectors)
 
 * Tema 2. Instruccions i tipus de dades bàsics / punters 2/2 [slides](./slides/sessio4_1_tema2_punters.pdf)
 
