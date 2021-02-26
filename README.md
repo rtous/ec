@@ -1,4 +1,10 @@
 # EC: Estructura de Computadors (material professor R. Tous)
+
+## Seguiment online
+
+Quan sigui possible, les classes també es podran seguir via Google Meet a l'enllaç: [http://meet.google.com/ati-zmnz-ddj](meet.google.com/ati-zmnz-ddj)
+
+
 ## Materials sessions
 
 <!--
