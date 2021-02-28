@@ -48,7 +48,7 @@ Sessió 4: divendres 26 de febrer
 
 * Tema 2. Problemes resolts: 2.26, 2.30, 2.27 (punters)
 
-* Tema 2. Problemes per dimecres 3 de març: 2.22, 2.23.c, 2.31 
+* Tema 2. Problemes per dimecres 3 de març: 2.22, 2.32.c, 2.31 
 
 <!--
 
