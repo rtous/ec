@@ -4,6 +4,9 @@
 
 Quan sigui possible, les classes també es podran seguir via Google Meet a l'enllaç: [http://meet.google.com/ati-zmnz-ddj](http://meet.google.com/ati-zmnz-ddj)
 
+## Lliurament problemes
+
+**(NOU)** S'ha creat una entrada a Atenea per que pugueu realitzar el lliurament dels problemes.
 
 ## Materials sessions
 
