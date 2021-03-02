@@ -56,7 +56,7 @@ Sessió 4: divendres 26 de febrer
 
 Sessió 5: dimecres 3 de març
 
-* Tema 2. Solució problemes encarregats: 2.22, 2.23.c, 2.31 [solucions](./problemes/tema2_2_22_2_23c_2_31.pdf)
+* Tema 2. Solució problemes encarregats: 2.22, 2.32.c, 2.31
 
 * Tema 2. Examen de problemes [enunciats](./problemes/expr2_extended.pdf) i [solucions](./problemes/expr2s_extended.pdf)
 
