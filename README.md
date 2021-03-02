@@ -159,7 +159,7 @@ Sessió 16: divenres 16 d'abril
 
 * Tema 5. Aritmètica d'enters i coma flotant / Multiplicació i coma flotant a MIPS [slides](./slides/sessio17_2_tema5_3_floats_3.pdf)
 
--->
+
 
 <hr>
 
@@ -167,7 +167,7 @@ EXAMEN PARCIAL: dimarts 20 d'abril
 
 * Examen Parcial. Seguiu les instruccions de la convocatòria publicada al Racó.
 
-<!--
+
 
 <hr>
 
