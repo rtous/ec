@@ -61,13 +61,8 @@ Sessió 5: dimecres 3 de març
 
 * Tema 2. Solució problemes encarregats: 2.22, 2.32.c, 2.31
 
-* Tema 2. Examen de problemes [enunciats](./problemes/expr2_extended.pdf) 
-
-* Tema 3. Traducció de programes / bitwise, condicions, if-then-else [slides](./slides/sessio6_1_tema3_condicionals.pdf)
-
-<!--
-
 * Tema 2. Examen de problemes [enunciats](./problemes/expr2_extended.pdf) i [solucions](./problemes/expr2s_extended.pdf)
+
 
 <hr>
 
@@ -77,7 +72,9 @@ Sessió 6: divendres 5 de març
 
 * Tema 3. Traducció de programes / switch i bucles [slides](./slides/sessio7_1_tema3_switch_i_bucles.pdf)
 
-* Problemes per dimecres 10 de març: ????
+* Problemes per dimecres 10 de març: 3.5.a, 3.9
+
+<!--
 
 <hr>
 
