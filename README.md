@@ -53,13 +53,19 @@ Sessió 4: divendres 26 de febrer
 
 * Tema 2. Problemes per dimecres 3 de març: 2.22, 2.32.c, 2.31 
 
-<!--
+
 
 <hr>
 
 Sessió 5: dimecres 3 de març
 
 * Tema 2. Solució problemes encarregats: 2.22, 2.32.c, 2.31
+
+* Tema 2. Examen de problemes [enunciats](./problemes/expr2_extended.pdf) 
+
+* Tema 3. Traducció de programes / bitwise, condicions, if-then-else [slides](./slides/sessio6_1_tema3_condicionals.pdf)
+
+<!--
 
 * Tema 2. Examen de problemes [enunciats](./problemes/expr2_extended.pdf) i [solucions](./problemes/expr2s_extended.pdf)
 
