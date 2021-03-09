@@ -54,7 +54,6 @@ Sessió 4: divendres 26 de febrer
 * Tema 2. Problemes per dimecres 3 de març: 2.22, 2.32.c, 2.31 
 
 
-
 <hr>
 
 Sessió 5: dimecres 3 de març
@@ -74,13 +73,16 @@ Sessió 6: divendres 5 de març
 
 * Problemes per dimecres 10 de març: 3.5.a, 3.9
 
-<!--
 
 <hr>
 
 Sessió 7: dimecres 10 de març
 
+* Tema 3. Solució problemes encarregats: 3.5.a, 3.9
+
 * Tema 3. Traducció de programes / subrutines [slides](./slides/sessio7_2_tema3_subrutines.pdf)
+
+<!--
 
 <hr>
 
