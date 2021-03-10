@@ -71,18 +71,21 @@ Sessió 6: divendres 5 de març
 
 * Tema 3. Traducció de programes / switch i bucles [slides](./slides/sessio7_1_tema3_switch_i_bucles.pdf)
 
-* Problemes per dimecres 10 de març: 3.5.a, 3.9
+* Problemes per dimecres 10 de març: 3.5.a, 3.9 (bits)
 
 
 <hr>
 
 Sessió 7: dimecres 10 de març
 
-* Tema 3. Solució problemes encarregats: 3.5.a, 3.9
+* Tema 3. Solució problemes encarregats: 3.5.a, 3.9 (bits)
 
 * Tema 3. Traducció de programes / subrutines [slides](./slides/sessio7_2_tema3_subrutines.pdf)
 
+
 <!--
+
+* Tema 3. Problemes resolts: 3.25, 3.34, 3.26, 3.28, 3.36 (subrutines)
 
 <hr>
 
