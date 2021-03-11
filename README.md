@@ -82,18 +82,21 @@ Sessió 7: dimecres 10 de març
 
 * Tema 3. Traducció de programes / subrutines [slides](./slides/sessio7_2_tema3_subrutines.pdf)
 
-
-<!--
-
-* Tema 3. Problemes resolts: 3.25, 3.34, 3.26, 3.28, 3.36 (subrutines)
-
 <hr>
 
 Sessió 8: divendres 12 de març
 
-* Tema 3. Examen de problemes [enunciats](./problemes/expr3.pdf) 
+* Tema 3. Traducció de programes / subrutines (continuació)
+
+* Tema 3. Problemes resolts: 3.28 (subrutines)
 
 * Tema 3. Estructura de la memòria, compilació, assemblatge, enllaçat i càrrega [slides](./slides/sessio9_1_tema3_mem_i_compilacio.pdf)
+
+* Problemes per dimecres 17 de març: 3.34, 3.26, 3.36
+
+<!--
+
+* Tema 3. Examen de problemes [enunciats](./problemes/expr3.pdf) 
 
 * Problemes per dimecres 17 de març: ????
 
