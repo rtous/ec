@@ -73,7 +73,6 @@ Sessió 6: divendres 5 de març
 
 * Problemes per dimecres 10 de març: 3.5.a, 3.9 (bits)
 
-
 <hr>
 
 Sessió 7: dimecres 10 de març
@@ -92,19 +91,23 @@ Sessió 8: divendres 12 de març
 
 * Tema 3. Estructura de la memòria, compilació, assemblatge, enllaçat i càrrega [slides](./slides/sessio9_1_tema3_mem_i_compilacio.pdf)
 
-* Problemes per dimecres 17 de març: 3.34, 3.26, 3.36
+* Problemes per dimecres 17 de març: 3.34, 3.26, 3.36 (subrutines)
 
 <!--
 
 * Tema 3. Examen de problemes [enunciats](./problemes/expr3.pdf) 
 
-* Problemes per dimecres 17 de març: ????
+-->
 
 <hr>
 
 Sessió 9: dimecres 17 de març
 
+* Tema 3. Solució problemes encarregats: 3.34, 3.26, 3.36 (subrutines)
+
 * Tema 4. Matrius [slides](./slides/sessio9_2_tema4_matrius1.pdf)
+
+<!--
 
 <hr>
 
