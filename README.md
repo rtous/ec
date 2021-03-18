@@ -107,15 +107,21 @@ Sessió 9: dimecres 17 de març
 
 * Tema 4. Matrius [slides](./slides/sessio9_2_tema4_matrius1.pdf)
 
-<!--
-
 <hr>
 
 Sessió 10: divendres 19 de març
 
 * Tema 4. Matrius / accés seqüencial 
 
+* Tema 4. Examen de problemes [enunciats](./problemes/expr3i4.pdf)
+
+* Problemes per dimecres 24 de març: 4.2, 4.9, 4.11 (matrius)
+
+<!--
+
 * Tema 4. Problemes resolts: 4.4, 4.5, 4.8 [solucions](./problemes/tema4_problemes_pissarra.pdf)
+
+
 
 <hr>
 
