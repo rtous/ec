@@ -119,17 +119,21 @@ Sessió 10: divendres 19 de març
 
 <!--
 
-* Tema 4. Problemes resolts: 4.4, 4.5, 4.8 [solucions](./problemes/tema4_problemes_pissarra.pdf)
-
-
+* Tema 4. Problemes resolts: 4.4, 4.5, 4.8 [solucions](./problemes/tema4_problemes_pissarra.pdf) -->
 
 <hr>
 
 Sessió 11: dimecres 24 de març
 
+* Tema 3. Solució problemes encarregats: 4.2, 4.11 (matrius)
+
 * Tema 1. Rendiment i consum [slides](./slides/sessio11_1_tema1_rendiment.pdf)
 
-* Problemes per dimecres 7 d'abril: 4.2, 4.9, 1.7, 1.11
+<!--
+
+* Problemes per dimecres 7 d'abril: 4.2, 4.9, 1.7, 1.11 -->
+
+<!--
 
 <hr>
 
