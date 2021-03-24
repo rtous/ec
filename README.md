@@ -113,9 +113,9 @@ Sessió 10: divendres 19 de març
 
 * Tema 4. Matrius / accés seqüencial 
 
-* Tema 4. Examen de problemes [enunciats](./problemes/expr3i4.pdf)
+* Tema 4. Examen de problemes [enunciats](./problemes/expr3i4.pdf) i [solucions](./problemes/expr3i4s.pdf)
 
-* Problemes per dimecres 24 de març: 4.2, 4.9, 4.11 (matrius)
+* Problemes per dimecres 24 de març: 4.2, 4.9, 4.11 (matrius) [solucions](./problemes/tema4_2_4_9_4_11.pdf)
 
 <!--
 
@@ -125,7 +125,7 @@ Sessió 10: divendres 19 de març
 
 Sessió 11: dimecres 24 de març
 
-* Tema 3. Solució problemes encarregats: 4.2, 4.11 (matrius)
+* Tema 3. Solució problemes encarregats: 4.11 (matrius)
 
 * Tema 1. Rendiment i consum [slides](./slides/sessio11_1_tema1_rendiment.pdf)
 
