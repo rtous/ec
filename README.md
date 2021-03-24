@@ -103,7 +103,7 @@ Sessió 8: divendres 12 de març
 
 Sessió 9: dimecres 17 de març
 
-* Tema 3. Solució problemes encarregats: 3.34, 3.26, 3.36 (subrutines)
+* Tema 3. Solució problemes encarregats: 3.34, 3.26, 3.36 (subrutines) [solucions](./problemes/tema3_3_34_3_26_3_36.pdf)
 
 * Tema 4. Matrius [slides](./slides/sessio9_2_tema4_matrius1.pdf)
 
