@@ -129,25 +129,24 @@ Sessió 11: dimecres 24 de març
 
 * Tema 1. Rendiment i consum [slides](./slides/sessio11_1_tema1_rendiment.pdf)
 
-<!--
 
-* Problemes per dimecres 7 d'abril: 4.2, 4.9, 1.7, 1.11 -->
-
-<!--
 
 <hr>
 
 Sessió 12: divendres 26 de març
 
-* Tema 1. Solució problemes encarregats [solucions](./problemes/tema1_4_2_4_9_1_7_1_11.pdf)
+<!-- * Tema 1. Solució problemes encarregats [solucions](./problemes/tema1_4_2_4_9_1_7_1_11.pdf)-->
 
 * Tema 5. Aritmètica d'enters i coma flotant / 5.1-5.3 Aritmètica d'enters
-    * [apunts](http://docencia.ac.upc.edu/FIB/grau/EC/privat/TeoriaEC-tema5.pdf)
+    * [slides](./slides/sessio12_1_tema5_1_aritmeticaentera_1.pdf)
     * [vídeo 1: multiplicador](https://www.youtube.com/watch?v=d-LYzUcRK1w&t=365s)
     * [vídeo 2: divisor](https://www.youtube.com/watch?v=oWHNRd7dGP4&t=1209s)
 
-* Problemes per dimecres 14 d'abril: 5.6, 5.7, 5.11.a, 5.15.b
+* Problemes per dimecres 7 d'abril: 1.7, 1.11, 5.6, 5.7, 5.11.a, 5.15.b
 
+<!--* Problemes per dimecres 14 d'abril: 5.6, 5.7, 5.11.a, 5.15.b-->
+
+<!--
 <hr>
 
 Sessió 13: dimecres 7 d'abril
