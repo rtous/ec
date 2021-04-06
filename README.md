@@ -146,18 +146,21 @@ Sessió 12: divendres 26 de març
 
 <!--* Problemes per dimecres 14 d'abril: 5.6, 5.7, 5.11.a, 5.15.b-->
 
-<!--
+
 <hr>
 
 Sessió 13: dimecres 7 d'abril
 
-* Tema 5. Solució problemes encarregats [solucions](./problemes/tema5_5_6_5_7_5_11a_5_15b.pdf)
+<!--
+* Tema 5. Solució problemes encarregats [solucions](./problemes/tema1_7_1_11_5_6_5_7_5_11_a_5_15_b.pdf)
+-->
 
 * Tema 5. Aritmètica d'enters i coma flotant / 5.4 Representació 1/2 [slides](./slides/sessio16_1_tema5_2_floats_1.pdf)
     * [vídeo 1: coma fixa](https://www.youtube.com/watch?v=zsGChigW4Fs) 
     * [vídeo 2: IEEE 754](https://www.youtube.com/watch?v=QrfAShP95I4)
 
 
+<!--
 <hr>
 
 Sessió 14: divendres 9 d'abril
