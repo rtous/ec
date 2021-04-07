@@ -151,9 +151,8 @@ Sessió 12: divendres 26 de març
 
 Sessió 13: dimecres 7 d'abril
 
-<!--
+
 * Tema 5. Solució problemes encarregats [solucions](./problemes/tema1_7_1_11_5_6_5_7_5_11_a_5_15_b.pdf)
--->
 
 * Tema 5. Aritmètica d'enters i coma flotant / 5.4 Representació 1/2 [slides](./slides/sessio16_1_tema5_2_floats_1.pdf)
     * [vídeo 1: coma fixa](https://www.youtube.com/watch?v=zsGChigW4Fs) 
