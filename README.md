@@ -159,12 +159,14 @@ Sessió 13: dimecres 7 d'abril
     * [vídeo 2: IEEE 754](https://www.youtube.com/watch?v=QrfAShP95I4)
 
 
-<!--
+
 <hr>
 
 Sessió 14: divendres 9 d'abril
 
 * Tema 5. Aritmètica d'enters i coma flotant / 5.4 Representació 2/2 [slides](./slides/sessio16_1_tema5_2_floats_1.pdf)
+
+<!--
 
 <hr>
 
