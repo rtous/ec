@@ -142,7 +142,7 @@ Sessió 12: divendres 26 de març
     * [vídeo 1: multiplicador](https://www.youtube.com/watch?v=d-LYzUcRK1w&t=365s)
     * [vídeo 2: divisor](https://www.youtube.com/watch?v=oWHNRd7dGP4&t=1209s)
 
-* Problemes per dimecres 7 d'abril: 1.7, 1.11, 5.6, 5.7, 5.11.a, 5.15.b
+* Problemes per dimecres 7 d'abril: 1.7, 1.11, 5.6, 5.7, 5.11.a, 5.15.b [solucions](./problemes/tema1_7_1_11_5_6_5_7_5_11_a_5_15_b.pdf)
 
 <!--* Problemes per dimecres 14 d'abril: 5.6, 5.7, 5.11.a, 5.15.b-->
 
@@ -151,10 +151,7 @@ Sessió 12: divendres 26 de març
 
 Sessió 13: dimecres 7 d'abril
 
-
-* Tema 5. Solució problemes encarregats [solucions](./problemes/tema1_7_1_11_5_6_5_7_5_11_a_5_15_b.pdf)
-
-* Tema 5. Aritmètica d'enters i coma flotant / 5.4 Representació 1/2 [slides](./slides/sessio16_1_tema5_2_floats_1.pdf)
+* Tema 5. Aritmètica d'enters i coma flotant / 5.4 Representació [slides](./slides/sessio16_1_tema5_2_floats_1.pdf)
     * [vídeo 1: coma fixa](https://www.youtube.com/watch?v=zsGChigW4Fs) 
     * [vídeo 2: IEEE 754](https://www.youtube.com/watch?v=QrfAShP95I4)
 
@@ -164,7 +161,11 @@ Sessió 13: dimecres 7 d'abril
 
 Sessió 14: divendres 9 d'abril
 
-* Tema 5. Aritmètica d'enters i coma flotant / 5.4 Representació 2/2 [slides](./slides/sessio16_1_tema5_2_floats_1.pdf)
+* Tema 5. Aritmètica d'enters i coma flotant / 5.4 Representació (continuació)
+
+* Tema 5. Aritmètica d'enters i coma flotant / Suma i resta [slides](./slides/sessio17_1_tema5_2_floats_2.pdf)
+
+* Problemes per dimecres 14 d'abril: 5.21.b, 5.21.d, 5.23.c, 5.27
 
 <!--
 
