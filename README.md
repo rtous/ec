@@ -165,8 +165,6 @@ Sessió 14: divendres 9 d'abril
 
 * Tema 5. Aritmètica d'enters i coma flotant / Suma i resta [slides](./slides/sessio17_1_tema5_2_floats_2.pdf)
 
-* Problemes per dimecres 14 d'abril: 5.21.b, 5.21.d, 5.23.c, 5.27
-
 <!--
 
 <hr>
