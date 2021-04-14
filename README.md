@@ -174,6 +174,8 @@ Sessió 15: dimecres 14 d'abril
 
 * Tema 5. Aritmètica d'enters i coma flotant / Multiplicació i coma flotant a MIPS [slides](./slides/sessio17_2_tema5_3_floats_3.pdf)
 
+* Tema 5. Examen de problemes [enunciats](./problemes/expr5_4.pdf) i [solucions](./problemes/expr5_4s.pdf)
+
 
 <!--
 
