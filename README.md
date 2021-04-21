@@ -189,7 +189,7 @@ Sessió 16: divenres 16 d'abril
 
 * Tema 5. Aritmètica d'enters i coma flotant / Multiplicació i coma flotant a MIPS [slides](./slides/sessio17_2_tema5_3_floats_3.pdf)
 
-
+-->
 
 <hr>
 
@@ -201,11 +201,11 @@ EXAMEN PARCIAL: dimarts 20 d'abril
 
 <hr>
 
-Sessió 17: dimecres 21 d'abril
+Sessió 16: divendres 23 d'abril
 
 * Tema 6. Memòria cache / Introducció i disseny bàsic [slides](./slides/sessio19_1_tema6_1.pdf)
 
-
+<!--
 <hr>
 
 Sessió 18: divendres 23 d'abril
