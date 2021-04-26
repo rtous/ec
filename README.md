@@ -205,20 +205,17 @@ Sessió 16: divendres 23 d'abril
 
 * Tema 6. Memòria cache / Introducció i disseny bàsic [slides](./slides/sessio19_1_tema6_1.pdf)
 
-<!--
 <hr>
 
-Sessió 18: divendres 23 d'abril
-
-* Tema 5. Examen de problemes [enunciats](./problemes/expr5.pdf) i [solucions](./problemes/expr5s.pdf)
-
- <hr>
-
-Sessió 19: dimecres 28 d'abril
+Sessió 17: dimecres 28 d'abril
 
 * Tema 6. Memòria cache / Part 2: Gestió de les escriptures [slides](./slides/sessio22_1_tema6_2.pdf)
 
 * Tema 6. Problemes resolts: 6.2
+
+* Tema 6. Examen de problemes ([enunciats](./problemes/expr6.pdf)) 
+
+<!--
 
  <hr>
 
