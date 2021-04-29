@@ -215,17 +215,17 @@ Sessió 17: dimecres 28 d'abril
 
 * Tema 6. Examen de problemes ([enunciats](./problemes/expr6.pdf)) 
 
-<!--
+<hr>
 
- <hr>
-
-Sessió 20: divendres 30 d'abril
+Sessió 18: divendres 30 d'abril
 
  * Tema 6. Memòria cache / Part 3: Model de temps i millores [slides](./slides/sessio23_1_tema6_3.pdf)
 
 * Tema 6. Problemes resolts: 6.10
 
 * Problemes per dimecres 12 de maig: 6.7, 6.11
+
+<!--
 
  <hr>
 
