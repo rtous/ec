@@ -223,13 +223,13 @@ Sessió 18: divendres 30 d'abril
 
 * Tema 6. Problemes resolts: 6.10
 
-* Problemes per dimecres 12 de maig: 6.7, 6.11
+* Problemes per dimecres 5 de maig: 6.7, 6.11
 
 <!--
 
  <hr>
 
-Sessió 21: dimecres 12 de maig
+Sessió 19: dimecres 5 de maig
 
 * Tema 6. Solució problemes encarregats 6.7, 6.11 ([solucions](./problemes/tema6_6_7_6_11.pdf))
 
@@ -240,7 +240,7 @@ NO:
 
  <hr>
 
-Sessió 22: divendres 14 de maig
+Sessió 20: dimecres 12 de maig
 
 * Tema 7. Memòria virtual [slides](./slides/sessio26_1_tema7_1.pdf)
 
@@ -248,7 +248,7 @@ Sessió 22: divendres 14 de maig
 
  <hr>
 
-Sessió 23: dimecres 19 de maig
+Sessió 21: divendres 14 de maig
 
 * Tema 7. Memòria virtual (TLB, protecció i compartició)
 
@@ -256,7 +256,7 @@ Sessió 23: dimecres 19 de maig
 
 <hr>
 
-Sessió 24: divendres 21 de maig
+Sessió 22: dimecres 18 de maig
 
 * Tema 7. Examen de problemes ([enunciats](./problemes/expr7.pdf) i [solucions](./problemes/expr7s2.pdf)) 
 
@@ -264,7 +264,7 @@ Sessió 24: divendres 21 de maig
 
 <hr>
 
-Sessió 26: dimecres 26 de maig
+Sessió 23: divendres 21 de maig
 
 * Tema 8.
 
