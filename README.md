@@ -229,7 +229,7 @@ Sessió 18: divendres 30 d'abril
 
 Sessió 19: dimecres 5 de maig
 
-* Tema 6. Solució problemes encarregats 6.7, 6.11
+* Tema 6. Solució problemes encarregats 6.7, 6.11 ([solucions](./problemes/tema6_6_7_6_11.pdf))
 
 * Tema 6. Memòria cache / Part 3: Model de temps i millores (continuació)
 
