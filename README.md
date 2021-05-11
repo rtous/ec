@@ -235,22 +235,17 @@ Sessió 19: dimecres 5 de maig
 
 * Tema 6. Examen de problemes 2 ([enunciats](./problemes/expr6_2.pdf)) 
 
-<!--
-
-* Tema 6. Solució problemes encarregats 6.7, 6.11 ([solucions](./problemes/tema6_6_7_6_11.pdf))
-
-* Tema 6. Examen de problemes ([enunciats](./problemes/expr6.pdf) i [solucions](./problemes/expr6s.pdf)) 
-
-NO:
-	* Tema 6. Examen de problemes 2 ([enunciats](./problemes/expr6_2.pdf) i [solucions](./problemes/expr6_2s.pdf)) 
-
  <hr>
 
 Sessió 20: dimecres 12 de maig
 
 * Tema 7. Memòria virtual [slides](./slides/sessio26_1_tema7_1.pdf)
 
+
+<!--
 * Tema 7. Problemes resolts: 7.1, 7.4 [solucions](./problemes/tema7_7_4.pdf)
+
+
 
  <hr>
 
