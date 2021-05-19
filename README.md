@@ -233,7 +233,7 @@ Sessió 19: dimecres 5 de maig
 
 * Tema 6. Memòria cache / Part 3: Model de temps i millores (continuació)
 
-* Tema 6. Examen de problemes 2 ([enunciats](./problemes/expr6_2.pdf)) 
+* Tema 6. Examen de problemes 2 ([enunciats](./problemes/expr6_2.pdf) i ([solucions](./problemes/expr6_2s.pdf)) 
 
  <hr>
 
@@ -241,19 +241,26 @@ Sessió 20: dimecres 12 de maig
 
 * Tema 7. Memòria virtual [slides](./slides/sessio26_1_tema7_1.pdf)
 
-
-<!--
-* Tema 7. Problemes resolts: 7.1, 7.4 [solucions](./problemes/tema7_7_4.pdf)
-
-
-
  <hr>
 
 Sessió 21: divendres 14 de maig
 
-* Tema 7. Memòria virtual (TLB, protecció i compartició)
+* Tema 7. Solució problemes: 7.1, 7.4 [solucions](./problemes/tema7_7_4.pdf)
+
+* Tema 7. Memòria virtual (TLB)
+
+Sessió 22: dimecres 19 de maig
+
+* Tema 7. Memòria virtual (protecció i compartició)
+
+* Tema 7. Problemes resolts: 7.6 
+
+* Tema 7. Examen de problemes ([enunciats](./problemes/expr7.pdf)) 
+
+<!--
 
 * Tema 7. Problemes resolts: 7.6 [solucions](./problemes/tema7_7_6.pdf)
+
 
 <hr>
 
