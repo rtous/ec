@@ -249,6 +249,8 @@ Sessió 21: divendres 14 de maig
 
 * Tema 7. Memòria virtual (TLB)
 
+ <hr>
+
 Sessió 22: dimecres 19 de maig
 
 * Tema 7. Memòria virtual (protecció i compartició)
