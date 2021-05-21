@@ -255,10 +255,12 @@ Sessió 22: dimecres 19 de maig
 
 * Tema 7. Memòria virtual (protecció i compartició)
 
-* Tema 7. Examen de problemes ([enunciats](./problemes/expr7.pdf) i [solucions](./problemes/expr7s.pdf)) 
+* Tema 7. Examen de problemes ([enunciats](./problemes/expr7.pdf)) 
 
 <!--
 
+
+* Tema 7. Examen de problemes ([enunciats](./problemes/expr7.pdf) i [solucions](./problemes/expr7s.pdf)) 
 * Tema 7. Problemes resolts: 7.6 [solucions](./problemes/tema7_7_6.pdf)
 
 -->
