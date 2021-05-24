@@ -255,7 +255,7 @@ Sessió 22: dimecres 19 de maig
 
 * Tema 7. Memòria virtual (protecció i compartició)
 
-* Tema 7. Examen de problemes ([enunciats](./problemes/expr7.pdf)) 
+* Tema 7. Examen de problemes ([enunciats](./problemes/expr7.pdf) i [solucions](./problemes/expr7s.pdf)) 
 
 <!--
 
@@ -271,18 +271,16 @@ Sessió 23: divendres 21 de maig (classe híbrida d'una hora, online a [http://m
 
 * Tema 7. Solució de l'examen de problemes 
 
-* Tema 7. Solució problemes:: 7.2 i 7.7
-
-<!--
-
 * Tema 7. Solució problemes:: 7.2 i 7.7 [solucions](./problemes/tema7_7_2_7_7.pdf)
 
 
 <hr>
 
-Sessió 23: divendres 21 de maig
+Sessió 24: dimecres 26 de maig
 
 * Tema 8.
+
+<!--
 
 <hr>
 
