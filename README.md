@@ -278,7 +278,7 @@ Sessió 23: divendres 21 de maig (classe híbrida d'una hora, online a [http://m
 
 Sessió 24: dimecres 26 de maig
 
-* Tema 8 ([apunts](./problemes/tema7_7_2_7_7.pdf)https://docencia.ac.upc.edu/FIB/grau/EC/privat/TeoriaEC-tema8.pdf))
+* Tema 8 ([apunts](https://docencia.ac.upc.edu/FIB/grau/EC/privat/TeoriaEC-tema8.pdf))
 
 <!--
 
