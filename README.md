@@ -284,7 +284,7 @@ Sessió 24: dimecres 26 de maig
 
 Sessió 27: divendres 28 de maig
 
-* Tema 8. Examen de problemes ([enunciats](./problemes/expr8.pdf))
+* Tema 8. Examen de problemes ([enunciats](./problemes/expr8.pdf) i [solucions](./problemes/expr8s.pdf))
 
 <!--
 -->
