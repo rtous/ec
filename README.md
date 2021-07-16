@@ -1,5 +1,6 @@
 # EC: Estructura de Computadors (material professor R. Tous)
 
+<!--
 ## Seguiment online
 
 Quan sigui possible, les classes també es podran seguir via Google Meet a l'enllaç: [http://meet.google.com/ati-zmnz-ddj](http://meet.google.com/ati-zmnz-ddj)
@@ -9,9 +10,6 @@ Quan sigui possible, les classes també es podran seguir via Google Meet a l'enl
 **(NOU)** S'ha creat una entrada a Atenea per que pugueu realitzar el lliurament dels problemes.
 
 ## Materials sessions
-
-<!--
-* Aquesta classe es realitzarà per videoconferència dins l'horari previst (de 12h a 14h) i mitjançant [Google Meet](???????).-->
 
 Sessió 1: dimecres 17 de febrer
 
@@ -93,11 +91,6 @@ Sessió 8: divendres 12 de març
 
 * Problemes per dimecres 17 de març: 3.34, 3.26, 3.36 (subrutines)
 
-<!--
-
-* Tema 3. Examen de problemes [enunciats](./problemes/expr3.pdf) 
-
--->
 
 <hr>
 
@@ -117,9 +110,6 @@ Sessió 10: divendres 19 de març
 
 * Problemes per dimecres 24 de març: 4.2, 4.9, 4.11 (matrius) [solucions](./problemes/tema4_2_4_9_4_11.pdf)
 
-<!--
-
-* Tema 4. Problemes resolts: 4.4, 4.5, 4.8 [solucions](./problemes/tema4_problemes_pissarra.pdf) -->
 
 <hr>
 
@@ -135,7 +125,6 @@ Sessió 11: dimecres 24 de març
 
 Sessió 12: divendres 26 de març
 
-<!-- * Tema 1. Solució problemes encarregats [solucions](./problemes/tema1_4_2_4_9_1_7_1_11.pdf)-->
 
 * Tema 5. Aritmètica d'enters i coma flotant / 5.1-5.3 Aritmètica d'enters
     * [slides](./slides/sessio12_1_tema5_1_aritmeticaentera_1.pdf)
@@ -144,7 +133,6 @@ Sessió 12: divendres 26 de març
 
 * Problemes per dimecres 7 d'abril: 1.7, 1.11, 5.6, 5.7, 5.11.a, 5.15.b [solucions](./problemes/tema1_7_1_11_5_6_5_7_5_11_a_5_15_b.pdf)
 
-<!--* Problemes per dimecres 14 d'abril: 5.6, 5.7, 5.11.a, 5.15.b-->
 
 
 <hr>
@@ -176,20 +164,6 @@ Sessió 15: dimecres 14 d'abril
 
 * Tema 5. Examen de problemes [enunciats](./problemes/expr5_4.pdf) i [solucions](./problemes/expr5_4s.pdf)
 
-
-<!--
-
-* Problemes per dilluns 20 d'abril: 5.21.b, 5.21.d, 5.23.c, 5.27
-
-<hr>
-
-Sessió 16: divenres 16 d'abril
-
-* Tema 5.  [Solucions problemes encarregats 5.21.b, 5.21.d, 5.23.c, 5.27](./problemes/tema5_5_21b_5_21d_5_23c_5_27.pdf)
-
-* Tema 5. Aritmètica d'enters i coma flotant / Multiplicació i coma flotant a MIPS [slides](./slides/sessio17_2_tema5_3_floats_3.pdf)
-
--->
 
 <hr>
 
@@ -257,13 +231,6 @@ Sessió 22: dimecres 19 de maig
 
 * Tema 7. Examen de problemes ([enunciats](./problemes/expr7.pdf) i [solucions](./problemes/expr7s.pdf)) 
 
-<!--
-
-
-* Tema 7. Examen de problemes ([enunciats](./problemes/expr7.pdf) i [solucions](./problemes/expr7s.pdf)) 
-* Tema 7. Problemes resolts: 7.6 [solucions](./problemes/tema7_7_6.pdf)
-
--->
 
 <hr>
 
@@ -286,7 +253,7 @@ Sessió 27: divendres 28 de maig
 
 * Tema 8. Examen de problemes ([enunciats](./problemes/expr8.pdf) i [solucions](./problemes/expr8s.pdf))
 
-<!--
+
 -->
 
 
