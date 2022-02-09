@@ -5,27 +5,30 @@
 
 Quan sigui possible, les classes també es podran seguir via Google Meet a l'enllaç: [http://meet.google.com/ati-zmnz-ddj](http://meet.google.com/ati-zmnz-ddj)
 
+-->
+
 ## Lliurament problemes
 
 **(NOU)** S'ha creat una entrada a Atenea per que pugueu realitzar el lliurament dels problemes.
 
 ## Materials sessions
 
-Sessió 1: dimecres 17 de febrer
+Sessió 1: dilluns 14 de febrer
 
 * Presentació [(slides)](./slides/sessio1_1_presentacio.pdf)
 
 * Tema 2. Instruccions i tipus de dades bàsics / Introducció [(slides)](./slides/sessio1_2_tema2_intro.pdf)
 
+<!--
 <hr>
 
-Sessió 2: divendres 19 de febrer
+Sessió 2: dimecres 16 de febrer
 
 * Tema 2. Instruccions i tipus de dades bàsics / Assemblador [slides](./slides/sessio2_1_tema2_assemblador.pdf)
 
 <hr>
 
-Sessió 3: dimecres 24 de febrer
+Sessió 3: dilluns 21 de febrer
 
 * Tema 2. Instruccions i tipus de dades bàsics / Repàs naturals i enters [slides](./slides/sessio3_1_tema2_enters.pdf)
 
@@ -39,7 +42,7 @@ Sessió 3: dimecres 24 de febrer
 
 <hr>
 
-Sessió 4: divendres 26 de febrer
+Sessió 4: dimecres 23 de febrer
 
 * Tema 2. Solució problemes encarregats: 2.6 (memòria)
 
@@ -54,7 +57,7 @@ Sessió 4: divendres 26 de febrer
 
 <hr>
 
-Sessió 5: dimecres 3 de març
+Sessió 5: dilluns 28 de febrer
 
 * Tema 2. Solució problemes encarregats: 2.22, 2.32.c, 2.31
 
@@ -63,7 +66,7 @@ Sessió 5: dimecres 3 de març
 
 <hr>
 
-Sessió 6: divendres 5 de març
+Sessió 6: dimecres 2 de març
 
 * Tema 3. Traducció de programes / bitwise, condicions, if-then-else [slides](./slides/sessio6_1_tema3_condicionals.pdf)
 
@@ -73,7 +76,7 @@ Sessió 6: divendres 5 de març
 
 <hr>
 
-Sessió 7: dimecres 10 de març
+Sessió 7: dilluns 7 de març
 
 * Tema 3. Solució problemes encarregats: 3.5.a, 3.9 (bits)
 
@@ -81,7 +84,7 @@ Sessió 7: dimecres 10 de març
 
 <hr>
 
-Sessió 8: divendres 12 de març
+Sessió 8: dimecres 9 de març
 
 * Tema 3. Traducció de programes / subrutines (continuació)
 
@@ -94,7 +97,7 @@ Sessió 8: divendres 12 de març
 
 <hr>
 
-Sessió 9: dimecres 17 de març
+Sessió 9: dilluns 14 de març
 
 * Tema 3. Solució problemes encarregats: 3.34, 3.26, 3.36 (subrutines) [solucions](./problemes/tema3_3_34_3_26_3_36.pdf)
 
@@ -102,7 +105,7 @@ Sessió 9: dimecres 17 de març
 
 <hr>
 
-Sessió 10: divendres 19 de març
+Sessió 10: dimecres 16 de març
 
 * Tema 4. Matrius / accés seqüencial 
 
@@ -113,7 +116,7 @@ Sessió 10: divendres 19 de març
 
 <hr>
 
-Sessió 11: dimecres 24 de març
+Sessió 11: dilluns 21 de març
 
 * Tema 3. Solució problemes encarregats: 4.11 (matrius)
 
@@ -123,7 +126,7 @@ Sessió 11: dimecres 24 de març
 
 <hr>
 
-Sessió 12: divendres 26 de març
+Sessió 12: dimecres 23 de març
 
 
 * Tema 5. Aritmètica d'enters i coma flotant / 5.1-5.3 Aritmètica d'enters
@@ -137,7 +140,7 @@ Sessió 12: divendres 26 de març
 
 <hr>
 
-Sessió 13: dimecres 7 d'abril
+Sessió 13: dilluns 28 de març
 
 * Tema 5. Aritmètica d'enters i coma flotant / 5.4 Representació [slides](./slides/sessio16_1_tema5_2_floats_1.pdf)
     * [vídeo 1: coma fixa](https://www.youtube.com/watch?v=zsGChigW4Fs) 
@@ -147,7 +150,7 @@ Sessió 13: dimecres 7 d'abril
 
 <hr>
 
-Sessió 14: divendres 9 d'abril
+Sessió 14: dimecres 30 de març
 
 * Tema 5. Aritmètica d'enters i coma flotant / 5.4 Representació (continuació)
 
@@ -155,10 +158,15 @@ Sessió 14: divendres 9 d'abril
 
 * Tema 5. Examen de problemes [enunciats](./problemes/expr5_3.pdf) i [solucions](./problemes/expr5_3s.pdf)
 
+<hr>
+
+EXAMEN PARCIAL: dimarts 5 d'abril
+
+* Examen Parcial. Seguiu les instruccions de la convocatòria publicada al Racó.
 
 <hr>
 
-Sessió 15: dimecres 14 d'abril
+Sessió 15: dimecres 20 d'abril
 
 * Tema 5. Aritmètica d'enters i coma flotant / Multiplicació i coma flotant a MIPS [slides](./slides/sessio17_2_tema5_3_floats_3.pdf)
 
@@ -167,21 +175,13 @@ Sessió 15: dimecres 14 d'abril
 
 <hr>
 
-EXAMEN PARCIAL: dimarts 20 d'abril
-
-* Examen Parcial. Seguiu les instruccions de la convocatòria publicada al Racó.
-
-
-
-<hr>
-
-Sessió 16: divendres 23 d'abril
+Sessió 16: dilluns 25 d'abril
 
 * Tema 6. Memòria cache / Introducció i disseny bàsic [slides](./slides/sessio19_1_tema6_1.pdf)
 
 <hr>
 
-Sessió 17: dimecres 28 d'abril
+Sessió 17: dimecres 27 d'abril
 
 * Tema 6. Memòria cache / Part 2: Gestió de les escriptures [slides](./slides/sessio22_1_tema6_2.pdf)
 
@@ -191,7 +191,7 @@ Sessió 17: dimecres 28 d'abril
 
 <hr>
 
-Sessió 18: divendres 30 d'abril
+Sessió 18: dilluns 2 de maig
 
  * Tema 6. Memòria cache / Part 3: Model de temps i millores [slides](./slides/sessio23_1_tema6_3.pdf)
 
@@ -201,7 +201,7 @@ Sessió 18: divendres 30 d'abril
 
  <hr>
 
-Sessió 19: dimecres 5 de maig
+Sessió 19: dimecres 4 de maig
 
 * Tema 6. Solució problemes encarregats 6.7, 6.11 ([solucions](./problemes/tema6_6_7_6_11.pdf))
 
@@ -211,13 +211,13 @@ Sessió 19: dimecres 5 de maig
 
  <hr>
 
-Sessió 20: dimecres 12 de maig
+Sessió 20: dilluns 9 de maig
 
 * Tema 7. Memòria virtual [slides](./slides/sessio26_1_tema7_1.pdf)
 
  <hr>
 
-Sessió 21: divendres 14 de maig
+Sessió 21: dimecres 11 de maig
 
 * Tema 7. Solució problemes: 7.1, 7.4 [solucions](./problemes/tema7_7_4.pdf)
 
@@ -225,7 +225,7 @@ Sessió 21: divendres 14 de maig
 
  <hr>
 
-Sessió 22: dimecres 19 de maig
+Sessió 22: dilluns 16 de maig
 
 * Tema 7. Memòria virtual (protecció i compartició)
 
@@ -234,7 +234,7 @@ Sessió 22: dimecres 19 de maig
 
 <hr>
 
-Sessió 23: divendres 21 de maig (classe híbrida d'una hora, online a [http://meet.google.com/ati-zmnz-ddj](http://meet.google.com/ati-zmnz-ddj))
+Sessió 23: dimecres 18 de maig (classe híbrida d'una hora, online a [http://meet.google.com/ati-zmnz-ddj](http://meet.google.com/ati-zmnz-ddj))
 
 * Tema 7. Solució de l'examen de problemes 
 
@@ -243,15 +243,19 @@ Sessió 23: divendres 21 de maig (classe híbrida d'una hora, online a [http://m
 
 <hr>
 
-Sessió 24: dimecres 26 de maig
+Sessió 24: dilluns 23 de maig
 
 * Tema 8 ([apunts](https://docencia.ac.upc.edu/FIB/grau/EC/privat/TeoriaEC-tema8.pdf))
 
 <hr>
 
-Sessió 27: divendres 28 de maig
+Sessió 25: dimecres 25 de maig
 
 * Tema 8. Examen de problemes ([enunciats](./problemes/expr8.pdf) i [solucions](./problemes/expr8s.pdf))
+
+<hr>
+
+Sessió 26: dilluns 30 de maig
 
 
 -->
