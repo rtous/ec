@@ -39,7 +39,7 @@ Sessió 3: dilluns 21 de febrer
 
 * Tema 2. Instruccions i tipus de dades bàsics / punters 1/2 [slides](./slides/sessio4_1_tema2_punters.pdf)
 
-* Tema 2. Problemes per 26 de febrer: 2.6 (memòria)
+* Tema 2. Problemes per 23 de febrer: 2.6 (memòria)
 
 <!--
 
@@ -55,7 +55,7 @@ Sessió 4: dimecres 23 de febrer
 
 * Tema 2. Problemes resolts: 2.26, 2.30, 2.27 (punters)
 
-* Tema 2. Problemes per dimecres 3 de març: 2.22, 2.32.c, 2.31 
+* Tema 2. Problemes per dilluns 28 de febrer: 2.22, 2.32.c, 2.31 
 
 
 <hr>
@@ -75,7 +75,7 @@ Sessió 6: dimecres 2 de març
 
 * Tema 3. Traducció de programes / switch i bucles [slides](./slides/sessio7_1_tema3_switch_i_bucles.pdf)
 
-* Problemes per dimecres 10 de març: 3.5.a, 3.9 (bits)
+* Problemes per dilluns 7 de març: 3.5.a, 3.9 (bits)
 
 <hr>
 
@@ -95,7 +95,7 @@ Sessió 8: dimecres 9 de març
 
 * Tema 3. Estructura de la memòria, compilació, assemblatge, enllaçat i càrrega [slides](./slides/sessio9_1_tema3_mem_i_compilacio.pdf)
 
-* Problemes per dimecres 17 de març: 3.34, 3.26, 3.36 (subrutines)
+* Problemes per dilluns 14 de març: 3.34, 3.26, 3.36 (subrutines)
 
 
 <hr>
@@ -114,7 +114,7 @@ Sessió 10: dimecres 16 de març
 
 * Tema 4. Examen de problemes [enunciats](./problemes/expr3i4.pdf) i [solucions](./problemes/expr3i4s.pdf)
 
-* Problemes per dimecres 24 de març: 4.2, 4.9, 4.11 (matrius) [solucions](./problemes/tema4_2_4_9_4_11.pdf)
+* Problemes per dilluns 21 de març: 4.2, 4.9, 4.11 (matrius) [solucions](./problemes/tema4_2_4_9_4_11.pdf)
 
 
 <hr>
@@ -137,7 +137,7 @@ Sessió 12: dimecres 23 de març
     * [vídeo 1: multiplicador](https://www.youtube.com/watch?v=d-LYzUcRK1w&t=365s)
     * [vídeo 2: divisor](https://www.youtube.com/watch?v=oWHNRd7dGP4&t=1209s)
 
-* Problemes per dimecres 7 d'abril: 1.7, 1.11, 5.6, 5.7, 5.11.a, 5.15.b [solucions](./problemes/tema1_7_1_11_5_6_5_7_5_11_a_5_15_b.pdf)
+* Problemes per dilluns 28 de març: 1.7, 1.11, 5.6, 5.7, 5.11.a, 5.15.b [solucions](./problemes/tema1_7_1_11_5_6_5_7_5_11_a_5_15_b.pdf)
 
 
 
@@ -200,7 +200,7 @@ Sessió 18: dilluns 2 de maig
 
 * Tema 6. Problemes resolts: 6.10
 
-* Problemes per dimecres 5 de maig: 6.7, 6.11
+* Problemes per dimecres 4 de maig: 6.7, 6.11
 
  <hr>
 
