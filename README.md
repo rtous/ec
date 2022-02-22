@@ -36,9 +36,6 @@ Sessió 3: dilluns 21 de febrer
 
 * Tema 2. Problemes resolts: 2.3
 
-* Tema 2. Instruccions i tipus de dades bàsics / punters 1/2 [slides](./slides/sessio4_1_tema2_punters.pdf)
-
-
 * Tema 2. Problemes per 23 de febrer: 2.6 (memòria)
 
 <hr>
@@ -49,7 +46,7 @@ Sessió 4: dimecres 23 de febrer
 
 * Tema 2. Problemes resolts: 2.32.d (vectors)
 
-* Tema 2. Instruccions i tipus de dades bàsics / punters 2/2 [slides](./slides/sessio4_1_tema2_punters.pdf)
+* Tema 2. Instruccions i tipus de dades bàsics / punters [slides](./slides/sessio4_1_tema2_punters.pdf)
 
 * Tema 2. Problemes resolts: 2.26, 2.30, 2.27 (punters)
 
