@@ -1,11 +1,10 @@
 # EC: Estructura de Computadors (material professor R. Tous)
 
-<!--
+
 ## Seguiment online
 
-Quan sigui possible, les classes també es podran seguir via Google Meet a l'enllaç: [http://meet.google.com/ati-zmnz-ddj](http://meet.google.com/ati-zmnz-ddj)
+Quan sigui possible, les classes també es podran seguir via Google Meet a l'enllaç: [https://meet.google.com/zci-dneh-krk](https://meet.google.com/zci-dneh-krk)
 
--->
 
 ## Lliurament problemes
 
@@ -37,11 +36,7 @@ Sessió 3: dilluns 21 de febrer
 
 * Tema 2. Problemes resolts: 2.3
 
-* Tema 2. Instruccions i tipus de dades bàsics / punters 1/2 [slides](./slides/sessio4_1_tema2_punters.pdf)
-
 * Tema 2. Problemes per 23 de febrer: 2.6 (memòria)
-
-<!--
 
 <hr>
 
@@ -51,13 +46,15 @@ Sessió 4: dimecres 23 de febrer
 
 * Tema 2. Problemes resolts: 2.32.d (vectors)
 
+* Tema 2. Instruccions i tipus de dades bàsics / punters 1/2 [slides](./slides/sessio4_1_tema2_punters.pdf)
+
 * Tema 2. Instruccions i tipus de dades bàsics / punters 2/2 [slides](./slides/sessio4_1_tema2_punters.pdf)
 
 * Tema 2. Problemes resolts: 2.26, 2.30, 2.27 (punters)
 
 * Tema 2. Problemes per dilluns 28 de febrer: 2.22, 2.32.c, 2.31 
 
-
+<!--
 <hr>
 
 Sessió 5: dilluns 28 de febrer
