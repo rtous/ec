@@ -59,13 +59,8 @@ Sessió 5: dilluns 28 de febrer
 
 * Tema 2. Solució problemes encarregats: 2.22, 2.32.c, 2.31
 
-* Tema 2. Examen de problemes [enunciats](./problemes/expr2_extended.pdf) 
+* Tema 2. Examen de problemes [enunciats](./problemes/expr2_extended.pdf) i [solucions](./problemes/expr2s_extended.pdf)
 
-<!--
-i [solucions](./problemes/expr2s_extended.pdf)
--->
-
-<!--
 
 <hr>
 
@@ -76,6 +71,8 @@ Sessió 6: dimecres 2 de març
 * Tema 3. Traducció de programes / switch i bucles [slides](./slides/sessio7_1_tema3_switch_i_bucles.pdf)
 
 * Problemes per dilluns 7 de març: 3.5.a, 3.9 (bits)
+
+<!--
 
 <hr>
 
