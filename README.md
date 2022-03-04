@@ -72,8 +72,6 @@ Sessió 6: dimecres 2 de març
 
 * Problemes per dilluns 7 de març: 3.5.a, 3.9 (bits)
 
-<!--
-
 <hr>
 
 Sessió 7: dilluns 7 de març
@@ -81,6 +79,8 @@ Sessió 7: dilluns 7 de març
 * Tema 3. Solució problemes encarregats: 3.5.a, 3.9 (bits)
 
 * Tema 3. Traducció de programes / subrutines [slides](./slides/sessio7_2_tema3_subrutines.pdf)
+
+<!--
 
 <hr>
 
