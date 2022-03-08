@@ -80,8 +80,6 @@ Sessió 7: dilluns 7 de març
 
 * Tema 3. Traducció de programes / subrutines [slides](./slides/sessio7_2_tema3_subrutines.pdf)
 
-<!--
-
 <hr>
 
 Sessió 8: dimecres 9 de març
@@ -94,6 +92,7 @@ Sessió 8: dimecres 9 de març
 
 * Problemes per dilluns 14 de març: 3.34, 3.26, 3.36 (subrutines)
 
+<!--
 
 <hr>
 
