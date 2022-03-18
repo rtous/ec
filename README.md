@@ -116,6 +116,8 @@ i [solucions](./problemes/expr3i4s.pdf)
 
 [solucions](./problemes/tema4_2_4_9_4_11.pdf)
 
+-->
+
 <hr>
 
 Sessió 11: dilluns 21 de març
@@ -124,7 +126,7 @@ Sessió 11: dilluns 21 de març
 
 * Tema 1. Rendiment i consum [slides](./slides/sessio11_1_tema1_rendiment.pdf)
 
-
+<!--
 
 <hr>
 
