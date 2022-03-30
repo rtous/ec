@@ -125,9 +125,9 @@ Sessió 12: dimecres 23 de març
 
 * Tema 1. Problemes resolts: 1.3, 1.6 (rendiment i consum)
 
-* Tema 1. Examen de problemes [enunciats](./problemes/expr1_v2.pdf)
+* Tema 1. Examen de problemes [enunciats](./problemes/expr1_v2.pdf) [solucions](./problemes/expr1_v2s.pdf)
 
-* Problemes per dilluns 28 de març: 1.7, 1.11
+* Problemes per dilluns 28 de març: 1.7, 1.11 [solucions](./problemes/tema1_4_2_4_9_1_7_1_11.pdf)
 
 
 <hr>
@@ -136,27 +136,26 @@ Sessió 13: dilluns 28 de març
 
 * Tema 5. Aritmètica d'enters i coma flotant / 5.1-5.3 Aritmètica d'enters
     * [slides](./slides/sessio12_1_tema5_1_aritmeticaentera_1.pdf)
+	* [vídeo 1: multiplicador](https://www.youtube.com/watch?v=d-LYzUcRK1w&t=365s)
+    * [vídeo 2: divisor](https://www.youtube.com/watch?v=oWHNRd7dGP4&t=1209s
+
+* Tema 5. Problemes resolts: 5.11.b, 5.15.a
 
 <!--
-    * [vídeo 1: multiplicador](https://www.youtube.com/watch?v=d-LYzUcRK1w&t=365s)
-    * [vídeo 2: divisor](https://www.youtube.com/watch?v=oWHNRd7dGP4&t=1209s)
--->
-
-<!--
-* Problemes per dilluns 28 de març: 1.7, 1.11, 5.6, 5.7, 5.11.a, 5.15.b 
+    )
+	* Tema 5. Problemes resolts: 5.11.b, 5.15.a
+	* Problemes per dilluns 28 de març: 1.7, 1.11, 5.6, 5.7, 5.11.a, 5.15.b 
 
 [solucions](./problemes/tema1_7_1_11_5_6_5_7_5_11_a_5_15_b.pdf)
+-->
+
 
 <hr>
 
-Sessió 13: dilluns 28 de març
+Sessió 14: dimecres 30 de març
 
-* Tema 5. Aritmètica d'enters i coma flotant / 5.4 Representació [slides](./slides/sessio16_1_tema5_2_floats_1.pdf)
-    * [vídeo 1: coma fixa](https://www.youtube.com/watch?v=zsGChigW4Fs) 
-    * [vídeo 2: IEEE 754](https://www.youtube.com/watch?v=QrfAShP95I4)
-
-
-
+* Examen de problemes temes 1, 2, 3 i 4
+<!--
 <hr>
 
 Sessió 14: dimecres 30 de març
