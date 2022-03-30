@@ -137,7 +137,7 @@ Sessió 13: dilluns 28 de març
 * Tema 5. Aritmètica d'enters i coma flotant / 5.1-5.3 Aritmètica d'enters
     * [slides](./slides/sessio12_1_tema5_1_aritmeticaentera_1.pdf)
 	* [vídeo 1: multiplicador](https://www.youtube.com/watch?v=d-LYzUcRK1w&t=365s)
-    * [vídeo 2: divisor](https://www.youtube.com/watch?v=oWHNRd7dGP4&t=1209s
+    * [vídeo 2: divisor](https://www.youtube.com/watch?v=oWHNRd7dGP4&t=1209s)
 
 * Tema 5. Problemes resolts: 5.11.b, 5.15.a
 
