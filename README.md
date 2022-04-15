@@ -173,6 +173,8 @@ Sessió 15: dimecres 20 d'abril
 
 * Tema 5. Aritmètica d'enters i coma flotant / Suma i resta [slides](./slides/sessio17_1_tema5_2_floats_2.pdf)
 
+* Problemes per dilluns 25 d'abril: 5.23
+
 <!--
 
 * Tema 5. Examen de problemes [enunciats](./problemes/expr5_3.pdf) i [solucions](./problemes/expr5_3s.pdf)
