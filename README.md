@@ -155,14 +155,25 @@ Sessió 13: dilluns 28 de març
 Sessió 14: dimecres 30 de març
 
 * Examen de problemes temes 1, 2, 3 i 4
-<!--
+
 <hr>
 
-Sessió 14: dimecres 30 de març
+EXAMEN PARCIAL: dimarts 5 d'abril
 
-* Tema 5. Aritmètica d'enters i coma flotant / 5.4 Representació (continuació)
+* Examen Parcial. Seguiu les instruccions de la convocatòria publicada al Racó.
+
+
+
+
+<hr>
+
+Sessió 15: dimecres 20 d'abril
+
+* Tema 5. Aritmètica d'enters i coma flotant / 5.4 Representació [slides](./slides/sessio16_1_tema5_2_floats_1.pdf)
 
 * Tema 5. Aritmètica d'enters i coma flotant / Suma i resta [slides](./slides/sessio17_1_tema5_2_floats_2.pdf)
+
+<!--
 
 * Tema 5. Examen de problemes [enunciats](./problemes/expr5_3.pdf) i [solucions](./problemes/expr5_3s.pdf)
 
