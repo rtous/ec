@@ -171,19 +171,28 @@ Sessió 15: dimecres 20 d'abril
 
 * Tema 5. Aritmètica d'enters i coma flotant / 5.4 Representació [slides](./slides/sessio16_1_tema5_2_floats_1.pdf)
 
-* Tema 5. Aritmètica d'enters i coma flotant / Suma i resta [slides](./slides/sessio17_1_tema5_2_floats_2.pdf)
-
 * Problemes per dilluns 25 d'abril: 5.23
-
-<!--
-
-* Tema 5. Examen de problemes [enunciats](./problemes/expr5_3.pdf) i [solucions](./problemes/expr5_3s.pdf)
 
 <hr>
 
-EXAMEN PARCIAL: dimarts 5 d'abril
+Sessió 16: dilluns 25 d'abril
 
-* Examen Parcial. Seguiu les instruccions de la convocatòria publicada al Racó.
+* Tema 5. Aritmètica d'enters i coma flotant / Suma i resta [slides](./slides/sessio17_1_tema5_2_floats_2.pdf)
+
+<!--
+<hr>
+
+Sessió 17: dimecres 27 d'abril
+
+* Tema 5. Aritmètica d'enters i coma flotant / Multiplicació i coma flotant a MIPS [slides](./slides/sessio17_2_tema5_3_floats_3.pdf)
+
+* Tema 5. Examen de problemes [enunciats](./problemes/expr5_4.pdf) i [solucions](./problemes/expr5_4s.pdf)
+
+
+
+
+* Tema 5. Examen de problemes [enunciats](./problemes/expr5_3.pdf) i [solucions](./problemes/expr5_3s.pdf)
+
 
 <hr>
 
