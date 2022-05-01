@@ -186,32 +186,20 @@ Sessió 17: dimecres 27 d'abril
 
 * Tema 5. Aritmètica d'enters i coma flotant / Multiplicació i coma flotant a MIPS [slides](./slides/sessio17_2_tema5_3_floats_3.pdf)
 
-* Tema 5. Examen de problemes [enunciats](./problemes/expr5_4.pdf) 
-
-<!--
-i [solucions](./problemes/expr5_4s.pdf)
-
-* Tema 5. Examen de problemes [enunciats](./problemes/expr5_3.pdf) i [solucions](./problemes/expr5_3s.pdf)
-
-
-<hr>
-
-Sessió 15: dimecres 20 d'abril
-
-* Tema 5. Aritmètica d'enters i coma flotant / Multiplicació i coma flotant a MIPS [slides](./slides/sessio17_2_tema5_3_floats_3.pdf)
-
 * Tema 5. Examen de problemes [enunciats](./problemes/expr5_4.pdf) i [solucions](./problemes/expr5_4s.pdf)
 
 
 <hr>
 
-Sessió 16: dilluns 25 d'abril
+Sessió 18: dilluns 2 de maig
 
 * Tema 6. Memòria cache / Introducció i disseny bàsic [slides](./slides/sessio19_1_tema6_1.pdf)
 
+<!--
+
 <hr>
 
-Sessió 17: dimecres 27 d'abril
+Sessió 19: dimecres 4 de maig
 
 * Tema 6. Memòria cache / Part 2: Gestió de les escriptures [slides](./slides/sessio22_1_tema6_2.pdf)
 
@@ -221,7 +209,7 @@ Sessió 17: dimecres 27 d'abril
 
 <hr>
 
-Sessió 18: dilluns 2 de maig
+Sessió 20: dilluns 9 de maig
 
  * Tema 6. Memòria cache / Part 3: Model de temps i millores [slides](./slides/sessio23_1_tema6_3.pdf)
 
@@ -231,7 +219,7 @@ Sessió 18: dilluns 2 de maig
 
  <hr>
 
-Sessió 19: dimecres 4 de maig
+Sessió 21: dimecres 11 de maig
 
 * Tema 6. Solució problemes encarregats 6.7, 6.11 ([solucions](./problemes/tema6_6_7_6_11.pdf))
 
@@ -241,13 +229,13 @@ Sessió 19: dimecres 4 de maig
 
  <hr>
 
-Sessió 20: dilluns 9 de maig
+Sessió 22: dilluns 16 de maig
 
 * Tema 7. Memòria virtual [slides](./slides/sessio26_1_tema7_1.pdf)
 
  <hr>
 
-Sessió 21: dimecres 11 de maig
+Sessió 23: dimecres 18 de maig
 
 * Tema 7. Solució problemes: 7.1, 7.4 [solucions](./problemes/tema7_7_4.pdf)
 
@@ -255,7 +243,7 @@ Sessió 21: dimecres 11 de maig
 
  <hr>
 
-Sessió 22: dilluns 16 de maig
+Sessió 24: dilluns 23 de maig
 
 * Tema 7. Memòria virtual (protecció i compartició)
 
@@ -264,7 +252,7 @@ Sessió 22: dilluns 16 de maig
 
 <hr>
 
-Sessió 23: dimecres 18 de maig (classe híbrida d'una hora, online a [http://meet.google.com/ati-zmnz-ddj](http://meet.google.com/ati-zmnz-ddj))
+Sessió 25: dimecres 25 de maig
 
 * Tema 7. Solució de l'examen de problemes 
 
@@ -273,20 +261,17 @@ Sessió 23: dimecres 18 de maig (classe híbrida d'una hora, online a [http://me
 
 <hr>
 
-Sessió 24: dilluns 23 de maig
+Sessió 26: dilluns 30 de maig
 
 * Tema 8 ([apunts](https://docencia.ac.upc.edu/FIB/grau/EC/privat/TeoriaEC-tema8.pdf))
 
 <hr>
 
-Sessió 25: dimecres 25 de maig
+Sessió 27: X
 
 * Tema 8. Examen de problemes ([enunciats](./problemes/expr8.pdf) i [solucions](./problemes/expr8s.pdf))
 
 <hr>
-
-Sessió 26: dilluns 30 de maig
-
 
 -->
 
