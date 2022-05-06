@@ -205,7 +205,7 @@ Sessió 19: dimecres 4 de maig
 
 * Tema 6. Problemes resolts: 6.2
 
-* Tema 6. Examen de problemes ([enunciats](./problemes/expr6.pdf) 
+* Tema 6. Examen de problemes ([enunciats](./problemes/expr6.pdf)) 
 
 <!--
 
