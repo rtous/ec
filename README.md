@@ -211,6 +211,8 @@ Sessió 19: dimecres 4 de maig
 
 i [solucions](./problemes/expr6s.pdf)) 
 
+-->
+
 <hr>
 
 Sessió 20: dilluns 9 de maig
@@ -222,6 +224,8 @@ Sessió 20: dilluns 9 de maig
 * Problemes per dimecres 4 de maig: 6.7, 6.11
 
  <hr>
+
+<!--
 
 Sessió 21: dimecres 11 de maig
 
