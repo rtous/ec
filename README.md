@@ -205,13 +205,7 @@ Sessió 19: dimecres 4 de maig
 
 * Tema 6. Problemes resolts: 6.2
 
-* Tema 6. Examen de problemes ([enunciats](./problemes/expr6.pdf)) 
-
-<!--
-
-i [solucions](./problemes/expr6s.pdf)) 
-
--->
+* Tema 6. Examen de problemes ([enunciats](./problemes/expr6.pdf) i [solucions](./problemes/expr6s.pdf)) 
 
 <hr>
 
@@ -219,21 +213,20 @@ Sessió 20: dilluns 9 de maig
 
  * Tema 6. Memòria cache / Part 3: Model de temps i millores [slides](./slides/sessio23_1_tema6_3.pdf)
 
-* Tema 6. Problemes resolts: 6.10
-
 * Problemes per dimecres 4 de maig: 6.7, 6.11
 
  <hr>
-
-<!--
 
 Sessió 21: dimecres 11 de maig
 
 * Tema 6. Solució problemes encarregats 6.7, 6.11 ([solucions](./problemes/tema6_6_7_6_11.pdf))
 
-* Tema 6. Memòria cache / Part 3: Model de temps i millores (continuació)
+* Tema 6. Problemes resolts: 6.10
 
-* Tema 6. Examen de problemes 2 ([enunciats](./problemes/expr6_2.pdf) i ([solucions](./problemes/expr6_2s.pdf)) 
+* Tema 6. Examen de problemes 2 ([enunciats](./problemes/expr6_2.pdf) ) 
+
+<!--
+i ([solucions](./problemes/expr6_2s.pdf)
 
  <hr>
 
