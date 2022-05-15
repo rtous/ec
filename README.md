@@ -221,19 +221,17 @@ Sessió 21: dimecres 11 de maig
 
 * Tema 6. Solució problemes encarregats: 6.7
 
-* Tema 6. Problemes resolts: 6.10, 6.11
+* Tema 6. Problemes resolts: 6.10, 6.11 [solucions](./problemes/tema6_6_7_6_11.pdf)
 
-* Tema 6. Examen de problemes 2 ([enunciats](./problemes/expr6_2.pdf) ) 
-
-<!--
-i ([solucions](./problemes/expr6_2s.pdf)
-[solucions](./problemes/tema6_6_7_6_11.pdf)
+* Tema 6. Examen de problemes 2 ([enunciats](./problemes/expr6_2.pdf) i ([solucions](./problemes/expr6_2s.pdf)) 
 
  <hr>
 
 Sessió 22: dilluns 16 de maig
 
 * Tema 7. Memòria virtual [slides](./slides/sessio26_1_tema7_1.pdf)
+
+<!--
 
  <hr>
 
