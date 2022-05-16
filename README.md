@@ -1,14 +1,16 @@
 # EC: Estructura de Computadors (material professor R. Tous)
 
+<!--
 
 ## Seguiment online
 
 Quan sigui possible, les classes també es podran seguir via Google Meet a l'enllaç: [https://meet.google.com/zci-dneh-krk](https://meet.google.com/zci-dneh-krk)
 
+-->
 
 ## Lliurament problemes
 
-**(NOU)** S'ha creat una entrada a Atenea per que pugueu realitzar el lliurament dels problemes.
+S'ha creat una entrada a Atenea per que pugueu realitzar el lliurament dels problemes.
 
 ## Materials sessions
 
