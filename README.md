@@ -231,7 +231,7 @@ Sessió 22: dilluns 16 de maig
 
 * Tema 7. Memòria virtual [slides](./slides/sessio26_1_tema7_1.pdf)
 
-* Tema 7. Problemes resolts:: 7.1, 7.4 
+* Tema 7. Problemes resolts: 7.1, 7.4 
 
 <!--
 
