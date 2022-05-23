@@ -237,19 +237,7 @@ Sessió 22: dilluns 16 de maig
 
 Sessió 23: dimecres 18 de maig
 
-* Tema 7. Problemes resolts: 7.1, 7.4 
-
-* Tema 7. Memòria virtual (TLB)
-
-<!--
-
-[solucions](./problemes/tema7_7_4.pdf)
-
- <hr>
-
-Sessió 23: dimecres 18 de maig
-
-* Tema 7. Solució problemes: 7.1, 7.4 [solucions](./problemes/tema7_7_4.pdf)
+* Tema 7. Problemes resolts: 7.1, 7.4 [solucions](./problemes/tema7_7_4.pdf)
 
 * Tema 7. Memòria virtual (TLB)
 
@@ -259,8 +247,11 @@ Sessió 24: dilluns 23 de maig
 
 * Tema 7. Memòria virtual (protecció i compartició)
 
-* Tema 7. Examen de problemes ([enunciats](./problemes/expr7.pdf) i [solucions](./problemes/expr7s.pdf)) 
+* Tema 7. Examen de problemes ([enunciats](./problemes/expr7.pdf)) 
 
+<!--
+
+ i [solucions](./problemes/expr7s.pdf)
 
 <hr>
 
