@@ -252,7 +252,13 @@ Sessió 24: dilluns 23 de maig
 
 <hr>
 
+Sessió 25: dimecres 25 de maig
+
+* Problemes temes 6 i 7 ([enunciats](./problemes/expr10_repas_mc_i_mv.pdf)) 
+
 <!--
+
+i [solucions](./problemes/expr6_2s.pdf)
 
 Sessió 25: dimecres 25 de maig
 
