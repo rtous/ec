@@ -249,11 +249,6 @@ Sessió 24: dilluns 23 de maig
 
 * Tema 7. Examen de problemes ([enunciats](./problemes/expr7.pdf)) i [solucions](./problemes/expr7s.pdf)
 
-<hr>
-
-Sessió 25: dimecres 25 de maig
-
-* Problemes temes 6 i 7 ([enunciats](./problemes/expr10_repas_mc_i_mv.pdf)) 
 
 <!--
 
@@ -267,9 +262,18 @@ Sessió 25: dimecres 25 de maig
 
 -->
 
+<hr>
+
 Sessió 25: dimecres 25 de maig
 
 * Tema 8 ([apunts](https://docencia.ac.upc.edu/FIB/grau/EC/privat/TeoriaEC-tema8.pdf))
+
+<hr>
+
+Sessió 26: dilluns 30 de maig
+
+* Problemes temes 6 i 7 ([enunciats](./problemes/expr10_repas_mc_i_mv.pdf)) 
+
 
 <!--
 
