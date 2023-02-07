@@ -20,6 +20,7 @@ Sessió 1: dilluns 14 de febrer
 
 * Tema 2. Instruccions i tipus de dades bàsics / Introducció [(slides)](./slides/sessio1_2_tema2_intro.pdf)
 
+<!--
 <hr>
 
 Sessió 2: dimecres 16 de febrer
@@ -142,7 +143,7 @@ Sessió 13: dilluns 28 de març
     * [vídeo 2: divisor](https://www.youtube.com/watch?v=oWHNRd7dGP4&t=1209s)
 
 * Tema 5. Problemes resolts: 5.11.b, 5.15.a
-
+-->
 <!--
     )
 	* Tema 5. Problemes resolts: 5.11.b, 5.15.a
@@ -151,7 +152,7 @@ Sessió 13: dilluns 28 de març
 [solucions](./problemes/tema1_7_1_11_5_6_5_7_5_11_a_5_15_b.pdf)
 -->
 
-
+<!--
 <hr>
 
 Sessió 14: dimecres 30 de març
@@ -248,7 +249,7 @@ Sessió 24: dilluns 23 de maig
 * Tema 7. Memòria virtual (protecció i compartició)
 
 * Tema 7. Examen de problemes ([enunciats](./problemes/expr7.pdf)) i [solucions](./problemes/expr7s.pdf)
-
+-->
 
 <!--
 
@@ -261,7 +262,7 @@ Sessió 25: dimecres 25 de maig
 * Tema 7. Solució problemes:: 7.2 i 7.7 [solucions](./problemes/tema7_7_2_7_7.pdf)
 
 -->
-
+<!--
 <hr>
 
 Sessió 25: dimecres 25 de maig
@@ -273,7 +274,7 @@ Sessió 25: dimecres 25 de maig
 Sessió 26: dilluns 30 de maig
 
 * Problemes temes 6 i 7 ([enunciats](./problemes/expr10_repas_mc_i_mv.pdf)) 
-
+-->
 
 <!--
 
