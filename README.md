@@ -14,24 +14,24 @@ S'ha creat una entrada a Atenea per que pugueu realitzar el lliurament dels prob
 
 ## Materials sessions
 
-Sessió 1: dilluns 14 de febrer
+Sessió 1: dilluns 13 de febrer
 
 * Presentació [(slides)](./slides/sessio1_1_presentacio.pdf)
 
 * Tema 2. Instruccions i tipus de dades bàsics / Introducció [(slides)](./slides/sessio1_2_tema2_intro.pdf)
 
-<!--
+
 <hr>
 
-Sessió 2: dimecres 16 de febrer
+Sessió 2: dimarts 14 de febrer
 
 * Tema 2. Instruccions i tipus de dades bàsics / Assemblador [slides](./slides/sessio2_1_tema2_assemblador.pdf)
 
-
+<!--
 
 <hr>
 
-Sessió 3: dilluns 21 de febrer
+Sessió 3: dilluns 20 de febrer
 
 * Tema 2. Instruccions i tipus de dades bàsics / Repàs naturals i enters [slides](./slides/sessio3_1_tema2_enters.pdf)
 
@@ -43,7 +43,7 @@ Sessió 3: dilluns 21 de febrer
 
 <hr>
 
-Sessió 4: dimecres 23 de febrer
+Sessió 4: dimarts 21 de febrer
 
 * Tema 2. Solució problemes encarregats: 2.6 (memòria)
 
@@ -58,7 +58,7 @@ Sessió 4: dimecres 23 de febrer
 
 <hr>
 
-Sessió 5: dilluns 28 de febrer
+Sessió 5: dilluns 27 de febrer
 
 * Tema 2. Solució problemes encarregats: 2.22, 2.32.c, 2.31
 
@@ -67,7 +67,7 @@ Sessió 5: dilluns 28 de febrer
 
 <hr>
 
-Sessió 6: dimecres 2 de març
+Sessió 6: dimarts 28 de febrer
 
 * Tema 3. Traducció de programes / bitwise, condicions, if-then-else [slides](./slides/sessio6_1_tema3_condicionals.pdf)
 
@@ -77,7 +77,7 @@ Sessió 6: dimecres 2 de març
 
 <hr>
 
-Sessió 7: dilluns 7 de març
+Sessió 7: dilluns 6 de març
 
 * Tema 3. Solució problemes encarregats: 3.5.a, 3.9 (bits)
 
@@ -85,7 +85,7 @@ Sessió 7: dilluns 7 de març
 
 <hr>
 
-Sessió 8: dimecres 9 de març
+Sessió 8: dimarts 7 de març
 
 * Tema 3. Traducció de programes / subrutines (continuació)
 
@@ -97,7 +97,7 @@ Sessió 8: dimecres 9 de març
 
 <hr>
 
-Sessió 9: dilluns 14 de març
+Sessió 9: dilluns 13 de març
 
 * Tema 3. Solució problemes encarregats: 3.34, 3.26, 3.36 (subrutines) [solucions](./problemes/tema3_3_34_3_26_3_36.pdf)
 
@@ -105,7 +105,7 @@ Sessió 9: dilluns 14 de març
 
 <hr>
 
-Sessió 10: dimecres 16 de març
+Sessió 10: dimarts 14 de març
 
 * Tema 4. Problemes resolts: 4.4, 4.8 (matrius)
 
@@ -116,7 +116,7 @@ Sessió 10: dimecres 16 de març
 
 <hr>
 
-Sessió 11: dilluns 21 de març
+Sessió 11: dilluns 20 de març
 
 * Tema 3. Solució problemes encarregats: 4.11 (matrius)
 
@@ -124,7 +124,7 @@ Sessió 11: dilluns 21 de març
 
 <hr>
 
-Sessió 12: dimecres 23 de març
+Sessió 12: dimarts 21 de març
 
 * Tema 1. Problemes resolts: 1.3, 1.6 (rendiment i consum)
 
@@ -135,7 +135,7 @@ Sessió 12: dimecres 23 de març
 
 <hr>
 
-Sessió 13: dilluns 28 de març
+Sessió 13: dilluns 27 de març
 
 * Tema 5. Aritmètica d'enters i coma flotant / 5.1-5.3 Aritmètica d'enters
     * [slides](./slides/sessio12_1_tema5_1_aritmeticaentera_1.pdf)
@@ -145,6 +145,7 @@ Sessió 13: dilluns 28 de març
 * Tema 5. Problemes resolts: 5.11.b, 5.15.a
 -->
 <!--
+	DISCARDED
     )
 	* Tema 5. Problemes resolts: 5.11.b, 5.15.a
 	* Problemes per dilluns 28 de març: 1.7, 1.11, 5.6, 5.7, 5.11.a, 5.15.b 
@@ -154,8 +155,8 @@ Sessió 13: dilluns 28 de març
 
 <!--
 <hr>
-
-Sessió 14: dimecres 30 de març
+DISCARDED
+Sessió 14: dimarts 28 de març
 
 * Examen de problemes temes 1, 2, 3 i 4
 
@@ -164,13 +165,13 @@ Sessió 14: dimecres 30 de març
 EXAMEN PARCIAL: dimarts 5 d'abril
 
 * Examen Parcial. Seguiu les instruccions de la convocatòria publicada al Racó.
-
+-->
+<!--
 
 
 
 <hr>
-
-Sessió 15: dimecres 20 d'abril
+Sessió 14: dimarts 28 de març
 
 * Tema 5. Aritmètica d'enters i coma flotant / 5.4 Representació [slides](./slides/sessio16_1_tema5_2_floats_1.pdf)
 
@@ -178,23 +179,32 @@ Sessió 15: dimecres 20 d'abril
 
 <hr>
 
-Sessió 16: dilluns 25 d'abril
+Sessió 15: dimarts 11 d'abril
+
 
 * Tema 5. Aritmètica d'enters i coma flotant / Suma i resta [slides](./slides/sessio17_1_tema5_2_floats_2.pdf)
 
 
 <hr>
 
-Sessió 17: dimecres 27 d'abril
+Sessió 16: dimecres 12 d'abril
 
 * Tema 5. Aritmètica d'enters i coma flotant / Multiplicació i coma flotant a MIPS [slides](./slides/sessio17_2_tema5_3_floats_3.pdf)
 
 * Tema 5. Examen de problemes [enunciats](./problemes/expr5_4.pdf) i [solucions](./problemes/expr5_4s.pdf)
 
+<hr>
+
+Sessió 17: dilluns 17 d'abril
 
 <hr>
 
-Sessió 18: dilluns 2 de maig
+Sessió 18: dimarts 18 d'abril
+
+
+<hr>
+
+Sessió 19: dimarts 2 de maig
 
 * Tema 6. Memòria cache / Introducció i disseny bàsic [slides](./slides/sessio19_1_tema6_1.pdf)
 
@@ -202,7 +212,8 @@ Sessió 18: dilluns 2 de maig
 
 <hr>
 
-Sessió 19: dimecres 4 de maig
+Sessió 20: dilluns 8 de maig
+
 
 * Tema 6. Memòria cache / Part 2: Gestió de les escriptures [slides](./slides/sessio22_1_tema6_2.pdf)
 
@@ -212,7 +223,8 @@ Sessió 19: dimecres 4 de maig
 
 <hr>
 
-Sessió 20: dilluns 9 de maig
+Sessió 21: dimarts 9 de maig
+
 
  * Tema 6. Memòria cache / Part 3: Model de temps i millores [slides](./slides/sessio23_1_tema6_3.pdf)
 
@@ -220,7 +232,8 @@ Sessió 20: dilluns 9 de maig
 
  <hr>
 
-Sessió 21: dimecres 11 de maig
+Sessió 22: dilluns 15 de maig
+
 
 * Tema 6. Solució problemes encarregats: 6.7 [solucions](./problemes/tema6_6_7_6_11.pdf)
 
@@ -230,21 +243,23 @@ Sessió 21: dimecres 11 de maig
 
  <hr>
 
-Sessió 22: dilluns 16 de maig
+Sessió 23: dimarts 16 de maig
+
 
 * Tema 7. Memòria virtual [slides](./slides/sessio26_1_tema7_1.pdf)
 
 <hr>
 
-Sessió 23: dimecres 18 de maig
+Sessió 24: dilluns 22 de maig
+
 
 * Tema 7. Problemes resolts: 7.1, 7.4 [solucions](./problemes/tema7_7_4.pdf)
 
 * Tema 7. Memòria virtual (TLB)
 
 <hr>
+Sessió 25: dimarts 23 de maig
 
-Sessió 24: dilluns 23 de maig
 
 * Tema 7. Memòria virtual (protecció i compartició)
 
@@ -252,7 +267,7 @@ Sessió 24: dilluns 23 de maig
 -->
 
 <!--
-
+DISCARDED
 i [solucions](./problemes/expr6_2s.pdf)
 
 Sessió 25: dimecres 25 de maig
@@ -265,19 +280,21 @@ Sessió 25: dimecres 25 de maig
 <!--
 <hr>
 
-Sessió 25: dimecres 25 de maig
+Sessió 26: dilluns 29 de maig
+
 
 * Tema 8 ([apunts](https://docencia.ac.upc.edu/FIB/grau/EC/privat/TeoriaEC-tema8.pdf))
 
 <hr>
 
-Sessió 26: dilluns 30 de maig
+Sessió 27: dimarts 30 de maig
+
 
 * Problemes temes 6 i 7 ([enunciats](./problemes/expr10_repas_mc_i_mv.pdf)) 
 -->
 
 <!--
-
+DISCARDED
 <hr>
 
 Sessió 26: dilluns 30 de maig
