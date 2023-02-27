@@ -55,7 +55,8 @@ Sessió 4: dimarts 21 de febrer
 
 * Tema 2. Problemes per dilluns 27 de febrer: 2.22, 2.32.c, 2.31 
 
-<!--
+
+
 <hr>
 
 Sessió 5: dilluns 27 de febrer
@@ -74,6 +75,8 @@ Sessió 6: dimarts 28 de febrer
 * Tema 3. Traducció de programes / switch i bucles [slides](./slides/sessio7_1_tema3_switch_i_bucles.pdf)
 
 * Problemes per dilluns 7 de març: 3.5.a, 3.9 (bits)
+
+<!--
 
 <hr>
 
