@@ -76,8 +76,6 @@ Sessió 6: dimarts 28 de febrer
 
 * Problemes per dilluns 7 de març: 3.5.a, 3.9 (bits)
 
-<!--
-
 <hr>
 
 Sessió 7: dilluns 6 de març
@@ -97,6 +95,8 @@ Sessió 8: dimarts 7 de març
 * Tema 3. Estructura de la memòria, compilació, assemblatge, enllaçat i càrrega [slides](./slides/sessio9_1_tema3_mem_i_compilacio.pdf)
 
 * Problemes per dilluns 14 de març: 3.34, 3.26, 3.36 (subrutines)
+
+<!--
 
 <hr>
 
