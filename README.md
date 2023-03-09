@@ -96,13 +96,13 @@ Sessió 8: dimarts 7 de març
 
 * Problemes per dilluns 14 de març: 3.34, 3.26, 3.36 (subrutines)
 
-<!--
+
 
 <hr>
 
 Sessió 9: dilluns 13 de març
 
-* Tema 3. Solució problemes encarregats: 3.34, 3.26, 3.36 (subrutines) [solucions](./problemes/tema3_3_34_3_26_3_36.pdf)
+* Tema 3. Solució problemes encarregats: 3.34, 3.26, 3.36 (subrutines) <!--[solucions](./problemes/tema3_3_34_3_26_3_36.pdf)-->
 
 * Tema 4. Matrius [slides](./slides/sessio9_2_tema4_matrius1.pdf)
 
@@ -112,11 +112,11 @@ Sessió 10: dimarts 14 de març
 
 * Tema 4. Problemes resolts: 4.4, 4.8 (matrius)
 
-* Tema 4. Examen de problemes [enunciats](./problemes/expr3i4.pdf) [solucions](./problemes/expr3i4s.pdf)
+* Tema 4. Examen de problemes [enunciats](./problemes/expr3i4.pdf) <!--[solucions](./problemes/expr3i4s.pdf)-->
 
-* Problemes per dilluns 21 de març: 4.2, 4.9, 4.11 (matrius) [solucions](./problemes/tema4_2_4_9_4_11.pdf)
+* Problemes per dilluns 21 de març: 4.2, 4.9, 4.11 (matrius) <!--[solucions](./problemes/tema4_2_4_9_4_11.pdf)-->
 
-
+<!--
 <hr>
 
 Sessió 11: dilluns 20 de març
