@@ -110,7 +110,7 @@ Sessió 9: dilluns 13 de març
 
 Sessió 10: dimarts 14 de març
 
-* Tema 4. Problemes resolts: 4.4, 4.8 (matrius)
+<!--* Tema 4. Problemes resolts: 4.4, 4.8 (matrius)-->
 
 * Tema 4. Examen de problemes [enunciats](./problemes/expr3i4.pdf) <!--[solucions](./problemes/expr3i4s.pdf)-->
 
