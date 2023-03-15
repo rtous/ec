@@ -116,12 +116,11 @@ Sessió 10: dimarts 14 de març
 
 <!--* Problemes per dilluns 21 de març: 4.2, 4.9, 4.11 (matrius) <!--[solucions](./problemes/tema4_2_4_9_4_11.pdf)-->
 
-<!--
 <hr>
 
 Sessió 11: dilluns 20 de març
 
-* Tema 3. Solució problemes encarregats: 4.11 (matrius)
+* Tema 4. Problemes resolts: 4.8 
 
 * Tema 1. Rendiment i consum [slides](./slides/sessio11_1_tema1_rendiment.pdf)
 
@@ -131,11 +130,11 @@ Sessió 12: dimarts 21 de març
 
 * Tema 1. Problemes resolts: 1.3, 1.6 (rendiment i consum)
 
-* Tema 1. Examen de problemes [enunciats](./problemes/expr1_v2.pdf) [solucions](./problemes/expr1_v2s.pdf)
+* Tema 1. Examen de problemes [enunciats](./problemes/expr1_v2.pdf) <!--[solucions](./problemes/expr1_v2s.pdf)-->
 
-* Problemes per dilluns 28 de març: 1.7, 1.11 [solucions](./problemes/tema1_4_2_4_9_1_7_1_11.pdf)
+* Problemes per dilluns 28 de març: 1.7, 1.11 <!--[solucions](./problemes/tema1_4_2_4_9_1_7_1_11.pdf)-->
 
-
+<!--
 <hr>
 
 Sessió 13: dilluns 27 de març
