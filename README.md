@@ -135,6 +135,8 @@ Sessió 12: dimarts 21 de març
 
 <!--* Problemes per dilluns 28 de març: 1.7, 1.11 [solucions](./problemes/tema1_4_2_4_9_1_7_1_11.pdf)-->
 
+* Solucions problemes 4.2, 4.9, 1.7, 1.11 (no els hem treballat a classe però per si algú vol ampliar): [solucions](./problemes/tema1_4_2_4_9_1_7_1_11.pdf)
+
 <hr>
 
 Sessió 13: dilluns 27 de març
