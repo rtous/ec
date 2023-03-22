@@ -114,7 +114,7 @@ Sessió 10: dimarts 14 de març
 
 * Tema 4. Examen de problemes [enunciats](./problemes/expr3i4.pdf) <!--[solucions](./problemes/expr3i4s.pdf)-->
 
-<!--* Problemes per dilluns 21 de març: 4.2, 4.9, 4.11 (matrius) <!--[solucions](./problemes/tema4_2_4_9_4_11.pdf)-->
+<!--* Problemes per dilluns 21 de març: 4.2, 4.9, 4.11 (matrius) [solucions](./problemes/tema4_2_4_9_4_11.pdf)-->
 
 <hr>
 
@@ -127,25 +127,27 @@ Sessió 11: dilluns 20 de març
 <hr>
 
 Sessió 12: dimarts 21 de març
-
+<!-- -->
 * Tema 1. Problemes resolts: 1.3, 1.6 (rendiment i consum)
+<!-- -->
+* Tema 1. Examen de problemes [enunciats](./problemes/expr1_v2.pdf) 
+<!-- [solucions](./problemes/expr1_v2s.pdf) -->
 
-* Tema 1. Examen de problemes [enunciats](./problemes/expr1_v2.pdf) <!--[solucions](./problemes/expr1_v2s.pdf)-->
+<!--* Problemes per dilluns 28 de març: 1.7, 1.11 [solucions](./problemes/tema1_4_2_4_9_1_7_1_11.pdf)-->
 
-* Problemes per dilluns 28 de març: 1.7, 1.11 <!--[solucions](./problemes/tema1_4_2_4_9_1_7_1_11.pdf)-->
-
-<!--
 <hr>
 
 Sessió 13: dilluns 27 de març
-
+<!-- -->
 * Tema 5. Aritmètica d'enters i coma flotant / 5.1-5.3 Aritmètica d'enters
     * [slides](./slides/sessio12_1_tema5_1_aritmeticaentera_1.pdf)
+	<!--
 	* [vídeo 1: multiplicador](https://www.youtube.com/watch?v=d-LYzUcRK1w&t=365s)
     * [vídeo 2: divisor](https://www.youtube.com/watch?v=oWHNRd7dGP4&t=1209s)
+    -->
 
 * Tema 5. Problemes resolts: 5.11.b, 5.15.a
--->
+
 <!--
 	DISCARDED
     )
@@ -168,7 +170,7 @@ EXAMEN PARCIAL: dimarts 5 d'abril
 
 * Examen Parcial. Seguiu les instruccions de la convocatòria publicada al Racó.
 -->
-<!--
+
 
 
 
@@ -179,6 +181,7 @@ Sessió 14: dimarts 28 de març
 
 * Problemes per dilluns 25 d'abril: 5.23
 
+<!--
 <hr>
 
 Sessió 15: dimarts 11 d'abril
