@@ -130,8 +130,7 @@ Sessió 12: dimarts 21 de març
 <!-- -->
 * Tema 1. Problemes resolts: 1.3, 1.6 (rendiment i consum)
 <!-- -->
-* Tema 1. Examen de problemes [enunciats](./problemes/expr1_v2.pdf) 
-<!-- [solucions](./problemes/expr1_v2s.pdf) -->
+* Tema 1. Examen de problemes [enunciats](./problemes/expr1_v2.pdf) [solucions](./problemes/expr1_v2s.pdf)
 
 <!--* Problemes per dilluns 28 de març: 1.7, 1.11 [solucions](./problemes/tema1_4_2_4_9_1_7_1_11.pdf)-->
 
