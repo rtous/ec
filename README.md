@@ -96,8 +96,6 @@ Sessió 8: dimarts 7 de març
 
 * Problemes per dilluns 14 de març: 3.34, 3.26, 3.36 (subrutines)
 
-
-
 <hr>
 
 Sessió 9: dilluns 13 de març
@@ -200,20 +198,24 @@ Sessió 16: dimecres 12 d'abril
 
 <!-- i [solucions](./problemes/expr5_part1s.pdf) -->
 
-<!--
 <hr>
 
 Sessió 17: dilluns 17 d'abril
 
 * Tema 5. Aritmètica d'enters i coma flotant / Multiplicació i coma flotant a MIPS [slides](./slides/sessio17_2_tema5_3_floats_3.pdf)
+ 
+* Tema 5. Examen de problemes [enunciats](./problemes/expr5_part2.pdf) 
 
-* Tema 5. Examen de problemes [enunciats](./problemes/expr5_part2.pdf) i [solucions](./problemes/expr5_part2s.pdf)
+<!-- i [solucions](./problemes/expr5_part2s.pdf) -->
+
 
 <hr>
 
 Sessió 18: dimarts 18 d'abril
 
+* Repàs problemes temes 1, 2, 3, 4 i 5
 
+<!--
 <hr>
 
 Sessió 19: dimarts 2 de maig
