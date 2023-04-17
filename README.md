@@ -211,6 +211,12 @@ Sessió 18: dimarts 18 d'abril
 
 * Repàs problemes temes 1, 2, 3, 4 i 5
 
+<hr>
+
+EXAMEN PARCIAL: dimarts 25 d'abril
+
+* Examen Parcial. Seguiu les instruccions de la convocatòria publicada al Racó.
+
 <!--
 <hr>
 
