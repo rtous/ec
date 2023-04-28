@@ -217,14 +217,14 @@ EXAMEN PARCIAL: dimarts 25 d'abril
 
 * Examen Parcial. Seguiu les instruccions de la convocatòria publicada al Racó.
 
-<!--
+
 <hr>
 
 Sessió 19: dimarts 2 de maig
 
 * Tema 6. Memòria cache / Introducció i disseny bàsic [slides](./slides/sessio19_1_tema6_1.pdf)
 
-
+<!--
 
 <hr>
 
