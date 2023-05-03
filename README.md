@@ -224,7 +224,7 @@ Sessió 19: dimarts 2 de maig
 
 * Tema 6. Memòria cache / Introducció i disseny bàsic [slides](./slides/sessio19_1_tema6_1.pdf)
 
-<!--
+* Tema 6. Problemes resolts: 6.1
 
 <hr>
 
@@ -235,7 +235,9 @@ Sessió 20: dilluns 8 de maig
 
 * Tema 6. Problemes resolts: 6.2
 
-* Tema 6. Examen de problemes ([enunciats](./problemes/expr6.pdf) i [solucions](./problemes/expr6s.pdf)) 
+* Tema 6. Examen de problemes [enunciats](./problemes/expr6.pdf) 
+
+<!--i [solucions](./problemes/expr6s.pdf) -->
 
 <hr>
 
@@ -246,6 +248,7 @@ Sessió 21: dimarts 9 de maig
 
 * Problemes per dimecres 4 de maig: 6.7
 
+<!--
  <hr>
 
 Sessió 22: dilluns 15 de maig
