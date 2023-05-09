@@ -233,9 +233,6 @@ Sessió 20: dilluns 8 de maig
 
 * Tema 6. Memòria cache / Part 2: Gestió de les escriptures [slides](./slides/sessio22_1_tema6_2.pdf)
 
-* Tema 6. Problemes resolts: 6.2
-
-* Tema 6. Examen de problemes [enunciats](./problemes/expr6.pdf) 
 
 <!--i [solucions](./problemes/expr6s.pdf) -->
 
@@ -243,42 +240,48 @@ Sessió 20: dilluns 8 de maig
 
 Sessió 21: dimarts 9 de maig
 
+* Tema 6. Problemes resolts: 6.2
 
- * Tema 6. Memòria cache / Part 3: Model de temps i millores [slides](./slides/sessio23_1_tema6_3.pdf)
+* Tema 6. Memòria cache / Part 3: Model de temps i millores [slides](./slides/sessio23_1_tema6_3.pdf)
 
-* Problemes per dimecres 4 de maig: 6.7
+* Tema 6. Examen de problemes [enunciats](./problemes/expr6.pdf) 
 
-<!--
+* Problemes per dilluns 15 de maig: 6.7
+
  <hr>
 
 Sessió 22: dilluns 15 de maig
 
+* Tema 6. Solució problemes encarregats: 6.7 <!-- [solucions](./problemes/tema6_6_7_6_11.pdf) -->
 
-* Tema 6. Solució problemes encarregats: 6.7 [solucions](./problemes/tema6_6_7_6_11.pdf)
+* Tema 6. Memòria cache / Part 3: Model de temps i millores (continuació)
 
-* Tema 6. Problemes resolts: 6.10, 6.11 
+* Tema 6. Problemes resolts: 6.10 
 
-* Tema 6. Examen de problemes 2 ([enunciats](./problemes/expr6_2.pdf) i [solucions](./problemes/expr6_2s.pdf)) 
 
  <hr>
 
 Sessió 23: dimarts 16 de maig
 
+* Tema 6. Problemes resolts: 6.11 
 
-* Tema 7. Memòria virtual [slides](./slides/sessio26_1_tema7_1.pdf)
+* Tema 6. Examen de problemes 2 [enunciats](./problemes/expr6_2.pdf) <!-- i [solucions](./problemes/expr6_2s.pdf) -->
 
 <hr>
 
+<!-- 
+
 Sessió 24: dilluns 22 de maig
 
+* Tema 7. Memòria virtual [slides](./slides/sessio26_1_tema7_1.pdf)
 
 * Tema 7. Problemes resolts: 7.1, 7.4 [solucions](./problemes/tema7_7_4.pdf)
 
-* Tema 7. Memòria virtual (TLB)
 
 <hr>
 Sessió 25: dimarts 23 de maig
 
+* Tema 7. Memòria virtual (TLB)
 
 * Tema 7. Memòria virtual (protecció i compartició)
 
