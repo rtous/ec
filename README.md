@@ -244,7 +244,7 @@ Sessió 21: dimarts 9 de maig
 
 * Tema 6. Memòria cache / Part 3: Model de temps i millores [slides](./slides/sessio23_1_tema6_3.pdf)
 
-* Tema 6. Examen de problemes [enunciats](./problemes/expr6.pdf) i i [solucions](./problemes/expr6_1s.pdf)
+* Tema 6. Examen de problemes [enunciats](./problemes/expr6.pdf) i i [solucions](./problemes/expr6s.pdf)
 
 * Problemes per dilluns 15 de maig: 6.7
 
