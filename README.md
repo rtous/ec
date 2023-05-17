@@ -244,7 +244,7 @@ Sessió 21: dimarts 9 de maig
 
 * Tema 6. Memòria cache / Part 3: Model de temps i millores [slides](./slides/sessio23_1_tema6_3.pdf)
 
-* Tema 6. Examen de problemes [enunciats](./problemes/expr6.pdf) 
+* Tema 6. Examen de problemes [enunciats](./problemes/expr6.pdf) i i [solucions](./problemes/expr6_1s.pdf)
 
 * Problemes per dilluns 15 de maig: 6.7
 
@@ -252,7 +252,7 @@ Sessió 21: dimarts 9 de maig
 
 Sessió 22: dilluns 15 de maig
 
-* Tema 6. Solució problemes encarregats: 6.7 <!-- [solucions](./problemes/tema6_6_7_6_11.pdf) -->
+* Tema 6. Solució problemes encarregats: 6.7 [solucions](./problemes/tema6_6_7_6_11.pdf) 
 
 * Tema 6. Memòria cache / Part 3: Model de temps i millores (continuació)
 
@@ -265,12 +265,11 @@ Sessió 23: dimarts 16 de maig
 
 * Tema 6. Problemes resolts: 6.11 
 
-* Tema 6. Examen de problemes 2 [enunciats](./problemes/expr6_2.pdf) <!-- i [solucions](./problemes/expr6_2s.pdf) -->
+* Tema 6. Examen de problemes 2 [enunciats](./problemes/expr6_2.pdf) i [solucions](./problemes/expr6_2s.pdf)
 
 <hr>
 
-<!-- 
-
+ 
 Sessió 24: dilluns 22 de maig
 
 * Tema 7. Memòria virtual [slides](./slides/sessio26_1_tema7_1.pdf)
@@ -285,8 +284,11 @@ Sessió 25: dimarts 23 de maig
 
 * Tema 7. Memòria virtual (protecció i compartició)
 
-* Tema 7. Examen de problemes ([enunciats](./problemes/expr7.pdf)) i [solucions](./problemes/expr7s.pdf)
+* Tema 7. Examen de problemes ([enunciats](./problemes/expr7.pdf)) 
+
+<!-- i [solucions](./problemes/expr7s.pdf)
 -->
+
 
 <!--
 DISCARDED
