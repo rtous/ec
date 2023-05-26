@@ -278,16 +278,13 @@ Sessió 24: dilluns 22 de maig
 
 
 <hr>
+
 Sessió 25: dimarts 23 de maig
 
 * Tema 7. Memòria virtual (TLB)
 
-* Tema 7. Memòria virtual (protecció i compartició)
+* Problemes per dilluns 29 de maig: 7.6
 
-* Tema 7. Examen de problemes ([enunciats](./problemes/expr7.pdf)) 
-
-<!-- i [solucions](./problemes/expr7s.pdf)
--->
 
 
 <!--
@@ -301,21 +298,31 @@ Sessió 25: dimecres 25 de maig
 * Tema 7. Solució problemes:: 7.2 i 7.7 [solucions](./problemes/tema7_7_2_7_7.pdf)
 
 -->
-<!--
+
 <hr>
 
 Sessió 26: dilluns 29 de maig
 
+* Tema 7. Solució problemes encarregats: 7.6
 
-* Tema 8 ([apunts](https://docencia.ac.upc.edu/FIB/grau/EC/privat/TeoriaEC-tema8.pdf))
+* Tema 7. Memòria virtual (protecció i compartició)
+
+* Tema 7. Examen de problemes ([enunciats](./problemes/expr7.pdf)) 
+
+<!-- i [solucions](./problemes/expr7s.pdf)
+-->
 
 <hr>
 
 Sessió 27: dimarts 30 de maig
 
+* Tema 8 ([apunts](https://docencia.ac.upc.edu/FIB/grau/EC/privat/TeoriaEC-tema8.pdf))
 
+
+<!--
 * Problemes temes 6 i 7 ([enunciats](./problemes/expr10_repas_mc_i_mv.pdf)) 
 -->
+
 
 <!--
 DISCARDED
