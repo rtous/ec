@@ -307,16 +307,15 @@ Sessió 26: dilluns 29 de maig
 
 * Tema 7. Memòria virtual (protecció i compartició)
 
-* Tema 7. Examen de problemes ([enunciats](./problemes/expr7.pdf)) 
-
-<!-- i [solucions](./problemes/expr7s.pdf)
--->
+* Tema 7. Examen de problemes ([enunciats](./problemes/expr7.pdf)) i [solucions](./problemes/expr7s.pdf)
 
 <hr>
 
 Sessió 27: dimarts 30 de maig
 
 * Tema 8 ([apunts](https://docencia.ac.upc.edu/FIB/grau/EC/privat/TeoriaEC-tema8.pdf))
+
+* Tema 8. Examen de problemes ([enunciats](./problemes/expr8.pdf) i [solucions](./problemes/expr8s.pdf))
 
 
 <!--
