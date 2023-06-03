@@ -307,7 +307,7 @@ Sessió 26: dilluns 29 de maig
 
 * Tema 7. Memòria virtual (protecció i compartició)
 
-* Tema 7. Examen de problemes ([enunciats](./problemes/expr7.pdf)) i [solucions](./problemes/expr7s.pdf)
+* Tema 7. Examen de problemes ([enunciats](./problemes/expr7.pdf)) i [solucions](./problemes/expr7s2.pdf)
 
 <hr>
 
