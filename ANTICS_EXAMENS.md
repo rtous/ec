@@ -2,7 +2,7 @@
 
 ## Preguntes famoses d'antics examens 
 
-Per minimitzar el nombre d'emails que rebo (especialment els dies anteriors a l'examen final) intento donar resposta aquí als dubtes que rebo sobre preguntes d'antics exàmens. 
+Per minimitzar el nombre d'emails que rebo (especialment els dies anteriors a l'examen final) intento donar resposta aquí als dubtes més freqüents sobre preguntes d'antics exàmens. No són preguntes massa representatives, n'hi ha de molt difícils, algunes amb enunciats no gaire afortunats i algunes amb errors a la solució oficial.
 
 ## Pregunta 4 final 17-18/Q1
 
