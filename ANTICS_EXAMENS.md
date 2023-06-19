@@ -2,7 +2,7 @@
 
 ## Preguntes famoses d'antics examens 
 
-S'ha creat una entrada a Atenea per que pugueu realitzar el lliurament dels problemes.
+Per minimitzar el nombre d'emails que rebo (especialment els dies anteriors a l'examen final) intento donar resposta aquí als dubtes que rebo sobre preguntes d'antics exàmens. 
 
 ## Pregunta 5 final 22-23/Q1
 
