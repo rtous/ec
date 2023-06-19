@@ -96,6 +96,87 @@ La solució correcta de l'apartat (d) seria:
 
 	d) CPI = CPIideal + penalització fetch + penalització dades = 2,5 + 1 + 1,2 = 4,7 cicles
 
+## Pregunta 9 final 20-21/Q2
+
+Un dels exercicis de memòria cache més difícils que recordo:
+
+<img src="antics_examens/20_21_Q2_final_p9.png"  width="400">
+
+Anàlisi geometria MC
+
+	MC = 1KB = 1024 
+	= 2^10 = 2^3 conjunts * 2^1 vies * 2^4 words * 2^2 bytes/words 
+	= 8 conjunts de 16 paraules
+
+offset = 6 bits
+
+Anàlisi estructures:
+
+Vector:
+
+int V[128]: 128/16 = 8 blocs, per tant la següent estructura comença al conjunt 0. L'adreça del primer bloc MP serà (treient els 6 bits d'offset)
+
+En binari:
+
+	0001 0000 0000 0001 0000 0000 00
+	=  
+	00 0100 0000 0000 0100 0000 0000
+
+	= 
+
+	0x400400
+
+Matriu:
+
+int M[128][16]: un bloc cada filera.
+
+Bloc MP de M[0][0]? 0x400408 
+
+Anàlisi del codi (2 vies):
+
+En algunes iteracions el bloc de V i de M van a parar al mateix conjunt però no importa ja que tenim 2 vies. Per tant simplement tindrem una fallada per bloc:
+
+	V = 8 blocs = 8 fallades
+	M = 128 blocs = 128 fallades
+	Total: 136 fallades
+
+Correspondència directa (el difícil):
+
+Revisem la geometria de la MC i el mapeig de les estructures:
+
+- Ara tindrem 16 línies en comptes de 8 conjunts de 2 vies. 
+- V es mapejarà a 8 primeres.
+- Les fileres 0..7 de M es mapejaran a les línies 8-15.
+- Les fileres 8..15 de M es mapejaran a les línies 0-7, igual que V.
+- Cada 8 fileres de M tornaran a coincidir M i V. Això passarà 8 vegades.
+
+Anàlisi del codi 
+
+Iteracions 0..7 bucle exterior (i):
+
+	i=0, j=0..15: M[0][0..15]:línia 8, V[0]:línia 0 -> 2 fallades
+	i=1, j=0..15: M[1][0..15]:línia 9, V[1]:línia 0 -> 1 fallades 
+	i=2, j=0..15: M[2][0..15]:línia 10, V[2]:línia 0 -> 1 fallades 
+	...
+	i=7, j=0..15: M[7][0..15]:línia 15, V[7]:línia 0 -> 1 fallades 
+
+2+7 = 9 fallades
+
+Iteracions 8..15 bucle exterior (i):
+
+	i=8, j=0..15: M[8][0..15]:línia 0, V[8]:línia 0 -> 16 * 2 fallades
+	i=9, j=0..15: M[9][0..15]:línia 1, V[9]:línia 0 -> 1 fallades 
+	i=10, j=0..15: M[10][0..15]:línia 2, V[10]:línia 0 -> 1 fallades 
+	...
+	i=15, j=0..15: M[15][0..15]:línia 7, V[15]:línia 0 -> 1 fallades 
+
+16*2+7 = 39 fallades
+
+Aquest esquema es repetirà 8 vegades:
+
+(9+39)*8 = 384 fallades
+
+
 ## Pregunta 8 final 21-22/Q1
 
 <img src="antics_examens/21_22_Q1_final_p8.png"  width="400">
@@ -132,5 +213,8 @@ Les darreres VPN accedides són el codi (0x8) i les VPNs de dades 0x6, 0x1, 0x7 
 Aquí la polèmica va ser la solució del valor de "e" a l'apartat (b). La solució publicada era errònea, la correcta seria 0x0789.
 
 <img src="antics_examens/22_23_Q1_final_p5.png"  width="400">
+
+
+
 
 
