@@ -52,7 +52,7 @@ Aquí la polèmica va ser la solució del valor de "e" a l'apartat (b). La soluc
 
 Aquí la polèmica va ser la solució oficial de l'apartat (d), que era errònea:
 
-![image](antics_examens/20_21_Q1_final_p7.png)
+<img src="antics_examens/20_21_Q1_final_p7.png"  width="300">
 
 L'explicació dels apartats (b) i (c) seria:
 
