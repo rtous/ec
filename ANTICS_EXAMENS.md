@@ -222,21 +222,21 @@ Aquí la polèmica va ser la solució del valor de "e" a l'apartat (b). La soluc
 
 a)
 
-total_cicles_ideal = (1*50+2*20+32*1+2*9+1*70)*10^9 =  210*10^9 cicles
-texe = total_cicles_ideal * tc
-texe = 210*10^9 * 1/3*10^-9 = 70s
+	total_cicles_ideal = (1*50+2*20+32*1+2*9+1*70)*10^9 =  210*10^9 cicles
+	texe = total_cicles_ideal * tc
+	texe = 210*10^9 * 1/3*10^-9 = 70s
 
 b)
 
-texe = 140 = total_cicles * tc
-total_cicles = 140/tc = 140*3*10^9 = 420*10^9 cicles
-total_cicles_penalitzacio = total_cicles - total_cicles_ideal = 420*10^9 - 210*10^9 = 210 *10^9
-total_cicles_penalitzacio = 210 *10^9 = (#instr+#loads) * m * (tbloc + th) = (150+50)*10^9 * m * 15
-210*10^9 = 200*10^9 * m * 15
-m = 210*10^9/(200*10^9*15) = 0,07 = 7%
+	texe = 140 = total_cicles * tc
+	total_cicles = 140/tc = 140*3*10^9 = 420*10^9 cicles
+	total_cicles_penalitzacio = total_cicles - total_cicles_ideal = 420*10^9 - 210*10^9 = 210 *10^9
+	total_cicles_penalitzacio = 210 *10^9 = (#instr+#loads) * m * (tbloc + th) = (150+50)*10^9 * m * 15
+	210*10^9 = 200*10^9 * m * 15
+	m = 210*10^9/(200*10^9*15) = 0,07 = 7%
 
 c)
 
-t = 6000/30 = 200 s
+	t = 6000/30 = 200 s
 
 
