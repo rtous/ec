@@ -54,13 +54,13 @@ Fallades: 12 + 1 de codi = 13
 
 ## Pregunta 5 final 19-20/Q1
 
-<img src="antics_examens/19_20_final_Q1_p5"  width="350">
+<img src="antics_examens/19_20_final_Q1_p5.png"  width="350">
 
 	Total cicles si MC ideal = 3*10^9 * CPIideal
 	Total cicles penalització = 0,1 * 2*10^9 * (199+1)  = 40*10^9 cicles
 	Texe = (total cicles si MC ideal + total cicles penalització) * tc
 	Texe = (3*CPIideal+40)*10^9*1*10^-9 = 3*CPIideal+40
-	No dicen que Texe = 52
+	Ens diuen que Texe = 52
 	3*CPIideal+40 = 52
 	CPIideal = 4
 
