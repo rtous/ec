@@ -100,7 +100,7 @@ La solució correcta de l'apartat (d) seria:
 
 Un dels exercicis de memòria cache més difícils que recordo:
 
-<img src="antics_examens/20_21_Q2_final_p9.png"  width="400">
+<img src="antics_examens/20_21_Q2_final_p9.png"  width="500">
 
 Anàlisi geometria MC
 
@@ -154,8 +154,8 @@ Anàlisi del codi
 
 Iteracions 0..7 bucle exterior (i):
 
-	i=0, j=0..15: M[0][0..15]:línia 8, V[0]:línia 0 -> 2 fallades
-	i=1, j=0..15: M[1][0..15]:línia 9, V[1]:línia 0 -> 1 fallades 
+	i=0, j=0..15: M[0][0..15]:línia 8,  V[0]:línia 0 -> 2 fallades
+	i=1, j=0..15: M[1][0..15]:línia 9,  V[1]:línia 0 -> 1 fallades 
 	i=2, j=0..15: M[2][0..15]:línia 10, V[2]:línia 0 -> 1 fallades 
 	...
 	i=7, j=0..15: M[7][0..15]:línia 15, V[7]:línia 0 -> 1 fallades 
@@ -164,8 +164,8 @@ Iteracions 0..7 bucle exterior (i):
 
 Iteracions 8..15 bucle exterior (i):
 
-	i=8, j=0..15: M[8][0..15]:línia 0, V[8]:línia 0 -> 16 * 2 fallades
-	i=9, j=0..15: M[9][0..15]:línia 1, V[9]:línia 0 -> 1 fallades 
+	i=8,  j=0..15: M[8][0..15]: línia 0, V[8]: línia 0 -> 16 * 2 fallades
+	i=9,  j=0..15: M[9][0..15]: línia 1, V[9]: línia 0 -> 1 fallades 
 	i=10, j=0..15: M[10][0..15]:línia 2, V[10]:línia 0 -> 1 fallades 
 	...
 	i=15, j=0..15: M[15][0..15]:línia 7, V[15]:línia 0 -> 1 fallades 
