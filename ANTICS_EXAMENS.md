@@ -4,6 +4,12 @@
 
 Per minimitzar el nombre d'emails que rebo (especialment els dies anteriors a l'examen final) intento donar resposta aquí als dubtes que rebo sobre preguntes d'antics exàmens. 
 
+## Pregunta 5 final 20-21/Q1
+
+Aquesta és potser la pregunta més famosa de totes. Potser es podria haver redactat millor. Com diu que "és a punt d'executar la instrucció" l'accés a memòria que cal considerar és el fetch de la instrucció que està a la pàgina 0x00400 (que està al TLB i a la MF). Sigui quin sigui el contingut de $t1 el fetch no produirà miss de TLB ni fallada de pàgina. Però com diu l'adreça "més baixa possible" de $t1 doncs agafem 0x10010008. 
+
+![image](antics_examens/20_21_Q1_final_p5)
+
 ## Pregunta 8 final 21-22/Q1
 
 ![image](antics_examens/21_22_Q1_final_p8.png)
@@ -16,8 +22,8 @@ Per minimitzar el nombre d'emails que rebo (especialment els dies anteriors a l'
 
 TP (iteracions, VPNs accedides i M=fallada de pàgina, H=encert)
 
-	i=0       .. i=511  : 0(M), 7(M)
-	i=512   .. i=1023: 1(M), 6(M)
+	i=0    .. i=511 : 0(M), 7(M)
+	i=512  .. i=1023: 1(M), 6(M)
 	i=1024 .. i=1511: 2(M), 5(M) reemplacem la 0 i la 7
 	i=1512 .. i=2047: 3(M), 4(M) reemplacem la 1 i la 6
 	i=2048 .. i=2559: 4(H), 3(H)
