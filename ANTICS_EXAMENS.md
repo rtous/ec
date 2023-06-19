@@ -8,7 +8,10 @@ Per minimitzar el nombre d'emails que rebo (especialment els dies anteriors a l'
 
 Aquesta és potser la pregunta més famosa de totes. Potser es podria haver redactat millor. Com diu que "és a punt d'executar la instrucció" l'accés a memòria que cal considerar és el fetch de la instrucció que està a la pàgina 0x00400 (que està al TLB i a la MF). Sigui quin sigui el contingut de $t1 el fetch no produirà miss de TLB ni fallada de pàgina. Però com diu l'adreça "més baixa possible" de $t1 doncs agafem 0x10010008. 
 
-![image](antics_examens/20_21_Q1_final_p5.png)
+<!--![image](antics_examens/20_21_Q1_final_p5.png)-->
+
+<img src="antics_examens/20_21_Q1_final_p5.png"  width="200">
+
 
 ## Pregunta 8 final 21-22/Q1
 
