@@ -4,12 +4,61 @@
 
 Per minimitzar el nombre d'emails que rebo (especialment els dies anteriors a l'examen final) intento donar resposta aquí als dubtes que rebo sobre preguntes d'antics exàmens. 
 
+## Pregunta 7 final 18-19/Q1
+
+<img src="antics_examens/18_19_Q1_final_p7.png"  width="350">
+
+Aquí la clau és que cal considerar que el codi només produeix una fallada de TLB i una de pàgina al principi, i ocuparà (durant tota l'execució) una entrada al TLB i una de les 5 pàgines disponibles. A partir d'aquí un es pot oblidar del codi i fer l'exercici simplement tenint en compte que tens menys entrades i pàgines disponibles:
+
+	TLB (iteracions i VPNs accedides i M/H = miss/hit)
+
+	i=0       .. i=1023 : 0(M), 7(M)
+	i=1024 .. i=2047 : 1(M), 6(M)
+	i=2048 .. i=3071 : 2(M), 5(M)
+	i=3072 .. i=4095 : 3(M), 4(M) (aquí es reemplaça la 0 ja que al TLB només hi podem posar 7 pàgines de dades doncs 1 és pel codi)
+	i=4096 .. i=5119 : 4(H), 3(H)
+	i=5120 .. i=6143 : 5(H), 2(H)
+	i=6144 .. i=7167 : 6(H), 1(H)
+	i=7168 .. i=8191 : 7(H), 0(M) (aquí torna a fallar la 0 ja que va ser reemplaçada)
+
+Fallades: 9 de dades  + 1 de codi = 10 fallades de TLB
+
+TP
+
+	i=0       .. i=1023 : 0(M), 7(M)
+	i=1024 .. i=2047 : 1(M), 6(M)
+	i=2048 .. i=3071 : 2(M), 5(M) reemplacem la 0 i la 7 (només hi ha 4 pàgines disponibles)
+	i=3072 .. i=4095 : 3(M), 4(M) reemplacem la 1 i la 6
+	i=4096 .. i=5119 : 4(H), 3(H) 
+	i=5120 .. i=6143 : 5(H), 2(H)
+	i=6144 .. i=7167 : 6(M), 1(M) reemplacem la 4 i la 3
+	i=7168 .. i=8191 : 7(M), 0(M) reemplacem la 5 i la 2
+
+Fallades: 12 + 1 de codi = 13
+
 ## Pregunta 5 final 20-21/Q1
 
 Aquesta és potser la pregunta més famosa de totes. Potser es podria haver redactat millor. Com diu que "és a punt d'executar la instrucció" l'accés a memòria que cal considerar és el fetch de la instrucció que està a la pàgina 0x00400 (que està al TLB i a la MF). Sigui quin sigui el contingut de $t1 el fetch no produirà miss de TLB ni fallada de pàgina. Però com diu l'adreça "més baixa possible" de $t1 doncs agafem 0x10010008. 
 
 <img src="antics_examens/20_21_Q1_final_p5.png"  width="350">
 
+## Pregunta 7 final 20-21/Q1
+
+Aquí la polèmica va ser la solució oficial de l'apartat (d), que era errònea:
+
+<img src="antics_examens/20_21_Q1_final_p7.png"  width="300">
+
+L'explicació dels apartats (b) i (c) seria:
+
+	penalització accés instrució =tp_i= tbloc + thit = 18 + 2 = 20 cicles
+	penalització accés a dades = tp_d = (1-pm) *  (tbloc + thit) + pm * (2tbloc + thit) = 2/3 * 20 + 1/3 * 38 = 26 cicles
+
+	b) penalització fetch = 0,05 * tp_i = 0,05 * 20 = 1
+	c) penalització lectura/escriptura dada = 0,15 * 0,3 * tp_d = 0,15 * 0,3 * 26 = 1,17 = 1,2
+
+La solució correcta de l'apartat (d) seria:
+
+	d) CPI = CPIideal + penalització fetch + penalització dades = 2,5 + 1 + 1,2 = 4,7 cicles
 
 ## Pregunta 8 final 21-22/Q1
 
@@ -47,23 +96,5 @@ Les darreres VPN accedides són el codi (0x8) i les VPNs de dades 0x6, 0x1, 0x7 
 Aquí la polèmica va ser la solució del valor de "e" a l'apartat (b). La solució publicada era errònea, la correcta seria 0x0789.
 
 <img src="antics_examens/22_23_Q1_final_p5.png"  width="400">
-
-## Pregunta 7 final 20-21/Q1
-
-Aquí la polèmica va ser la solució oficial de l'apartat (d), que era errònea:
-
-<img src="antics_examens/20_21_Q1_final_p7.png"  width="300">
-
-L'explicació dels apartats (b) i (c) seria:
-
-	penalització accés instrució =tp_i= tbloc + thit = 18 + 2 = 20 cicles
-	penalització accés a dades = tp_d = (1-pm) *  (tbloc + thit) + pm * (2tbloc + thit) = 2/3 * 20 + 1/3 * 38 = 26 cicles
-
-	b) penalització fetch = 0,05 * tp_i = 0,05 * 20 = 1
-	c) penalització lectura/escriptura dada = 0,15 * 0,3 * tp_d = 0,15 * 0,3 * 26 = 1,17 = 1,2
-
-La solució correcta de l'apartat (d) seria:
-
-	d) CPI = CPIideal + penalització fetch + penalització dades = 2,5 + 1 + 1,2 = 4,7 cicles
 
 
