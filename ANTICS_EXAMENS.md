@@ -8,12 +8,12 @@ Per minimitzar el nombre d'emails que rebo (especialment els dies anteriors a l'
 
 Aquesta és potser la pregunta més famosa de totes. Potser es podria haver redactat millor. Com diu que "és a punt d'executar la instrucció" l'accés a memòria que cal considerar és el fetch de la instrucció que està a la pàgina 0x00400 (que està al TLB i a la MF). Sigui quin sigui el contingut de $t1 el fetch no produirà miss de TLB ni fallada de pàgina. Però com diu l'adreça "més baixa possible" de $t1 doncs agafem 0x10010008. 
 
-<img src="antics_examens/20_21_Q1_final_p5.png"  width="300">
+<img src="antics_examens/20_21_Q1_final_p5.png"  width="350">
 
 
 ## Pregunta 8 final 21-22/Q1
 
-<img src="antics_examens/21_22_Q1_final_p8.png"  width="300">
+<img src="antics_examens/21_22_Q1_final_p8.png"  width="400">
 
 - Una pàgina son 2KB=2^11=2048 bytes=512 words
 - El vector ocupa 4096 words, és a dir 8 pàgines
@@ -40,13 +40,13 @@ Com el TLB és gran (16 entrades de les quals 1 pel codi) no hi hauran reemplaç
 
 Les darreres VPN accedides són el codi (0x8) i les VPNs de dades 0x6, 0x1, 0x7 i 0x0.
 
-## Pregunta 11 final 20-21/Q2
+<!--## Pregunta 11 final 20-21/Q2-->
 
 ## Pregunta 5 final 22-23/Q1
 
 Aquí la polèmica va ser la solució del valor de "e" a l'apartat (b). La solució publicada era errònea, la correcta seria 0x0789.
 
-<img src="antics_examens/22_23_Q1_final_p5.png"  width="300">
+<img src="antics_examens/22_23_Q1_final_p5.png"  width="400">
 
 ## Pregunta 7 final 20-21/Q1
 
