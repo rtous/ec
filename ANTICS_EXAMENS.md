@@ -4,6 +4,22 @@
 
 Per minimitzar el nombre d'emails que rebo (especialment els dies anteriors a l'examen final) intento donar resposta aquí als dubtes que rebo sobre preguntes d'antics exàmens. 
 
+## Pregunta 4 final 17-18/Q1
+
+<img src="antics_examens/17_18_Q1_final_p4.png"  width="350">
+
+Para el cálculo del tiempo de acceso medio de los loads = 1 + 0,025 * 60 = 2.5
+
+Para el cálculo de texe empezamos calculando el total de ciclos con MC ideal:
+
+Total cicles si MC ideal = (8*3+3*6+1*20)*10^9 = 62*10^9 cicles
+
+Ahora calculamos los ciclos de penalización. Aquí distingue entre MC de instrucciones y datos pero podemos ignorar la MC de instrucciones ya que dice que siempre acierta. El total de ciclos de penalización será m * número de loads * penalización:
+
+Total cicles penalització = 0,025 * 6 * 10^9 * (59+1) = 9*10^9
+
+Texe = (62+9) * 10^9 * 2 * 10^-9 = 142 s
+
 ## Pregunta 7 final 18-19/Q1
 
 <img src="antics_examens/18_19_Q1_final_p7.png"  width="350">
@@ -35,6 +51,18 @@ TP
 	i=7168 .. i=8191 : 7(M), 0(M) reemplacem la 5 i la 2
 
 Fallades: 12 + 1 de codi = 13
+
+## Pregunta 5 final 19-20/Q1
+
+<img src="antics_examens/19_20_final_Q1_p5"  width="350">
+
+	Total cicles si MC ideal = 3*10^9 * CPIideal
+	Total cicles penalització = 0,1 * 2*10^9 * (199+1)  = 40*10^9 cicles
+	Texe = (total cicles si MC ideal + total cicles penalització) * tc
+	Texe = (3*CPIideal+40)*10^9*1*10^-9 = 3*CPIideal+40
+	No dicen que Texe = 52
+	3*CPIideal+40 = 52
+	CPIideal = 4
 
 ## Pregunta 5 final 20-21/Q1
 
