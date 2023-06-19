@@ -12,7 +12,7 @@ Aquí la clau és que cal considerar que el codi només produeix una fallada de 
 
 	TLB (iteracions i VPNs accedides i M/H = miss/hit)
 
-	i=0       .. i=1023 : 0(M), 7(M)
+	i=0    .. i=1023 : 0(M), 7(M)
 	i=1024 .. i=2047 : 1(M), 6(M)
 	i=2048 .. i=3071 : 2(M), 5(M)
 	i=3072 .. i=4095 : 3(M), 4(M) (aquí es reemplaça la 0 ja que al TLB només hi podem posar 7 pàgines de dades doncs 1 és pel codi)
@@ -25,7 +25,7 @@ Fallades: 9 de dades  + 1 de codi = 10 fallades de TLB
 
 TP
 
-	i=0       .. i=1023 : 0(M), 7(M)
+	i=0    .. i=1023 : 0(M), 7(M)
 	i=1024 .. i=2047 : 1(M), 6(M)
 	i=2048 .. i=3071 : 2(M), 5(M) reemplacem la 0 i la 7 (només hi ha 4 pàgines disponibles)
 	i=3072 .. i=4095 : 3(M), 4(M) reemplacem la 1 i la 6
@@ -47,6 +47,14 @@ Aquesta és potser la pregunta més famosa de totes. Potser es podria haver reda
 Aquí la polèmica va ser la solució oficial de l'apartat (d), que era errònea:
 
 <img src="antics_examens/20_21_Q1_final_p7.png"  width="300">
+
+L'explicació de l'apartat (a) seria:
+
+	MCdades = 512KB = 2^19 = 2^10 conj * 2^2 vies * 2^5 words * 2^2 bytes/word
+
+	bits offset = 7 bits
+	bits #conjunt = 10 bits
+	etiqueta = 32 - 10 - 7 = 15 bits
 
 L'explicació dels apartats (b) i (c) seria:
 
