@@ -12,13 +12,13 @@ Para el cálculo del tiempo de acceso medio de los loads = 1 + 0,025 * 60 = 2.5
 
 Para el cálculo de texe empezamos calculando el total de ciclos con MC ideal:
 
-Total cicles si MC ideal = (8*3+3*6+1*20)*10^9 = 62*10^9 cicles
+	Total cicles si MC ideal = (8*3+3*6+1*20)*10^9 = 62*10^9 cicles
 
 Ahora calculamos los ciclos de penalización. Aquí distingue entre MC de instrucciones y datos pero podemos ignorar la MC de instrucciones ya que dice que siempre acierta. El total de ciclos de penalización será m * número de loads * penalización:
 
-Total cicles penalització = 0,025 * 6 * 10^9 * (59+1) = 9*10^9
+	Total cicles penalització = 0,025 * 6 * 10^9 * (59+1) = 9*10^9
 
-Texe = (62+9) * 10^9 * 2 * 10^-9 = 142 s
+	Texe = (62+9) * 10^9 * 2 * 10^-9 = 142 s
 
 ## Pregunta 7 final 18-19/Q1
 
