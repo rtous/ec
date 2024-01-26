@@ -112,7 +112,7 @@ Sessió 9: dilluns 11 de març
 
 Sessió 10: dijous 14 de març
 
-* Tema 4. Examen de problemes [enunciats](./problemes/expr3i4.pdf) <!--[solucions](./problemes/expr3i4s.pdf)-->
+* Tema 4. Examen de problemes [enunciats](./problemes/expr3i4.pdf) [solucions](./problemes/expr3i4s.pdf)
 -->
 <!--
 <hr>
