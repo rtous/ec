@@ -123,7 +123,7 @@ Sessió 11: dilluns 18 de març
 
 * Tema 1. Rendiment i consum [slides](./slides/sessio11_1_tema1_rendiment.pdf)
 -->
-
+<!--
 <hr>
 
 Sessió 12: dijous 21 de març
@@ -133,7 +133,8 @@ Sessió 12: dijous 21 de març
 * Tema 1. Examen de problemes [enunciats](./problemes/expr1_v2.pdf) [solucions](./problemes/expr1_v2s.pdf)
 
 * Solucions problemes 4.2, 4.9, 1.7, 1.11 (no els hem treballat a classe però per si algú vol ampliar): [solucions](./problemes/tema1_4_2_4_9_1_7_1_11.pdf)
-
+-->
+<!--
 <hr>
 
 **************** SETMANA SANTA *****************
@@ -143,7 +144,8 @@ Sessió 12: dijous 21 de març
 EXAMEN PARCIAL: dimarts 9 d'abril
 
 * Examen Parcial. Seguiu les instruccions de la convocatòria publicada al Racó.
-
+-->
+<!--
 <hr>
 
 Sessió 13: dijous 11 d'abril
@@ -152,14 +154,16 @@ Sessió 13: dijous 11 d'abril
 	
 
 * Tema 5. Problemes resolts: 5.11.b, 5.15.a
-
+-->
+<!--
 <hr>
 Sessió 14: dilluns 15 d'abril
 
 * Tema 5. Aritmètica d'enters i coma flotant / 5.4 Representació [slides](./slides/sessio16_1_tema5_2_floats_1.pdf)
 
 * Problemes per dimarts 11 d'abril: 5.23
-
+-->
+<!--
 <hr>
 
 Sessió 15: dijous 18 d'abril
@@ -171,7 +175,8 @@ Sessió 15: dijous 18 d'abril
 * Tema 5. Aritmètica d'enters i coma flotant / Suma i resta [slides](./slides/sessio17_1_tema5_2_floats_2.pdf)
 
 * Tema 5. Problemes resolts: 5.27
-
+-->
+<!--
 <hr>
 
 Sessió 16: dilluns 22 d'abril
@@ -179,6 +184,8 @@ Sessió 16: dilluns 22 d'abril
 * Tema 5. Aritmètica d'enters i coma flotant / Suma i resta (continuació)
 
 * Tema 5. Examen de problemes [enunciats](./problemes/expr5_part1.pdf) i [solucions](./problemes/expr5_part1s.pdf) 
+-->
+<!--
 
 <hr>
 
@@ -188,7 +195,8 @@ Sessió 17: dijous 25 d'abril
  
 * Tema 5. Examen de problemes [enunciats](./problemes/expr5_part2.pdf)  i [solucions](./problemes/expr5_part2s.pdf) 
 
-
+-->
+<!--
 <hr>
 
 Sessió 18: dilluns 29 d'abril
@@ -196,14 +204,16 @@ Sessió 18: dilluns 29 d'abril
 * Tema 6. Memòria cache / Introducció i disseny bàsic [slides](./slides/sessio19_1_tema6_1.pdf)
 
 * Tema 6. Problemes resolts: 6.1
-
+-->
+<!--
 <hr>
 
 Sessió 19: dijous 2 de maig
 
 
 * Tema 6. Memòria cache / Part 2: Gestió de les escriptures [slides](./slides/sessio22_1_tema6_2.pdf)
-
+-->
+<!--
 <hr>
 
 Sessió 20: dilluns 6 de maig
@@ -215,8 +225,9 @@ Sessió 20: dilluns 6 de maig
 * Tema 6. Examen de problemes [enunciats](./problemes/expr6.pdf) i i [solucions](./problemes/expr6s.pdf)
 
 * Problemes per dilluns 15 de maig: 6.7
-
- <hr>
+-->
+<!--
+<hr>
 
 Sessió 21: dijous 9 de maig
 
@@ -226,8 +237,9 @@ Sessió 21: dijous 9 de maig
 
 * Tema 6. Problemes resolts: 6.10 
 
-
- <hr>
+-->
+<!--
+<hr>
 
 Sessió 22: dilluns 13 de maig
 
@@ -235,16 +247,18 @@ Sessió 22: dilluns 13 de maig
 
 * Tema 6. Examen de problemes 2 [enunciats](./problemes/expr6_2.pdf) i [solucions](./problemes/expr6_2s.pdf)
 
+-->
+<!--
 <hr>
 
- 
 Sessió 23: dijous 16 de maig
 
 * Tema 7. Memòria virtual [slides](./slides/sessio26_1_tema7_1.pdf)
 
 * Tema 7. Problemes resolts: 7.1, 7.4 [solucions](./problemes/tema7_7_4.pdf)
 
-
+-->
+<!--
 <hr>
 
 Sessió 24: dimarts 21 de maig
@@ -253,6 +267,8 @@ Sessió 24: dimarts 21 de maig
 
 * Problemes per dilluns 29 de maig: 7.6
 
+-->
+<!--
 <hr>
 
 Sessió 25: dijous 23 de maig
@@ -263,6 +279,8 @@ Sessió 25: dijous 23 de maig
 
 * Tema 7. Examen de problemes ([enunciats](./problemes/expr7.pdf)) i [solucions](./problemes/expr7s2.pdf)
 
+-->
+<!--
 <hr>
 
 Sessió 26: dimarts 27 de maig
@@ -271,6 +289,8 @@ Sessió 26: dimarts 27 de maig
 
 * Tema 8. Examen de problemes ([enunciats](./problemes/expr8.pdf) i [solucions](./problemes/expr8s.pdf))
 
+-->
+<!--
 <hr>
 
 Sessió 27: dijous 30 de maig
