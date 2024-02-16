@@ -28,7 +28,7 @@ Sessió 2: dijous 15 de febrer
 
 * Tema 2. Instruccions i tipus de dades bàsics / Assemblador [slides](./slides/sessio2_1_tema2_assemblador.pdf)
 
-<!--
+
 <hr>
 
 Sessió 3: dilluns 19 de febrer
@@ -40,8 +40,7 @@ Sessió 3: dilluns 19 de febrer
 * Tema 2. Problemes resolts: 2.3
 
 * Tema 2. Problemes per dimarts 21 de febrer: 2.6 (memòria)
--->
-<!--
+
 <hr>
 
 Sessió 4: dijous 22 de febrer
@@ -55,7 +54,7 @@ Sessió 4: dijous 22 de febrer
 * Tema 2. Problemes resolts: 2.26, 2.30, 2.27 (punters)
 
 * Tema 2. Problemes per dilluns 27 de febrer: 2.22, 2.32.c, 2.31 
--->
+
 <!--
 <hr>
 
