@@ -45,6 +45,10 @@ Sessió 3: dilluns 19 de febrer
 
 Sessió 4: dijous 22 de febrer
 
+* AVÍS: No hi haurà classe aquest dia.
+
+<!--
+NO PER ABSENCIA
 * Tema 2. Solució problemes encarregats: 2.6 (memòria)
 
 * Tema 2. Problemes resolts: 2.32.d (vectors)
@@ -54,10 +58,27 @@ Sessió 4: dijous 22 de febrer
 * Tema 2. Problemes resolts: 2.26, 2.30, 2.27 (punters)
 
 * Tema 2. Problemes per dilluns 26 de febrer: 2.22, 2.32.c, 2.31 
+-->
 
 <!--
 <hr>
 
+Sessió 5: dilluns 26 de febrer
+
+* Tema 2. Solució problemes encarregats: 2.6 (memòria)
+
+* Tema 2. Problemes resolts: 2.32.d (vectors)
+
+* Tema 2. Instruccions i tipus de dades bàsics / punters [slides](./slides/sessio4_1_tema2_punters.pdf)
+
+* Tema 2. Problemes resolts: 2.26, 2.30, 2.27 (punters)
+
+* Tema 2. Problemes per dijous 29 de febrer: 2.22, 2.32.c, 2.31
+-->
+
+<!--
+<hr>
+NO JA QUE VAIG RECUPERAR ANTERIOR
 Sessió 5: dilluns 26 de febrer
 
 * Tema 2. Solució problemes encarregats: 2.22, 2.32.c, 2.31
