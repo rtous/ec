@@ -39,7 +39,7 @@ Sessió 3: dilluns 19 de febrer
 
 * Tema 2. Problemes resolts: 2.3
 
-* Tema 2. Problemes per dijous 22 de febrer: 2.6 (memòria)
+* Tema 2. Problemes per dilluns 26 de febrer: 2.6 (memòria)
 
 <hr>
 
