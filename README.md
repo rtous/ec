@@ -60,7 +60,7 @@ NO PER ABSENCIA
 * Tema 2. Problemes per dilluns 26 de febrer: 2.22, 2.32.c, 2.31 
 -->
 
-<!--
+
 <hr>
 
 Sessió 5: dilluns 26 de febrer
@@ -74,7 +74,7 @@ Sessió 5: dilluns 26 de febrer
 * Tema 2. Problemes resolts: 2.26, 2.30, 2.27 (punters)
 
 * Tema 2. Problemes per dijous 29 de febrer: 2.22, 2.32.c, 2.31
--->
+
 
 <!--
 <hr>
@@ -85,7 +85,7 @@ Sessió 5: dilluns 26 de febrer
 
 * Tema 2. Examen de problemes [enunciats](./problemes/expr2_extended.pdf) i [solucions](./problemes/expr2s_extended.pdf)
 -->
-<!--
+
 <hr>
 
 Sessió 6: dijous 29 de febrer
@@ -94,8 +94,8 @@ Sessió 6: dijous 29 de febrer
 
 * Tema 3. Traducció de programes / switch i bucles [slides](./slides/sessio7_1_tema3_switch_i_bucles.pdf)
 
-* Problemes per dilluns 7 de març: 3.5.a, 3.9 (bits)
--->
+* Problemes per dilluns 4 de març: 3.5.a, 3.9 (bits)
+
 <!--
 <hr>
 
