@@ -65,7 +65,7 @@ NO PER ABSENCIA
 
 Sessió 5: dilluns 26 de febrer
 
-* Tema 2. Solució problemes encarregats: 2.6 (memòria) [solucions](./problemes/tema2_2_6.pdf) 
+* Tema 2. Solució problemes encarregats: 2.6 (memòria) <!-- [solucions](./problemes/tema2_2_6.pdf) -->
 
 * Tema 2. Problemes resolts: 2.32.d (vectors) <!-- [solucions](./problemes/tema2_2_32.pdf) -->
 
