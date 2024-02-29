@@ -16,9 +16,9 @@ S'ha creat una entrada a Atenea per que pugueu realitzar el lliurament dels prob
 
 Sessió 1: dilluns 12 de febrer
 
-* Presentació [(slides)](./slides/sessio1_1_presentacio.pdf)
+* Presentació [slides](./slides/sessio1_1_presentacio.pdf)
 
-* Tema 2. Instruccions i tipus de dades bàsics / Introducció [(slides)](./slides/sessio1_2_tema2_intro.pdf)
+* Tema 2. Instruccions i tipus de dades bàsics / Introducció [slides](./slides/sessio1_2_tema2_intro.pdf)
 
 
 
@@ -67,11 +67,11 @@ Sessió 5: dilluns 26 de febrer
 
 * Tema 2. Solució problemes encarregats: 2.6 (memòria) [solucions](./problemes/tema2_2_6.pdf) 
 
-* Tema 2. Problemes resolts: 2.32.d (vectors) [solucions](./problemes/tema2_2_32.pdf)
+* Tema 2. Problemes resolts: 2.32 (vectors) [solucions](./problemes/tema2_2_32.pdf)
 
 * Tema 2. Instruccions i tipus de dades bàsics / punters [slides](./slides/sessio4_1_tema2_punters.pdf)
 
-* Tema 2. Problemes resolts: 2.26, 2.30, 2.27 (punters)
+* Tema 2. Problemes resolts: 2.26, 2.30, 2.27 (punters) [solucions](./problemes/tema2_2_26_2_30_2_27.pdf)
 
 * Tema 2. Problemes per dijous 29 de febrer: 2.22, 2.32.c, 2.31
 
@@ -89,6 +89,8 @@ Sessió 5: dilluns 26 de febrer
 <hr>
 
 Sessió 6: dijous 29 de febrer
+
+* Tema 2. Solució problemes encarregats: 2.22 i 2.31 [solucions](./problemes/tema2_2_22_2_31.pdf)
 
 * Tema 3. Traducció de programes / bitwise, condicions, if-then-else [slides](./slides/sessio6_1_tema3_condicionals.pdf)
 
@@ -116,7 +118,7 @@ Sessió 8: dijous 7 de març
 
 * Tema 3. Estructura de la memòria, compilació, assemblatge, enllaçat i càrrega [slides](./slides/sessio9_1_tema3_mem_i_compilacio.pdf)
 
-* Problemes per dilluns 14 de març: 3.34, 3.26, 3.36 (subrutines)
+* Problemes per dilluns 11 de març: 3.34, 3.26, 3.36 (subrutines)
 -->
 <!--
 <hr>
@@ -181,7 +183,7 @@ Sessió 14: dilluns 15 d'abril
 
 * Tema 5. Aritmètica d'enters i coma flotant / 5.4 Representació [slides](./slides/sessio16_1_tema5_2_floats_1.pdf)
 
-* Problemes per dimarts 11 d'abril: 5.23
+* Problemes per dijous 18 d'abril: 5.23
 -->
 <!--
 <hr>
@@ -244,7 +246,7 @@ Sessió 20: dilluns 6 de maig
 
 * Tema 6. Examen de problemes [enunciats](./problemes/expr6.pdf) i i [solucions](./problemes/expr6s.pdf)
 
-* Problemes per dilluns 15 de maig: 6.7
+* Problemes per dijous 9 de maig: 6.7
 -->
 <!--
 <hr>
@@ -285,7 +287,7 @@ Sessió 24: dimarts 21 de maig
 
 * Tema 7. Memòria virtual (TLB)
 
-* Problemes per dilluns 29 de maig: 7.6
+* Problemes per dijous 23 de maig: 7.6
 
 -->
 <!--
