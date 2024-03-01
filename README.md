@@ -96,18 +96,19 @@ Sessió 6: dijous 29 de febrer
 
 * Tema 3. Traducció de programes / switch i bucles [slides](./slides/sessio7_1_tema3_switch_i_bucles.pdf)
 
-* Problemes per dilluns 4 de març: 3.5.a, 3.9 (bits)
+* Tema 2. Examen de problemes (lliurar a Atenea abans de la classe de dilluns 4 de març) [enunciats](./problemes/expr2_extended_nomessegona.pdf) <!--i [solucions](./problemes/expr2s_extended_nomessegona.pdf)-->
 
-<!--
+* Problemes per dilluns 4 de març: 3.5.a, 3.9 (bits) 
+
 <hr>
 
 Sessió 7: dilluns 4 de març
 
-* Tema 3. Solució problemes encarregats: 3.5.a, 3.9 (bits)
+* Tema 3. Solució problemes encarregats: 3.5.a, 3.9 (bits) <!-- [solucions](./problemes/tema3_3_5_3_9.pdf) -->
 
 * Tema 3. Traducció de programes / subrutines [slides](./slides/sessio7_2_tema3_subrutines.pdf)
--->
-<!--
+
+
 <hr>
 
 Sessió 8: dijous 7 de març
@@ -119,7 +120,7 @@ Sessió 8: dijous 7 de març
 * Tema 3. Estructura de la memòria, compilació, assemblatge, enllaçat i càrrega [slides](./slides/sessio9_1_tema3_mem_i_compilacio.pdf)
 
 * Problemes per dilluns 11 de març: 3.34, 3.26, 3.36 (subrutines)
--->
+
 <!--
 <hr>
 
