@@ -121,15 +121,14 @@ Sessió 8: dijous 7 de març
 
 * Problemes per dilluns 11 de març: 3.34, 3.26, 3.36 (subrutines)
 
-<!--
 <hr>
 
 Sessió 9: dilluns 11 de març
 
-* Tema 3. Solució problemes encarregats: 3.34, 3.26, 3.36 (subrutines) [solucions](./problemes/tema3_3_34_3_26_3_36.pdf)
+* Tema 3. Solució problemes encarregats: 3.34, 3.26, 3.36 (subrutines) <!--[solucions](./problemes/tema3_3_34_3_26_3_36.pdf)-->
 
 * Tema 4. Matrius [slides](./slides/sessio9_2_tema4_matrius1.pdf)
--->
+
 <!--
 <hr>
 
