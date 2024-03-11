@@ -125,9 +125,11 @@ Sessió 8: dijous 7 de març
 
 Sessió 9: dilluns 11 de març
 
-* Tema 3. Solució problemes encarregats: 3.34, 3.26, 3.36 (subrutines) <!--[solucions](./problemes/tema3_3_34_3_26_3_36.pdf)-->
+* Tema 3. Estructura de la memòria, compilació, assemblatge, enllaçat i càrrega PART 2 [vídeo](https://youtu.be/2CKO7oWH3iw)
 
-* Tema 4. Matrius [slides](./slides/sessio9_2_tema4_matrius1.pdf)
+* Tema 3. Solució problemes encarregats: 3.34, 3.26, 3.36 (subrutines) [solucions](./problemes/tema3_3_34_3_26_3_36.pdf) i vídeos ([3.34](https://youtu.be/P6WxssL83DM), [3.26](https://youtu.be/IpW8fy4tp_s), [3.36](https://youtu.be/URdodRJMRiI))
+
+* Tema 4. Matrius [slides](./slides/sessio9_2_tema4_matrius1.pdf) [vídeo]()
 
 <!--
 <hr>
