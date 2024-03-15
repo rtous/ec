@@ -137,7 +137,7 @@ Sessió 10: dijous 14 de març
 
 * Tema 4. Matrius [slides](./slides/sessio9_2_tema4_matrius1.pdf)
 
-* Tema 4. Examen de problemes [enunciats](./problemes/expr3i4.pdf) <!-- [solucions](./problemes/expr3i4s.pdf) -->
+* Tema 4. Examen de problemes  (lliurar a Atenea abans de la classe de dilluns 11 de març) [enunciats](./problemes/expr3i4.pdf) <!-- [solucions](./problemes/expr3i4s.pdf) -->
 
 
 <hr>
