@@ -137,9 +137,9 @@ Sessió 10: dijous 14 de març
 
 * Tema 4. Matrius [slides](./slides/sessio9_2_tema4_matrius1.pdf)
 
-<!--* Tema 4. Examen de problemes [enunciats](./problemes/expr3i4.pdf) [solucions](./problemes/expr3i4s.pdf) CANVI PER MALALTIA-->
+* Tema 4. Examen de problemes [enunciats](./problemes/expr3i4.pdf) <!-- [solucions](./problemes/expr3i4s.pdf) -->
 
-<!--
+
 <hr>
 
 Sessió 11: dilluns 18 de març
@@ -147,8 +147,8 @@ Sessió 11: dilluns 18 de març
 * Tema 4. Problemes resolts: 4.8 
 
 * Tema 1. Rendiment i consum [slides](./slides/sessio11_1_tema1_rendiment.pdf)
--->
-<!--
+
+<!-- 
 <hr>
 
 Sessió 12: dijous 21 de març
