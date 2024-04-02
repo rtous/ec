@@ -158,7 +158,7 @@ Sessió 12: dijous 21 de març
 
 * Solucions problemes 4.2, 4.9, 1.7, 1.11 (no els hem treballat a classe però per si algú vol ampliar): [solucions](./problemes/tema1_4_2_4_9_1_7_1_11.pdf)
 
-<!--
+
 <hr>
 
 **************** SETMANA SANTA *****************
@@ -168,7 +168,7 @@ Sessió 12: dijous 21 de març
 EXAMEN PARCIAL: dimarts 9 d'abril
 
 * Examen Parcial. Seguiu les instruccions de la convocatòria publicada al Racó.
--->
+
 <!--
 <hr>
 
