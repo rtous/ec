@@ -169,7 +169,7 @@ EXAMEN PARCIAL: dimarts 9 d'abril
 
 * Examen Parcial. Seguiu les instruccions de la convocatòria publicada al Racó.
 
-<!--
+
 <hr>
 
 Sessió 13: dijous 11 d'abril
@@ -178,7 +178,7 @@ Sessió 13: dijous 11 d'abril
 	
 
 * Tema 5. Problemes resolts: 5.11.b, 5.15.a
--->
+
 <!--
 <hr>
 Sessió 14: dilluns 15 d'abril
