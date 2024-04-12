@@ -179,15 +179,15 @@ Sessió 13: dijous 11 d'abril
 
 * Tema 5. Problemes resolts: 5.11.b, 5.15.a
 
-<!--
+
 <hr>
 Sessió 14: dilluns 15 d'abril
 
 * Tema 5. Aritmètica d'enters i coma flotant / 5.4 Representació [slides](./slides/sessio16_1_tema5_2_floats_1.pdf)
 
 * Problemes per dijous 18 d'abril: 5.23
--->
-<!--
+
+
 <hr>
 
 Sessió 15: dijous 18 d'abril
@@ -199,7 +199,7 @@ Sessió 15: dijous 18 d'abril
 * Tema 5. Aritmètica d'enters i coma flotant / Suma i resta [slides](./slides/sessio17_1_tema5_2_floats_2.pdf)
 
 * Tema 5. Problemes resolts: 5.27
--->
+
 <!--
 <hr>
 
