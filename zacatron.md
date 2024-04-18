@@ -1,6 +1,6 @@
 # Frases del professor d'Arquitectura de Computadors de la FIB Enrique Herrada (aka Zacatron)
 
-*NOTA: De les múltiples webs on es recollien frases del professor Herrada ja només en queda una. Per aquest motiu, i abans de que desaparegui, en faig una còpia aquí.*
+*NOTA: De les múltiples webs on es recollien frases del professor Herrada (que es va jubilar al voltant de l'any 2012) ja només en queda una. Per aquest motiu, i abans de que desaparegui, en faig una còpia aquí.*
 
 - Zacatrón: Ejercicio 35, ¿alguien quiere hacer el chiste? Venga, va ¿Cómo
 dice el chiste? 35...
