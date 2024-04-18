@@ -198,7 +198,7 @@ Sessió 15: dijous 18 d'abril
 
 * Tema 5. Aritmètica d'enters i coma flotant / Suma i resta [slides](./slides/sessio17_1_tema5_2_floats_2.pdf)
 
-* Tema 5. Problemes resolts: 5.27
+* Problemes per dilluns 22 d'abril: 5.27
 
 <!--
 <hr>
