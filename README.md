@@ -200,16 +200,16 @@ Sessió 15: dijous 18 d'abril
 
 * Problemes per dilluns 22 d'abril: 5.27
 
-<!--
+
 <hr>
 
 Sessió 16: dilluns 22 d'abril
 
+* Tema 5. Solució problemes encarregats: 5.27
+
 * Tema 5. Aritmètica d'enters i coma flotant / Suma i resta (continuació)
 
-* Tema 5. Examen de problemes [enunciats](./problemes/expr5_part1.pdf) i [solucions](./problemes/expr5_part1s.pdf) 
--->
-<!--
+* Tema 5. Examen de problemes [enunciats](./problemes/expr5_part1.pdf) <!--i [solucions](./problemes/expr5_part1s.pdf) -->
 
 <hr>
 
@@ -217,9 +217,9 @@ Sessió 17: dijous 25 d'abril
 
 * Tema 5. Aritmètica d'enters i coma flotant / Multiplicació i coma flotant a MIPS [slides](./slides/sessio17_2_tema5_3_floats_3.pdf)
  
-* Tema 5. Examen de problemes [enunciats](./problemes/expr5_part2.pdf)  i [solucions](./problemes/expr5_part2s.pdf) 
+* Tema 5. Examen de problemes [enunciats](./problemes/expr5_part2.pdf)  <!--i [solucions](./problemes/expr5_part2s.pdf) -->
 
--->
+
 <!--
 <hr>
 
