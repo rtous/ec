@@ -225,7 +225,7 @@ Sessió 17: dijous 25 d'abril
 * Tema 5. Examen de problemes [enunciats](./problemes/expr5_part2.pdf)  i [solucions](./problemes/expr5_part2s.pdf) 
 -->
 
-
+<!--
 <hr>
 
 Sessió 18: dilluns 29 d'abril
@@ -233,19 +233,16 @@ Sessió 18: dilluns 29 d'abril
 * Tema 6. Memòria cache / Introducció i disseny bàsic (continuació)
 
 * Tema 6. Problemes resolts: 6.1
-
-* Tema 6. Memòria cache / Part 2: Gestió de les escriptures [slides](./slides/sessio22_1_tema6_2.pdf)
-
-* Tema 6. Problemes resolts: 6.2
-
+-->
 <!--
 <hr>
 
 Sessió 19: dijous 2 de maig
 
+
 * Tema 6. Memòria cache / Part 2: Gestió de les escriptures [slides](./slides/sessio22_1_tema6_2.pdf)
-
-
+-->
+<!--
 <hr>
 
 Sessió 20: dilluns 6 de maig
