@@ -225,7 +225,6 @@ Sessió 17: dijous 25 d'abril
 * Tema 5. Examen de problemes [enunciats](./problemes/expr5_part2.pdf)  i [solucions](./problemes/expr5_part2s.pdf) 
 -->
 
-
 <hr>
 
 Sessió 18: dilluns 29 d'abril
@@ -236,27 +235,26 @@ Sessió 18: dilluns 29 d'abril
 
 * Tema 6. Memòria cache / Part 2: Gestió de les escriptures [slides](./slides/sessio22_1_tema6_2.pdf)
 
-* Tema 6. Problemes resolts: 6.2
+* Problemes per dijous dijous 2 de maig: 6.2
 
-<!--
 <hr>
 
 Sessió 19: dijous 2 de maig
 
-* Tema 6. Memòria cache / Part 2: Gestió de les escriptures [slides](./slides/sessio22_1_tema6_2.pdf)
+* Tema 6. Problemes resolts: 6.2
 
+* Tema 6. Memòria cache / Part 2: Gestió de les escriptures (continuació)
 
+* Tema 6. Examen de problemes [enunciats](./problemes/expr6.pdf) i i [solucions](./problemes/expr6s.pdf)
+
+<!--
 <hr>
 
 Sessió 20: dilluns 6 de maig
 
-* Tema 6. Problemes resolts: 6.2
-
 * Tema 6. Memòria cache / Part 3: Model de temps i millores [slides](./slides/sessio23_1_tema6_3.pdf)
 
-* Tema 6. Examen de problemes [enunciats](./problemes/expr6.pdf) i i [solucions](./problemes/expr6s.pdf)
-
-* Problemes per dijous 9 de maig: 6.7
+* Problemes resolts: 6.7
 -->
 <!--
 <hr>
