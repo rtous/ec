@@ -272,7 +272,7 @@ Sessió 21: dijous 9 de maig
 
 * Tema 6. Examen de problemes 2 [enunciats](./problemes/expr6_2.pdf) <!--i [solucions](./problemes/expr6_2s.pdf)-->
 
--->
+
 <!--
 <hr>
 
