@@ -251,7 +251,7 @@ Sessió 19: dijous 2 de maig
 
 * Problemes per dilluns 6 de maig: 6.7
 
-<!--
+
 <hr>
 
 Sessió 20: dilluns 6 de maig
@@ -263,15 +263,14 @@ Sessió 20: dilluns 6 de maig
 * Tema 6. Problemes resolts: 6.10 
 
 * Problemes per dijous 9 de maig:  6.11
--->
-<!--
+
 <hr>
 
 Sessió 21: dijous 9 de maig
 
 * Tema 6. Problemes resolts: 6.11 
 
-* Tema 6. Examen de problemes 2 [enunciats](./problemes/expr6_2.pdf) i [solucions](./problemes/expr6_2s.pdf)
+* Tema 6. Examen de problemes 2 [enunciats](./problemes/expr6_2.pdf) <!--i [solucions](./problemes/expr6_2s.pdf)-->
 
 -->
 <!--
