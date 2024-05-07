@@ -247,7 +247,7 @@ Sessió 19: dijous 2 de maig
 
 * Tema 6. Memòria cache / Part 3: Model de temps i millores (part 1) [slides](./slides/sessio23_1_tema6_3.pdf)
 
-* Tema 6. Examen de problemes [enunciats](./problemes/expr6.pdf) <!--i [solucions](./problemes/expr6s.pdf)-->
+* Tema 6. Examen de problemes [enunciats](./problemes/expr6.pdf) i [solucions](./problemes/expr6s.pdf)
 
 * Problemes per dilluns 6 de maig: 6.7
 
@@ -262,7 +262,7 @@ Sessió 20: dilluns 6 de maig
 
 * Tema 6. Problemes resolts: 6.10 
 
-* Problemes per dijous 9 de maig:  6.11
+<!-- * Problemes per dijous 9 de maig:  6.11 -->
 
 <hr>
 
