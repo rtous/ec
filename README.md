@@ -268,43 +268,33 @@ Sessió 20: dilluns 6 de maig
 
 Sessió 21: dijous 9 de maig
 
-* Tema 6. Problemes resolts: 6.11 
+* Tema 6. Problemes resolts: 6.11 [solucions](./problemes/tema6_6_7_6_11.pdf) 
 
-* Tema 6. Examen de problemes 2 [enunciats](./problemes/expr6_2.pdf) <!--i [solucions](./problemes/expr6_2s.pdf)-->
+* Tema 6. Examen de problemes 2 [enunciats](./problemes/expr6_2.pdf) i [solucions](./problemes/expr6_2s.pdf)
 
 
-<!--
+
 <hr>
 
 Sessió 22: dilluns 13 de maig
 
-??????????????? adelantar tot un dia
+* Tema 7. Memòria virtual [slides](./slides/sessio26_1_tema7_1.pdf)
 
--->
-<!--
+* Tema 7. Problemes resolts: 7.1, 7.4 <!-- [solucions](./problemes/tema7_7_4.pdf) -->
+
+
 <hr>
 
 Sessió 23: dijous 16 de maig
 
-* Tema 7. Memòria virtual [slides](./slides/sessio26_1_tema7_1.pdf)
+* Tema 7. Memòria virtual (TLB)
 
-* Tema 7. Problemes resolts: 7.1, 7.4 [solucions](./problemes/tema7_7_4.pdf)
+* Problemes per dimarts 21 de maig: 7.6
 
--->
 <!--
 <hr>
 
 Sessió 24: dimarts 21 de maig
-
-* Tema 7. Memòria virtual (TLB)
-
-* Problemes per dijous 23 de maig: 7.6
-
--->
-<!--
-<hr>
-
-Sessió 25: dijous 23 de maig
 
 * Tema 7. Solució problemes encarregats: 7.6
 
@@ -316,12 +306,19 @@ Sessió 25: dijous 23 de maig
 <!--
 <hr>
 
-Sessió 26: dimarts 27 de maig
+Sessió 25: dijous 23 de maig
 
 * Tema 8 ([apunts](https://docencia.ac.upc.edu/FIB/grau/EC/privat/TeoriaEC-tema8.pdf))
 
 * Tema 8. Examen de problemes ([enunciats](./problemes/expr8.pdf) i [solucions](./problemes/expr8s.pdf))
 
+-->
+<!--
+<hr>
+
+Sessió 26: dimarts 27 de maig
+
+* Repàs
 -->
 <!--
 <hr>
