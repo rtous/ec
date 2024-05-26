@@ -308,7 +308,6 @@ Sessió 25: dijous 23 de maig
 
 * Tema 8 ([apunts](https://docencia.ac.upc.edu/FIB/grau/EC/privat/TeoriaEC-tema8.pdf))
 
-<!--
 <hr>
 
 Sessió 26: dimarts 27 de maig
@@ -317,7 +316,7 @@ Sessió 26: dimarts 27 de maig
 
 * Tema 8. Examen de problemes ([enunciats](./problemes/expr8.pdf) <!--i [solucions](./problemes/expr8s.pdf))-->
 
-<!--
+
 <hr>
 
 Sessió 27: dijous 30 de maig
