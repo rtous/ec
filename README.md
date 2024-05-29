@@ -280,7 +280,7 @@ Sessió 22: dilluns 13 de maig
 
 * Tema 7. Memòria virtual [slides](./slides/sessio26_1_tema7_1.pdf)
 
-* Tema 7. Problemes resolts: 7.1, 7.4 <!-- [solucions](./problemes/tema7_7_4.pdf) -->
+* Tema 7. Problemes resolts: 7.1, 7.4 [solucions](./problemes/tema7_7_4.pdf) 
 
 
 <hr>
@@ -300,7 +300,7 @@ Sessió 24: dimarts 21 de maig
 
 * Tema 7. Memòria virtual (protecció i compartició)
 
-* Tema 7. Examen de problemes ([enunciats](./problemes/expr7.pdf)) <!--i [solucions](./problemes/expr7s2.pdf) -->
+* Tema 7. Examen de problemes [enunciats](./problemes/expr7.pdf)) [solucions](./problemes/expr7s2.pdf)
 
 <hr>
 
@@ -314,14 +314,15 @@ Sessió 26: dimarts 27 de maig
 
 * Tema 8 (continuació)
 
-* Tema 8. Examen de problemes ([enunciats](./problemes/expr8.pdf) <!--i [solucions](./problemes/expr8s.pdf))-->
+* Tema 8. Examen de problemes [enunciats](./problemes/expr8.pdf) [solucions](./problemes/expr8s.pdf)
 
 
 <hr>
 
 Sessió 27: dijous 30 de maig
 
-* Repàs
+* Repàs temes 6 (MC) i 7 (MV). Examen problemes [enunciats](./problemes/expr10_repas_mc_i_mv.pdf) <!-- [solucions](./problemes/expr8s.pdf) -->
+
 
 
 
