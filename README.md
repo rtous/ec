@@ -22,11 +22,13 @@ Sessió 1: dilluns 10 de febrer
 
 <hr>
 
+<!--
+
 Sessió 2: dimecres 12 de febrer
 
 * Tema 2. Instruccions i tipus de dades bàsics / Assemblador [slides](./slides/sessio2_1_tema2_assemblador.pdf)
 
-<!--
+
 <hr>
 
 Sessió 3: dilluns 17 de febrer
