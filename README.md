@@ -52,7 +52,7 @@ Sessió 4: dimecres 19 de febrer
 * Tema 2. Problemes resolts: 2.26, 2.30, 2.27 (punters) [solucions](./problemes/tema2_2_26_2_30_2_27.pdf)
 
 * Tema 2. Problemes per dijous 29 de febrer: 2.22, 2.32.c, 2.31
-<!--
+
 <!- -
 <hr>
 AQUESTA 5a del tema 2 LA FAIG QUAN M'HO PERMET EL CALENDARI (aleshores no faig l'examen el dia següent)
@@ -62,7 +62,6 @@ Sessió 5: dilluns 26 de febrer
 
 * Tema 2. Examen de problemes [enunciats](./problemes/expr2_extended.pdf) i [solucions](./problemes/expr2s_extended.pdf)
 - ->
--->
 
 <hr>
 
@@ -107,7 +106,7 @@ Sessió 8: dimecres 5 de març
 
 * Tema 3. Solució problemes encarregats: 3.34, 3.26, 3.36 (subrutines) [solucions](./problemes/tema3_3_34_3_26_3_36.pdf) i vídeos ([3.34](https://youtu.be/P6WxssL83DM), [3.26](https://youtu.be/IpW8fy4tp_s), [3.36](https://youtu.be/URdodRJMRiI))
 
-<!-- * Tema 4. Matrius [slides](./slides/sessio9_2_tema4_matrius1.pdf) POSPOSAT PER MALALTIA -->
+<!- - * Tema 4. Matrius [slides](./slides/sessio9_2_tema4_matrius1.pdf) POSPOSAT PER MALALTIA - ->
 
 <hr>
 
@@ -122,7 +121,7 @@ Sessió 9: dilluns 10 de març
 
 Sessió 10: dimecres 12 de març
 
-<!-- * Tema 4. Problemes resolts: 4.8 -->
+<!- - * Tema 4. Problemes resolts: 4.8 - ->
 
 * Tema 1. Rendiment i consum [slides](./slides/sessio11_1_tema1_rendiment.pdf)
 
@@ -178,14 +177,14 @@ Sessió 15: dilluns 31 de febrer
 
 * Tema 5. Aritmètica d'enters i coma flotant / Multiplicació i coma flotant a MIPS [slides](./slides/sessio17_2_tema5_3_floats_3.pdf)
 
-<!--
+<!- -
 * Tema 5. Examen de problemes [enunciats](./problemes/expr5_part1.pdf) i [solucions](./problemes/expr5_part1s.pdf) 
 
 * Problemes per dilluns 29 d'abril: exercici de floats de l'examen parcial 16/17-Q2 posat a la pissarra. 
  
  
 * Tema 5. Examen de problemes [enunciats](./problemes/expr5_part2.pdf)  i [solucions](./problemes/expr5_part2s.pdf) 
--->
+- ->
 
 <hr>
 
@@ -241,7 +240,7 @@ Sessió 19: dimecres 30 d'abril
 
 * Tema 6. Problemes resolts: 6.10 
 
-<!-- * Problemes per dijous 9 de maig:  6.11 -->
+<!- - * Problemes per dijous 9 de maig:  6.11 - ->
 
 <hr>
 
@@ -300,7 +299,7 @@ Sessió 25: dimecres 21 de maig
 
 Sessió 26: dilluns 26 de maig
 
-* Repàs temes 6 (MC) i 7 (MV). Examen problemes [enunciats](./problemes/expr10_repas_mc_i_mv.pdf) <!-- [solucions](./problemes/expr8s.pdf) -->
+* Repàs temes 6 (MC) i 7 (MV). Examen problemes [enunciats](./problemes/expr10_repas_mc_i_mv.pdf) <!- - [solucions](./problemes/expr8s.pdf) - ->
 
 <hr>
 
