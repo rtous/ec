@@ -14,22 +14,24 @@ S'ha creat una entrada a Atenea per que pugueu realitzar el lliurament dels prob
 
 ## Materials sessions
 
-Sessió 1: dilluns 10 de febrer
+Sessió 1: dilluns 12 de febrer
 
 * Presentació [slides](./slides/sessio1_1_presentacio.pdf)
 
 * Tema 2. Instruccions i tipus de dades bàsics / Introducció [slides](./slides/sessio1_2_tema2_intro.pdf)
 
+
+
 <hr>
 
-Sessió 2: dimecres 12 de febrer
+Sessió 2: dijous 15 de febrer
 
 * Tema 2. Instruccions i tipus de dades bàsics / Assemblador [slides](./slides/sessio2_1_tema2_assemblador.pdf)
 
-<script>/*
+
 <hr>
 
-Sessió 3: dilluns 17 de febrer
+Sessió 3: dilluns 19 de febrer
 
 * Tema 2. Instruccions i tipus de dades bàsics / Repàs naturals i enters [slides](./slides/sessio3_1_tema2_enters.pdf)
 
@@ -41,7 +43,27 @@ Sessió 3: dilluns 17 de febrer
 
 <hr>
 
-Sessió 4: dimecres 19 de febrer
+Sessió 4: dijous 22 de febrer
+
+* AVÍS: No hi haurà classe aquest dia.
+
+<!--
+NO PER ABSENCIA
+* Tema 2. Solució problemes encarregats: 2.6 (memòria)
+
+* Tema 2. Problemes resolts: 2.32.d (vectors)
+
+* Tema 2. Instruccions i tipus de dades bàsics / punters [slides](./slides/sessio4_1_tema2_punters.pdf)
+
+* Tema 2. Problemes resolts: 2.26, 2.30, 2.27 (punters)
+
+* Tema 2. Problemes per dilluns 26 de febrer: 2.22, 2.32.c, 2.31 
+-->
+
+
+<hr>
+
+Sessió 5: dilluns 26 de febrer
 
 * Tema 2. Solució problemes encarregats: 2.6 (memòria) [solucions](./problemes/tema2_2_6.pdf) 
 
@@ -52,21 +74,21 @@ Sessió 4: dimecres 19 de febrer
 * Tema 2. Problemes resolts: 2.26, 2.30, 2.27 (punters) [solucions](./problemes/tema2_2_26_2_30_2_27.pdf)
 
 * Tema 2. Problemes per dijous 29 de febrer: 2.22, 2.32.c, 2.31
+
+
 <!--
-<!- -
 <hr>
-AQUESTA 5a del tema 2 LA FAIG QUAN M'HO PERMET EL CALENDARI (aleshores no faig l'examen el dia següent)
+NO JA QUE VAIG RECUPERAR ANTERIOR
 Sessió 5: dilluns 26 de febrer
 
 * Tema 2. Solució problemes encarregats: 2.22, 2.32.c, 2.31
 
 * Tema 2. Examen de problemes [enunciats](./problemes/expr2_extended.pdf) i [solucions](./problemes/expr2s_extended.pdf)
-- ->
 -->
 
 <hr>
 
-Sessió 5: dilluns 24 de febrer
+Sessió 6: dijous 29 de febrer
 
 * Tema 2. Solució problemes encarregats: 2.22 i 2.31 [solucions](./problemes/tema2_2_22_2_31.pdf)
 
@@ -76,11 +98,11 @@ Sessió 5: dilluns 24 de febrer
 
 * Tema 2. Examen de problemes (lliurar a Atenea abans de la classe de dilluns 4 de març) [enunciats](./problemes/expr2_extended_nomessegona.pdf) i [solucions](./problemes/expr2s_extended_nomessegona.pdf)
 
-* Problemes per dilluns 4 de març: 3.5.a, 3.9 (bits)
+* Problemes per dilluns 4 de març: 3.5.a, 3.9 (bits) 
 
 <hr>
 
-Sessió 6: dimecres 26 de febrer
+Sessió 7: dilluns 4 de març
 
 * Tema 3. Solució problemes encarregats: 3.5.a, 3.9 (bits) [solucions](./problemes/tema3_3_5_3_9.pdf)
 
@@ -89,7 +111,7 @@ Sessió 6: dimecres 26 de febrer
 
 <hr>
 
-Sessió 7: dilluns 3 de març
+Sessió 8: dijous 7 de març
 
 * Tema 3. Traducció de programes / subrutines (continuació)
 
@@ -101,7 +123,7 @@ Sessió 7: dilluns 3 de març
 
 <hr>
 
-Sessió 8: dimecres 5 de març
+Sessió 9: dilluns 11 de març
 
 * Tema 3. Estructura de la memòria, compilació, assemblatge, enllaçat i càrrega PART 2 [vídeo](https://youtu.be/2CKO7oWH3iw)
 
@@ -111,7 +133,7 @@ Sessió 8: dimecres 5 de març
 
 <hr>
 
-Sessió 9: dilluns 10 de març
+Sessió 10: dijous 14 de març
 
 * Tema 4. Matrius [slides](./slides/sessio9_2_tema4_matrius1.pdf)
 
@@ -120,7 +142,7 @@ Sessió 9: dilluns 10 de març
 
 <hr>
 
-Sessió 10: dimecres 12 de març
+Sessió 11: dilluns 18 de març
 
 <!-- * Tema 4. Problemes resolts: 4.8 -->
 
@@ -128,7 +150,7 @@ Sessió 10: dimecres 12 de març
 
 <hr>
 
-Sessió 11: dilluns 17 de març
+Sessió 12: dijous 21 de març
 
 * Tema 1. Problemes resolts: 1.3, 1.6 (rendiment i consum)
 
@@ -139,7 +161,18 @@ Sessió 11: dilluns 17 de març
 
 <hr>
 
-Sessió 12: dimecres 19 de març
+**************** SETMANA SANTA *****************
+
+<hr>
+
+EXAMEN PARCIAL: dimarts 9 d'abril
+
+* Examen Parcial. Seguiu les instruccions de la convocatòria publicada al Racó.
+
+
+<hr>
+
+Sessió 13: dijous 11 d'abril
 
 * Tema 5. Aritmètica d'enters i coma flotant / 5.1-5.3 Aritmètica d'enters [slides](./slides/sessio12_1_tema5_1_aritmeticaentera_1.pdf)
 	
@@ -148,7 +181,7 @@ Sessió 12: dimecres 19 de març
 
 
 <hr>
-Sessió 13: dilluns 24 de febrer
+Sessió 14: dilluns 15 d'abril
 
 * Tema 5. Aritmètica d'enters i coma flotant / 5.4 Representació [slides](./slides/sessio16_1_tema5_2_floats_1.pdf)
 
@@ -157,7 +190,7 @@ Sessió 13: dilluns 24 de febrer
 
 <hr>
 
-Sessió 14: dimecres 26 de febrer 
+Sessió 15: dijous 18 d'abril
 
 * Tema 5. Solució problemes encarregats: 5.23
 
@@ -170,43 +203,31 @@ Sessió 14: dimecres 26 de febrer
 
 <hr>
 
-Sessió 15: dilluns 31 de febrer
+Sessió 16: dilluns 22 d'abril
 
 * Tema 5. Solució problemes encarregats: 5.27
 
 * Tema 5. Aritmètica d'enters i coma flotant / Suma i resta (continuació)
 
+* Tema 5. Examen de problemes [enunciats](./problemes/expr5_part1.pdf) <!--i [solucions](./problemes/expr5_part1s.pdf) -->
+
+<hr>
+
+Sessió 17: dijous 25 d'abril
+
 * Tema 5. Aritmètica d'enters i coma flotant / Multiplicació i coma flotant a MIPS [slides](./slides/sessio17_2_tema5_3_floats_3.pdf)
 
-<!--
-* Tema 5. Examen de problemes [enunciats](./problemes/expr5_part1.pdf) i [solucions](./problemes/expr5_part1s.pdf) 
+* Tema 6. Memòria cache / Introducció i disseny bàsic [slides](./slides/sessio19_1_tema6_1.pdf)
 
 * Problemes per dilluns 29 d'abril: exercici de floats de l'examen parcial 16/17-Q2 posat a la pissarra. 
  
- 
+ <!--
 * Tema 5. Examen de problemes [enunciats](./problemes/expr5_part2.pdf)  i [solucions](./problemes/expr5_part2s.pdf) 
 -->
 
 <hr>
 
-EXAMEN PARCIAL: ????? d'abril
-
-* Examen Parcial. Seguiu les instruccions de la convocatòria publicada al Racó.
-
-<hr>
-
-Sessió 16: dimecres 9 d'abril
-
-* Tema 6. Memòria cache / Introducció i disseny bàsic [slides](./slides/sessio19_1_tema6_1.pdf)
-
-<hr>
-
-
-**************** SETMANA SANTA *****************
-
-<hr>
-
-Sessió 17: dimecres 23 d'abril
+Sessió 18: dilluns 29 d'abril
 
 * Tema 6. Memòria cache / Introducció i disseny bàsic (continuació)
 
@@ -218,7 +239,7 @@ Sessió 17: dimecres 23 d'abril
 
 <hr>
 
-Sessió 18: dilluns 28 d'abril
+Sessió 19: dijous 2 de maig
 
 * Tema 6. Problemes resolts: 6.2
 
@@ -233,7 +254,7 @@ Sessió 18: dilluns 28 d'abril
 
 <hr>
 
-Sessió 19: dimecres 30 d'abril
+Sessió 20: dilluns 6 de maig
 
 * Tema 6. Solució problemes encarregats: 6.7 [solucions](./problemes/tema6_6_7_6_11.pdf) 
 
@@ -245,7 +266,7 @@ Sessió 19: dimecres 30 d'abril
 
 <hr>
 
-Sessió 20: dilluns 5 de maig
+Sessió 21: dijous 9 de maig
 
 * Tema 6. Problemes resolts: 6.11 [solucions](./problemes/tema6_6_7_6_11.pdf) 
 
@@ -255,7 +276,7 @@ Sessió 20: dilluns 5 de maig
 
 <hr>
 
-Sessió 21: dimecres 7 de maig
+Sessió 22: dilluns 13 de maig
 
 * Tema 7. Memòria virtual [slides](./slides/sessio26_1_tema7_1.pdf)
 
@@ -264,7 +285,7 @@ Sessió 21: dimecres 7 de maig
 
 <hr>
 
-Sessió 22: dilluns 12 de maig
+Sessió 23: dijous 16 de maig
 
 * Tema 7. Memòria virtual (TLB)
 
@@ -273,7 +294,7 @@ Sessió 22: dilluns 12 de maig
 
 <hr>
 
-Sessió 23: dimecres 14 de maig
+Sessió 24: dimarts 21 de maig
 
 * Tema 7. Solució problemes encarregats: 7.6
 
@@ -283,13 +304,13 @@ Sessió 23: dimecres 14 de maig
 
 <hr>
 
-Sessió 24: dilluns 19 de maig
+Sessió 25: dijous 23 de maig
 
 * Tema 8 ([apunts](https://docencia.ac.upc.edu/FIB/grau/EC/privat/TeoriaEC-tema8.pdf))
 
 <hr>
 
-Sessió 25: dimecres 21 de maig
+Sessió 26: dimarts 27 de maig
 
 * Tema 8 (continuació)
 
@@ -298,15 +319,9 @@ Sessió 25: dimecres 21 de maig
 
 <hr>
 
-Sessió 26: dilluns 26 de maig
+Sessió 27: dijous 30 de maig
 
 * Repàs temes 6 (MC) i 7 (MV). Examen problemes [enunciats](./problemes/expr10_repas_mc_i_mv.pdf) <!-- [solucions](./problemes/expr8s.pdf) -->
-
-<hr>
-
-Sessió 27: dimecres 28 de maig
-
-*/</script>
 
 
 
