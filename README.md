@@ -26,7 +26,7 @@ Sessió 2: dimecres 12 de febrer
 
 * Tema 2. Instruccions i tipus de dades bàsics / Assemblador [slides](./slides/sessio2_1_tema2_assemblador.pdf)
 
-<script>/*
+<!--
 <hr>
 
 Sessió 3: dilluns 17 de febrer
@@ -305,8 +305,7 @@ Sessió 26: dilluns 26 de maig
 <hr>
 
 Sessió 27: dimecres 28 de maig
-
-*/</script>
+-->
 
 
 
