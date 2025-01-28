@@ -8,6 +8,26 @@ Quan sigui possible, les classes també es podran seguir via Google Meet a l'enl
 
 -->
 
+<!--
+	T2 (incloent T0): 4 classes 
+		- 5 classes si 27 sessions i, o bé T5 no entra al parcial, o bé hi puc encabiar les 5 sessions de T5  
+	T3: 4 classes
+	T4: 1 classe (JM 2)
+	T1: 2 classes
+	T5: 5 classes 
+		- 4 classes si entra al parcial i no hi ha temps
+	T6: 5 classes
+	T7: 3 classes
+	T8: 2 classes
+	repas: 1 classe (no sempre en funció de la 5a de T2 i T5)
+	buffer: 1 classe (no sempre en funció de la 5a de T2 i T5)
+	------
+	TOTAL: 27 sessions de 2 hores (13 setmanes x 2 + 1) (de vegades 26 sessions)
+
+	(si el parcial i els labs ho permeten faig la 5a hora de T2)
+	(la 5a hora de T5 intento fer-la sempre a no ser que el parcial no ho permeti)
+-->
+
 ## Lliurament problemes
 
 S'ha creat una entrada a Atenea per que pugueu realitzar el lliurament dels problemes.
@@ -20,9 +40,9 @@ Sessió 1: dilluns 10 de febrer
 
 * Tema 2. Instruccions i tipus de dades bàsics / Introducció [slides](./slides/sessio1_2_tema2_intro.pdf)
 
-<hr>
-
 <!--
+
+<hr>
 
 Sessió 2: dimecres 12 de febrer
 
@@ -56,9 +76,20 @@ Sessió 4: dimecres 19 de febrer
 * Tema 2. Problemes per dijous 29 de febrer: 2.22, 2.32.c, 2.31
 
 <!- -
+En cas que no es pugui fer la 5a hora del tema 2 s'encarrega l'examen de problemes per casa.
+
+* Tema 2. Examen de problemes (lliurar a Atenea abans de la classe de dilluns 4 de març) [enunciats](./problemes/expr2_extended_nomessegona.pdf) i [solucions](./problemes/expr2s_extended_nomessegona.pdf)
+- ->
+
+<!- -
+5a HORA TEMA2 (quan ho permet el calendari)
+- Si el tema 5 no entra al parcial (o si entra però el parcial és molt tard)
+- + si calendari sessió 2 (subrutines) ho permet
+- Sempre és convenient, si hi ha 26 classes en comptes de 27 simplement no hi haurà classe de repas al final. 
+- ->
+<!- -
 <hr>
-AQUESTA 5a del tema 2 LA FAIG QUAN M'HO PERMET EL CALENDARI (aleshores no faig l'examen el dia següent)
-Sessió 5: dilluns 26 de febrer
+Sessió 5: ????? ?? de febrer (NO SEMPRE)
 
 * Tema 2. Solució problemes encarregats: 2.22, 2.32.c, 2.31
 
@@ -69,13 +100,15 @@ Sessió 5: dilluns 26 de febrer
 
 Sessió 5: dilluns 24 de febrer
 
+<!- -
+Les solucions als problemes del tema 2 només si no s'ha pogut fer la 5a hora del tema 2.
+- ->
+
 * Tema 2. Solució problemes encarregats: 2.22 i 2.31 [solucions](./problemes/tema2_2_22_2_31.pdf)
 
 * Tema 3. Traducció de programes / bitwise, condicions, if-then-else [slides](./slides/sessio6_1_tema3_condicionals.pdf)
 
 * Tema 3. Traducció de programes / switch i bucles [slides](./slides/sessio7_1_tema3_switch_i_bucles.pdf)
-
-* Tema 2. Examen de problemes (lliurar a Atenea abans de la classe de dilluns 4 de març) [enunciats](./problemes/expr2_extended_nomessegona.pdf) i [solucions](./problemes/expr2s_extended_nomessegona.pdf)
 
 * Problemes per dilluns 4 de març: 3.5.a, 3.9 (bits)
 
