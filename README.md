@@ -45,7 +45,6 @@ Sessió 2: dimecres 12 de febrer
 
 * Tema 2. Instruccions i tipus de dades bàsics / Assemblador [slides](./slides/sessio2_1_tema2_assemblador.pdf)
 
-<!--
 
 <hr>
 
@@ -57,22 +56,23 @@ Sessió 3: dilluns 17 de febrer
 
 * Tema 2. Problemes resolts: 2.3
 
-* Tema 2. Problemes per dilluns 26 de febrer: 2.6 (memòria)
+* Tema 2. Problemes per dimecres 19 de febrer: 2.6 (memòria)
 
 <hr>
 
 Sessió 4: dimecres 19 de febrer
 
-* Tema 2. Solució problemes encarregats: 2.6 (memòria) [solucions](./problemes/tema2_2_6.pdf) 
+* Tema 2. Solució problemes encarregats: 2.6 (memòria) <!--[solucions](./problemes/tema2_2_6.pdf) -->
 
-* Tema 2. Problemes resolts: 2.32 (vectors) [solucions](./problemes/tema2_2_32.pdf)
+* Tema 2. Problemes resolts: 2.32 (vectors) <!--[solucions](./problemes/tema2_2_32.pdf)-->
 
 * Tema 2. Instruccions i tipus de dades bàsics / punters [slides](./slides/sessio4_1_tema2_punters.pdf)
 
-* Tema 2. Problemes resolts: 2.26, 2.30, 2.27 (punters) [solucions](./problemes/tema2_2_26_2_30_2_27.pdf)
+* Tema 2. Problemes resolts: 2.26, 2.30, 2.27 (punters) <!--[solucions](./problemes/tema2_2_26_2_30_2_27.pdf)-->
 
-* Tema 2. Problemes per dijous 29 de febrer: 2.22, 2.32.c, 2.31
+* Tema 2. Problemes per dilluns 24 de febrer: 2.22, 2.32.c, 2.31
 
+<!--
 <!- -
 En cas que no es pugui fer la 5a hora del tema 2 s'encarrega l'examen de problemes per casa.
 
