@@ -95,22 +95,24 @@ Sessió 5: dilluns 24 de febrer
 * Tema 2. Examen de problemes [enunciats](./problemes/expr2_extended.pdf) <!--i [solucions](./problemes/expr2s_extended.pdf)-->
 
 
-<!--
+
 <hr>
 
 Sessió 6: dimecres 26 de febrer
 
-<!- -
+<!--
 Les solucions als problemes del tema 2 només si no s'ha pogut fer la 5a hora del tema 2.
-- ->
 
 * Tema 2. Solució problemes encarregats: 2.22 i 2.31 [solucions](./problemes/tema2_2_22_2_31.pdf)
+-->
 
 * Tema 3. Traducció de programes / bitwise, condicions, if-then-else [slides](./slides/sessio6_1_tema3_condicionals.pdf)
 
 * Tema 3. Traducció de programes / switch i bucles [slides](./slides/sessio7_1_tema3_switch_i_bucles.pdf)
 
 * Problemes per dilluns 4 de març: 3.5.a, 3.9 (bits)
+
+<!--
 
 <hr>
 
