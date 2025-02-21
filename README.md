@@ -74,18 +74,18 @@ Sessió 4: dimecres 19 de febrer
 * Tema 2. Problemes per dilluns 24 de febrer: 2.22, 2.32.c, 2.31
 
 
-<!- -
+<!--
 En cas que no es pugui fer la 5a hora del tema 2 s'encarrega l'examen de problemes per casa.
 
 * Tema 2. Examen de problemes (lliurar a Atenea abans de la classe de dilluns 4 de març) [enunciats](./problemes/expr2_extended_nomessegona.pdf) i [solucions](./problemes/expr2s_extended_nomessegona.pdf)
-- ->
+-->
 
-<!- -
+<!--
 5a HORA TEMA2 (quan ho permet el calendari)
 - Si el tema 5 no entra al parcial (o si entra però el parcial és molt tard)
 - + si calendari sessió 2 (subrutines) ho permet
 - Sempre és convenient, si hi ha 26 classes en comptes de 27 simplement no hi haurà classe de repas al final. 
-- ->
+-->
 
 <hr>
 Sessió 5: dilluns 24 de febrer
