@@ -87,13 +87,13 @@ En cas que no es pugui fer la 5a hora del tema 2 s'encarrega l'examen de problem
 - Sempre és convenient, si hi ha 26 classes en comptes de 27 simplement no hi haurà classe de repas al final. 
 -->
 
+
 <hr>
 Sessió 5: dilluns 24 de febrer
 
 * Tema 2. Solució problemes encarregats: 2.22, 2.32.c, 2.31
 
-* Tema 2. Examen de problemes [enunciats](./problemes/expr2_extended.pdf) <!--i [solucions](./problemes/expr2s_extended.pdf)-->
-
+* Tema 2. Examen de problemes <!--[enunciats](./problemes/expr2_extended.pdf)--> <!--i [solucions](./problemes/expr2s_extended.pdf)-->
 
 
 <hr>
