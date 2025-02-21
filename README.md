@@ -73,7 +73,7 @@ Sessió 4: dimecres 19 de febrer
 
 * Tema 2. Problemes per dilluns 24 de febrer: 2.22, 2.32.c, 2.31
 
-<!--
+
 <!- -
 En cas que no es pugui fer la 5a hora del tema 2 s'encarrega l'examen de problemes per casa.
 
@@ -94,6 +94,8 @@ Sessió 5: dilluns 24 de febrer
 
 * Tema 2. Examen de problemes [enunciats](./problemes/expr2_extended.pdf) i [solucions](./problemes/expr2s_extended.pdf)
 
+
+<!--
 <hr>
 
 Sessió 6: dimecres 26 de febrer
