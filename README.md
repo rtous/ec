@@ -92,7 +92,7 @@ Sessió 5: dilluns 24 de febrer
 
 * Tema 2. Solució problemes encarregats: 2.22, 2.32.c, 2.31
 
-* Tema 2. Examen de problemes [enunciats](./problemes/expr2_extended.pdf) i [solucions](./problemes/expr2s_extended.pdf)
+* Tema 2. Examen de problemes [enunciats](./problemes/expr2_extended.pdf) <!--i [solucions](./problemes/expr2s_extended.pdf)-->
 
 
 <!--
