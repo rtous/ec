@@ -62,7 +62,7 @@ Sessió 3: dilluns 17 de febrer
 
 Sessió 4: dimecres 19 de febrer
 
-* Tema 2. Solució problemes encarregats: 2.6 (memòria) i 2.32.a, 2.32.b (vectors) <!--[solucions](./problemes/tema2_2_6.pdf) -->
+* Tema 2. Solució problemes encarregats: 2.6 (memòria) i 2.32.a, 2.32.b (vectors) [solucions 2.6](./problemes/tema2_2_6.pdf) [solucions 2.32](./problemes/tema2_2_32.pdf) 
 
 <!--
 * Tema 2. Problemes resolts: 2.32.a, 2.32.b (vectors) [solucions](./problemes/tema2_2_32.pdf)-->
