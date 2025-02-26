@@ -69,7 +69,7 @@ Sessió 4: dimecres 19 de febrer
 
 * Tema 2. Instruccions i tipus de dades bàsics / punters [slides](./slides/sessio4_1_tema2_punters.pdf)
 
-* Tema 2. Problemes resolts: 2.26, 2.30, 2.27 (punters) <!--[solucions](./problemes/tema2_2_26_2_30_2_27.pdf)-->
+* Tema 2. Problemes resolts: 2.26, 2.30, 2.27 (punters) [solucions](./problemes/tema2_2_26_2_30_2_27.pdf)
 
 * Tema 2. Problemes per dilluns 24 de febrer: 2.22, 2.32.c, 2.31
 
@@ -93,9 +93,7 @@ Sessió 5: dilluns 24 de febrer
 
 * Tema 2. Solució problemes encarregats: 2.22, 2.32.c, 2.31
 
-* Tema 3. Traducció de programes / bitwise, condicions, if-then-else [slides](./slides/sessio6_1_tema3_condicionals.pdf)
-
-* Tema 2. Examen de problemes [enunciats](./problemes/expr2_extended.pdf) <!--i [solucions](./problemes/expr2s_extended.pdf)-->
+* Tema 2. Examen de problemes [enunciats](./problemes/expr2_extended.pdf) i [solucions](./problemes/expr2s_extended.pdf)
 
 
 <hr>
@@ -108,7 +106,7 @@ Les solucions als problemes del tema 2 només si no s'ha pogut fer la 5a hora de
 * Tema 2. Solució problemes encarregats: 2.22 i 2.31 [solucions](./problemes/tema2_2_22_2_31.pdf)
 -->
 
-* Tema 3. Traducció de programes / bitwise, condicions, if-then-else (continuació)
+* Tema 3. Traducció de programes / bitwise, condicions, if-then-else [slides](./slides/sessio6_1_tema3_condicionals.pdf)
 
 * Tema 3. Traducció de programes / switch i bucles [slides](./slides/sessio7_1_tema3_switch_i_bucles.pdf)
 
