@@ -110,7 +110,7 @@ Les solucions als problemes del tema 2 només si no s'ha pogut fer la 5a hora de
 
 * Tema 3. Traducció de programes / switch i bucles [slides](./slides/sessio7_1_tema3_switch_i_bucles.pdf)
 
-* Problemes per dilluns 4 de març: 3.5.a, 3.9 (bits)
+* Problemes per dilluns 3 de març: 3.5.a, 3.9 (bits)
 
 <hr>
 
