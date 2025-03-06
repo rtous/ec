@@ -131,28 +131,34 @@ Sessió 8: dimecres 5 de març
 
 * Tema 3. Estructura de la memòria, compilació, assemblatge, enllaçat i càrrega [slides](./slides/sessio9_1_tema3_mem_i_compilacio.pdf)
 
-* Problemes per dilluns 11 de març: 3.34, 3.26, 3.36 (subrutines)
+* Problemes per dilluns 10 de març: 3.34, 3.26, 3.36 (subrutines)
 
-<!--
+
 
 <hr>
 
 Sessió 9: dilluns 10 de març
 
-* Tema 3. Estructura de la memòria, compilació, assemblatge, enllaçat i càrrega PART 2 [vídeo](https://youtu.be/2CKO7oWH3iw)
+<!--* Tema 3. Estructura de la memòria, compilació, assemblatge, enllaçat i càrrega PART 2 [vídeo](https://youtu.be/2CKO7oWH3iw) -->
 
-* Tema 3. Solució problemes encarregats: 3.34, 3.26, 3.36 (subrutines) [solucions](./problemes/tema3_3_34_3_26_3_36.pdf) i vídeos ([3.34](https://youtu.be/P6WxssL83DM), [3.26](https://youtu.be/IpW8fy4tp_s), [3.36](https://youtu.be/URdodRJMRiI))
+* Tema 3. Solució problemes encarregats: 3.34, 3.26, 3.36 (subrutines) 
+<!--[solucions](./problemes/tema3_3_34_3_26_3_36.pdf) i vídeos ([3.34](https://youtu.be/P6WxssL83DM), [3.26](https://youtu.be/IpW8fy4tp_s), [3.36](https://youtu.be/URdodRJMRiI)) -->
 
-<!- - * Tema 4. Matrius [slides](./slides/sessio9_2_tema4_matrius1.pdf) POSPOSAT PER MALALTIA - ->
+* Tema 4. Matrius [slides](./slides/sessio9_2_tema4_matrius1.pdf) 
+
+<!-- * Tema 3. Examen de problemes subrutines -->
 
 <hr>
 
 Sessió 10: dimecres 12 de març
 
-* Tema 4. Matrius [slides](./slides/sessio9_2_tema4_matrius1.pdf)
+* Tema 4. Problemes resolts: 4.4, 4.5, 4.8 (matrius)
 
-* Tema 4. Examen de problemes  (lliurar a Atenea abans de la classe de dilluns 11 de març) [enunciats](./problemes/expr3i4.pdf) [solucions](./problemes/expr3i4s.pdf) 
+* Tema 4. Examen de problemes matrius
 
+<!-- * Tema 4. Examen de problemes subrutines i matrius (lliurar a Atenea abans de la classe de dilluns 17 de març) [enunciats](./problemes/expr3i4.pdf)--> <!--[solucions](./problemes/expr3i4s.pdf) -->
+
+<!--
 
 <hr>
 
