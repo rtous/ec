@@ -93,7 +93,7 @@ Sessió 5: dilluns 24 de febrer
 
 * Tema 2. Solució problemes encarregats: 2.22, 2.32.c, 2.31
 
-* Tema 2. Examen de problemes [enunciats](./problemes/expr2_extended.pdf) i [solucions](./problemes/expr2s_extended.pdf)
+* Tema 2. Problemes d'examen [enunciats](./problemes/expr2_extended.pdf) i [solucions](./problemes/expr2s_extended.pdf)
 
 
 <hr>
@@ -146,15 +146,17 @@ Sessió 9: dilluns 10 de març
 
 * Tema 4. Matrius [slides](./slides/sessio9_2_tema4_matrius1.pdf) 
 
-<!-- * Tema 3. Examen de problemes subrutines -->
+* Tema 3. Problemes d'examen subrutines [enunciats](./problemes/expr3_1hora.pdf) <!--i [solucions](./problemes/expr3s_1hora.pdf)-->
 
 <hr>
 
 Sessió 10: dimecres 12 de març
 
+* Tema 4. Matrius (continuació)
+
 * Tema 4. Problemes resolts: 4.4, 4.5, 4.8 (matrius)
 
-* Tema 4. Examen de problemes matrius
+* Tema 4. Problemes d'examen matrius [enunciats](./problemes/expr4_1hora.pdf) <!--i [solucions](./problemes/expr4s_1hora.pdf)-->
 
 <!-- * Tema 4. Examen de problemes subrutines i matrius (lliurar a Atenea abans de la classe de dilluns 17 de març) [enunciats](./problemes/expr3i4.pdf)--> <!--[solucions](./problemes/expr3i4s.pdf) -->
 
