@@ -146,7 +146,7 @@ Sessió 9: dilluns 10 de març
 
 * Tema 4. Matrius [slides](./slides/sessio9_2_tema4_matrius1.pdf) 
 
-* Tema 3. Problemes d'examen subrutines [enunciats](./problemes/expr3_1hora.pdf) <!--i [solucions](./problemes/expr3s_1hora.pdf)-->
+* Tema 3. Problemes d'examen subrutines [enunciats](./problemes/expr3_1hora.pdf) i [solucions](./problemes/expr3s_1hora.pdf)
 
 <hr>
 
