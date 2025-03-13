@@ -116,7 +116,7 @@ Les solucions als problemes del tema 2 només si no s'ha pogut fer la 5a hora de
 
 Sessió 7: dilluns 3 de març
 
-* Tema 3. Solució problemes encarregats: 3.5.a, 3.9 (bits) <!--[solucions](./problemes/tema3_3_5_3_9.pdf) -->
+* Tema 3. Solució problemes encarregats: 3.5.a, 3.9 (bits) [solucions](./problemes/tema3_3_5_3_9.pdf)
 
 * Tema 3. Traducció de programes / subrutines [slides](./slides/sessio7_2_tema3_subrutines.pdf)
 
@@ -142,7 +142,7 @@ Sessió 9: dilluns 10 de març
 <!--* Tema 3. Estructura de la memòria, compilació, assemblatge, enllaçat i càrrega PART 2 [vídeo](https://youtu.be/2CKO7oWH3iw) -->
 
 * Tema 3. Solució problemes encarregats: 3.34, 3.26, 3.36 (subrutines) 
-<!--[solucions](./problemes/tema3_3_34_3_26_3_36.pdf) i vídeos ([3.34](https://youtu.be/P6WxssL83DM), [3.26](https://youtu.be/IpW8fy4tp_s), [3.36](https://youtu.be/URdodRJMRiI)) -->
+[solucions](./problemes/tema3_3_34_3_26_3_36.pdf) i vídeos ([3.34](https://youtu.be/P6WxssL83DM), [3.26](https://youtu.be/IpW8fy4tp_s), [3.36](https://youtu.be/URdodRJMRiI)) 
 
 * Tema 4. Matrius [slides](./slides/sessio9_2_tema4_matrius1.pdf) 
 
@@ -179,7 +179,6 @@ Sessió 12: dimecres 19 de març
 * Tema 1. Examen de problemes [enunciats](./problemes/expr1_v2.pdf) [solucions](./problemes/expr1_v2s.pdf) 
 
 * Solucions problemes 4.2, 4.9, 1.7, 1.11 (no els hem treballat a classe però per si algú vol ampliar): [solucions](./problemes/tema1_4_2_4_9_1_7_1_11.pdf)
-
 
 <hr>
 
