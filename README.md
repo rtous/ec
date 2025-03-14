@@ -160,13 +160,11 @@ Sessió 10: dimecres 12 de març
 
 <!-- * Tema 4. Examen de problemes subrutines i matrius (lliurar a Atenea abans de la classe de dilluns 17 de març) [enunciats](./problemes/expr3i4.pdf)--> <!--[solucions](./problemes/expr3i4s.pdf) -->
 
-<!--
-
 <hr>
 
 Sessió 11: dilluns 17 de març
 
-<!- - * Tema 4. Problemes resolts: 4.8 - ->
+<!-- * Tema 4. Problemes resolts: 4.8 -->
 
 * Tema 1. Rendiment i consum [slides](./slides/sessio11_1_tema1_rendiment.pdf)
 
@@ -174,11 +172,16 @@ Sessió 11: dilluns 17 de març
 
 Sessió 12: dimecres 19 de març
 
+* Tema 1. Rendiment i consum (continuació)
+
 * Tema 1. Problemes resolts: 1.3, 1.6 (rendiment i consum)
 
-* Tema 1. Examen de problemes [enunciats](./problemes/expr1_v2.pdf) [solucions](./problemes/expr1_v2s.pdf) 
+<!-- * Tema 1. Examen de problemes [enunciats](./problemes/expr1_v2.pdf) [solucions](./problemes/expr1_v2s.pdf) -->
 
-* Solucions problemes 4.2, 4.9, 1.7, 1.11 (no els hem treballat a classe però per si algú vol ampliar): [solucions](./problemes/tema1_4_2_4_9_1_7_1_11.pdf)
+<!-- * Solucions problemes 4.2, 4.9, 1.7, 1.11 (no els hem treballat a classe però per si algú vol ampliar): [solucions](./problemes/tema1_4_2_4_9_1_7_1_11.pdf) -->
+
+
+<!--
 
 <hr>
 
