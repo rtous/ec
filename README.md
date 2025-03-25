@@ -181,26 +181,25 @@ Sessió 12: dimecres 19 de març
 
 <hr>
 
-Sessió 13: dilluns 24 de febrer
+Sessió 13: dilluns 24 de març
 
 * Tema 5. Aritmètica d'enters i coma flotant / 5.1-5.3 Aritmètica d'enters [slides](./slides/sessio12_1_tema5_1_aritmeticaentera_1.pdf)
 	
-
 * Tema 5. Problemes resolts: 5.11.b, 5.15.a
 
 
 <hr>
-Sessió 14: dimecres 26 de febrer 
+Sessió 14: dimecres 26 de març 
 
 * Tema 5. Aritmètica d'enters i coma flotant / 5.4 Representació [slides](./slides/sessio16_1_tema5_2_floats_1.pdf)
 
-* Problemes per dijous 18 d'abril: 5.23
+* Problemes per dilluns 31 de març: 5.23
 
 <!--
 
 <hr>
 
-Sessió 15: dilluns 31 de febrer 
+Sessió 15: dilluns 31 de març 
 
 * Tema 5. Solució problemes encarregats: 5.23
 
