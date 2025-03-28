@@ -195,7 +195,7 @@ Sessió 14: dimecres 26 de març
 
 * Problemes per dilluns 31 de març: 5.23
 
-<!--
+
 
 <hr>
 
@@ -211,7 +211,9 @@ Sessió 15: dilluns 31 de març
 
 <hr>
 
-EXAMEN PARCIAL: dijous 3 d'abril
+EXAMEN PARCIAL: dijous 3 d'abril (mireu convocatòria al Racó)
+
+<!--
 
 <hr>
 
