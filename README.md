@@ -207,13 +207,11 @@ Sessió 15: dilluns 31 de març
 
 * Tema 5. Aritmètica d'enters i coma flotant / Suma i resta [slides](./slides/sessio17_1_tema5_2_floats_2.pdf)
 
-* Problemes per dilluns 22 d'abril: 5.27
+* Problemes per dimecres 9 d'abril: 5.27
 
 <hr>
 
 EXAMEN PARCIAL: dijous 3 d'abril (mireu convocatòria al Racó)
-
-<!--
 
 <hr>
 
@@ -225,6 +223,7 @@ Sessió 16: dimecres 9 d'abril
 
 * Tema 5. Aritmètica d'enters i coma flotant / Multiplicació i coma flotant a MIPS [slides](./slides/sessio17_2_tema5_3_floats_3.pdf)
 
+<!--
 <hr>
 
 **************** SETMANA SANTA *****************
