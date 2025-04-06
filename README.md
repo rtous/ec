@@ -223,6 +223,10 @@ Sessió 16: dimecres 9 d'abril
 
 * Tema 5. Aritmètica d'enters i coma flotant / Multiplicació i coma flotant a MIPS [slides](./slides/sessio17_2_tema5_3_floats_3.pdf)
 
+* Problemes per dimecres 23 d'abril: 
+	* problemes d'examen coma flotant (part 1) [enunciats](./problemes/expr5_part1.pdf) <!--i [solucions](./problemes/expr5_part1s.pdf)-->
+	* problemes d'examen coma flotant (part 2) [enunciats](./problemes/expr5_part2.pdf) <!--i [solucions](./problemes/expr5_part2s.pdf)-->
+
 <!--
 <hr>
 
