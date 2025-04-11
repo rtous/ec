@@ -227,7 +227,7 @@ Sessió 16: dimecres 9 d'abril
 	* problemes d'examen coma flotant (part 1) [enunciats](./problemes/expr5_part1.pdf) <!--i [solucions](./problemes/expr5_part1s.pdf)-->
 	* problemes d'examen coma flotant (part 2) [enunciats](./problemes/expr5_part2.pdf) <!--i [solucions](./problemes/expr5_part2s.pdf)-->
 
-<!--
+
 <hr>
 
 **************** SETMANA SANTA *****************
@@ -235,15 +235,20 @@ Sessió 16: dimecres 9 d'abril
 
 Sessió 17: dimecres 23 d'abril
 
-<!- -
+* Tema 5. Solució problemes encarregats.
+
+* Tema 6. Memòria cache / Introducció i disseny bàsic [slides](./slides/sessio19_1_tema6_1.pdf)
+
+<!--
 * Tema 5. Examen de problemes [enunciats](./problemes/expr5_part1.pdf) i [solucions](./problemes/expr5_part1s.pdf) 
 
 * Problemes per dilluns 29 d'abril: exercici de floats de l'examen parcial 16/17-Q2 posat a la pissarra. 
  
  
 * Tema 5. Examen de problemes [enunciats](./problemes/expr5_part2.pdf)  i [solucions](./problemes/expr5_part2s.pdf) 
-- ->
+-->
 
+<!--
 <hr>
 
 Sessió 18: dilluns 28 d'abril
