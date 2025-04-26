@@ -253,19 +253,23 @@ Sessió 17: dimecres 23 d'abril
 
 Sessió 18: dilluns 28 d'abril
 
-* Tema 6. Memòria cache / Introducció i disseny bàsic (continuació)
-
 * Tema 6. Problemes resolts: 6.1
 
+* Tema 6. Memòria cache / Introducció i disseny bàsic (continuació)
+
 * Tema 6. Memòria cache / Part 2: Gestió de les escriptures [slides](./slides/sessio22_1_tema6_2.pdf)
+
+* Problemes per dimecres 30 d'abril: 6.2
 
 <hr>
 
 Sessió 19: dimecres 30 d'abril
 
+* Tema 6. Memòria cache / Part 2: Gestió de les escriptures (continuació)
+
 * Tema 6. Memòria cache / Part 3: Model de temps i millores (part 1) [slides](./slides/sessio23_1_tema6_3.pdf)
 
-* Problemes per dijous dijous 2 de maig: 6.2
+* Problemes per dijous dilluns 5 de maig: 6.7
 
 <!--
 
