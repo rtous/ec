@@ -264,7 +264,7 @@ Sessió 18: dimecres 30 d'abril
 
 * Tema 6. Memòria cache / Part 2: Gestió de les escriptures [slides](./slides/sessio22_1_tema6_2.pdf)
 
-* Problemes per dimecres 30 d'abril: 6.2
+* Problemes per dilluns 5 de maig: 6.2
 
 
 <!--
