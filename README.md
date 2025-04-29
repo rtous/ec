@@ -253,29 +253,25 @@ Sessió 17: dimecres 23 d'abril
 
 Sessió 18: dilluns 28 d'abril
 
-* Tema 6. Problemes resolts: 6.1
+* Sessió suspesa a causa de l'apagada elèctrica. 
 
-* Tema 6. Memòria cache / Introducció i disseny bàsic (continuació)
+<hr>
+
+Sessió 18: dimecres 30 d'abril
+
+
+* Tema 6. Problemes resolts: 6.1
 
 * Tema 6. Memòria cache / Part 2: Gestió de les escriptures [slides](./slides/sessio22_1_tema6_2.pdf)
 
 * Problemes per dimecres 30 d'abril: 6.2
 
-<hr>
-
-Sessió 19: dimecres 30 d'abril
-
-* Tema 6. Memòria cache / Part 2: Gestió de les escriptures (continuació)
-
-* Tema 6. Memòria cache / Part 3: Model de temps i millores (part 1) [slides](./slides/sessio23_1_tema6_3.pdf)
-
-* Problemes per dijous dilluns 5 de maig: 6.7
 
 <!--
 
 <hr>
 
-Sessió 20: dilluns 5 de maig
+Sessió 19: dilluns 5 de maig
 
 * Tema 6. Problemes resolts: 6.2
 
@@ -283,14 +279,27 @@ Sessió 20: dilluns 5 de maig
 
 * Tema 6. Memòria cache / Part 3: Model de temps i millores (part 1) [slides](./slides/sessio23_1_tema6_3.pdf)
 
+* Problemes per dijous dilluns 5 de maig: 6.7
+
+
+
+<hr>
+
+Sessió 20: dimecres 7 de maig
+
+
 * Tema 6. Examen de problemes [enunciats](./problemes/expr6.pdf) i [solucions](./problemes/expr6s.pdf)
 
 * Problemes per dilluns 6 de maig: 6.7
 
 
+
+
+
 <hr>
 
-Sessió 21: dimecres 7 de maig
+Sessió 21: dilluns 12 de maig
+
 
 * Tema 6. Solució problemes encarregats: 6.7 [solucions](./problemes/tema6_6_7_6_11.pdf) 
 
@@ -300,9 +309,10 @@ Sessió 21: dimecres 7 de maig
 
 <!- - * Problemes per dijous 9 de maig:  6.11 - ->
 
+
 <hr>
 
-Sessió 22: dilluns 12 de maig
+Sessió 22: dimecres 14 de maig
 
 * Tema 6. Problemes resolts: 6.11 [solucions](./problemes/tema6_6_7_6_11.pdf) 
 
@@ -310,27 +320,36 @@ Sessió 22: dilluns 12 de maig
 
 
 
+
 <hr>
 
-Sessió 23: dimecres 14 de maig
+Sessió 24: dilluns 19 de maig
 
 * Tema 7. Memòria virtual [slides](./slides/sessio26_1_tema7_1.pdf)
 
 * Tema 7. Problemes resolts: 7.1, 7.4 [solucions](./problemes/tema7_7_4.pdf) 
 
 
+
+
+
+
 <hr>
 
-Sessió 24: dilluns 19 de maig
+Sessió 24: dimecres 21 de maig
+
 
 * Tema 7. Memòria virtual (TLB)
 
 * Problemes per dimarts 21 de maig: 7.6
 
 
+
+
+
 <hr>
 
-Sessió 25: dimecres 21 de maig
+Sessió 25: dilluns 26 de maig
 
 * Tema 7. Solució problemes encarregats: 7.6
 
@@ -338,15 +357,16 @@ Sessió 25: dimecres 21 de maig
 
 * Tema 7. Examen de problemes [enunciats](./problemes/expr7.pdf)) [solucions](./problemes/expr7s2.pdf)
 
+
+
 <hr>
 
-Sessió 26: dilluns 26 de maig
+Sessió 26: dimecres 28 de maig
 
 * Tema 8 ([apunts](https://docencia.ac.upc.edu/FIB/grau/EC/privat/TeoriaEC-tema8.pdf))
 
-<hr>
 
-Sessió 27: dimecres 28 de maig
+
 
 * Tema 8 (continuació)
 
