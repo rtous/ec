@@ -215,7 +215,7 @@ Aquí la polèmica va ser la solució del valor de "e" a l'apartat (b). La soluc
 <img src="antics_examens/22_23_Q1_final_p5.png"  width="400">
 
 
-## Pregunta 1 ?????
+## Pregunta 1 (no he identificat a quin exàmen pertany)
 
 <img src="antics_examens/image.png"  width="400">
 
