@@ -243,31 +243,31 @@ c)
 ## Pregunta 7 parcial 24-25/Q2
 
 Calia traduir aquest codi:
-'''
+```
 void subr(short M[][100], int j) {
 	int i;
 	for (i=1; i<=j; i+=2)
 		M[i-1][i]=M[i][i+2]-M[i+1][i-1];
 }
-'''
-
+````
 Omplint les caixetes aquí (entre [] les solucions):
-
-	subr: addiu $t0, $a0, [206] #@primer element recorregut
-		  li $t2, [202]
-		  mult $a1, $t2
-		  mflo $t3
-		  subu $t4, $t3, $t2
-		  addu $t1, $t0, $t4 #@ultim element dintre del recorregut
-		  addu $t2, $t2, $t2
-		  b test
-	loop: lh $t5, 0($t0)   #M[i][i+2]
-		  lh $t6, [194] ($t0)
-		  subu $t7, $t5, $t6
-		  sh $t7, [-204] ($t0)
-		  addu $t0, $t0, $t2
-	test: [bleu] $t0, $t1, loop
-		  jr $ra
+```
+subr: addiu $t0, $a0, [206] #@primer element recorregut
+	  li $t2, [202]
+	  mult $a1, $t2
+	  mflo $t3
+	  subu $t4, $t3, $t2
+	  addu $t1, $t0, $t4 #@ultim element dintre del recorregut
+	  addu $t2, $t2, $t2
+	  b test
+loop: lh $t5, 0($t0)   #M[i][i+2]
+	  lh $t6, [194] ($t0)
+	  subu $t7, $t5, $t6
+	  sh $t7, [-204] ($t0)
+	  addu $t0, $t0, $t2
+test: [bleu] $t0, $t1, loop
+	  jr $ra
+```
 Analitzem algunes iteracions:
 
 	i=1 M[0][1]=M[1][3]-M[2][1];
