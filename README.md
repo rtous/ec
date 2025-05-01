@@ -270,12 +270,11 @@ Sessió 18: dimecres 30 d'abril
 
 * Problemes per dilluns 5 de maig: 6.2
 
-
-<!--
-
 <hr>
 
 Sessió 19: dilluns 5 de maig
+
+* NOTA: He publicat una explicació de la sol·lució del problema 7 de l'examen parcial (recorregut seqüencial) [aquí](./ANTICS_EXAMENS.md#parcial2425Q2pregunta7)
 
 * Tema 6. Problemes resolts: 6.2
 
@@ -285,7 +284,7 @@ Sessió 19: dilluns 5 de maig
 
 * Problemes per dijous dilluns 5 de maig: 6.7
 
-
+<!--
 
 <hr>
 

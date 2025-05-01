@@ -241,6 +241,7 @@ c)
 
 
 ## Pregunta 7 parcial 24-25/Q2
+<a name="parcial2425Q2pregunta7"></a>
 
 Calia traduir aquest codi:
 ```
