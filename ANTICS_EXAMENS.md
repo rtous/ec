@@ -242,13 +242,16 @@ c)
 
 ## Pregunta 7 parcial 24-25/Q2
 
-	void subr(short M[][100], int j) {
-		int i;
-		for (i=1; i<=j; i+=2)
-			M[i-1][i]=M[i][i+2]-M[i+1][i-1];
-	}
+Calia traduir aquest codi:
+'''
+void subr(short M[][100], int j) {
+	int i;
+	for (i=1; i<=j; i+=2)
+		M[i-1][i]=M[i][i+2]-M[i+1][i-1];
+}
+'''
 
-	Completa el fragment de codi... (entre [] el que calia omplir)
+Omplint les caixetes aquí (entre [] les solucions):
 
 	subr: addiu $t0, $a0, [206] #@primer element recorregut
 		  li $t2, [202]
