@@ -319,7 +319,8 @@ li $t2, 202
 mult $a1, $t2
 mflo $t3
 
-I aquí vé la pirueta de l'exercici. En comptes de simplement sumar-li 4 i després M, el que fa és restar-li 202 i després sumar-li $t0 (primer element del recorregut) que val M+206. 
+I aquí vé la pirueta de l'exercici. En comptes de simplement sumar-li 4  i després M, 
+el que fa és restar-li 202 i després sumar-li $t0 (primer element del recorregut) que val M+206. 
 
 subu $t4, $t3, $t2 #$t4 = 202j-202
 addu $t1, $t0, $t4 #$t1 = 202j-202+M+206 = M+202j+4
