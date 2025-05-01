@@ -239,9 +239,9 @@ c)
 
 	t = 6000/30 = 200 s
 
-
-## Pregunta 7 parcial 24-25/Q2
 <a name="parcial2425Q2pregunta7"></a>
+## Pregunta 7 parcial 24-25/Q2
+
 
 Calia traduir aquest codi:
 ```
