@@ -248,21 +248,83 @@ c)
 			M[i-1][i]=M[i][i+2]-M[i+1][i-1];
 	}
 
-	Completa el fragment de codi [...].
+	Completa el fragment de codi... (entre [] el que calia omplir)
 
-	subr: 
-		addiu $t0, $a0, **206** #@primer element recorregut
-		li $t2, **202**
-		mult $a1, $t2
-		mflo $t3
-		subu $t4, $t3, $t2
-		addu $t1, $t0, $t4 #@ultim element dintre del recorregut
-		addu $t2, $t2, $t2
-		b test
-	loop: lh $t5, 0($t0) #M[i][i+2]
-		lh $t6, [194] ($t0)
-		subu $t7, $t5, $t6
-		sh $t7, [-204] ($t0)
-		addu $t0, $t0, $t2
+	subr: addiu $t0, $a0, [206] #@primer element recorregut
+		  li $t2, [202]
+		  mult $a1, $t2
+		  mflo $t3
+		  subu $t4, $t3, $t2
+		  addu $t1, $t0, $t4 #@ultim element dintre del recorregut
+		  addu $t2, $t2, $t2
+		  b test
+	loop: lh $t5, 0($t0)   #M[i][i+2]
+		  lh $t6, [194] ($t0)
+		  subu $t7, $t5, $t6
+		  sh $t7, [-204] ($t0)
+		  addu $t0, $t0, $t2
 	test: [bleu] $t0, $t1, loop
-		jr $ra
+		  jr $ra
+Analitzem algunes iteracions:
+
+	i=1 M[0][1]=M[1][3]-M[2][1];
+	i=3 M[2][3]=M[3][5]-M[4][2];
+	i=5 M[4][5]=M[5][7]-M[6][4];
+	...
+Son tres diagonals que avancen en paral·lel. Podrem fer servir un únic punter a una de les diagonals i per accedir a les altres simplement utilitzarem l'offset del lh/sh. Al codi es veu que $t0 és el punter (apareix als lh/sh). Es pot deduir que és un punter a &M[i][i+2], però a part hi ha un comentari a la línia 9 que ho diu explícitament. Sabent això podem calcular la inicialització (línia 1):
+
+	&M[1][1+2] = M + (1*100+3)*2 = M + 206
+
+Ara podem calcular l'stride ($t2):
+
+	stride (en elements) = &M[i][i+2] amb i incrementada - &M[i][i+2]
+						 = &M[(i+2)][(i+2)+2] - &M[i][i+2]
+						 = M+100i+200+i+4 - (M+100i+i+2)
+		                 = 202	              
+			en bytes     = 202*2 = 404	 
+
+Però fixeu-vos que a la línia 7 fa addu $t2, $t2, $t2! per lo que el valor inicial de $t2 ha de ser la meitat (primera trampa d'aquest exercici):
+
+			li $t2, 202
+
+Ara calculem l'offset de la línia 10 (lh $t6, [194]). Com és un load sabem que és M[i+1][i-1]:
+
+	offset (en elements) entre &M[i+1][i-1] i &M[i][i+2]:
+						= &M[i+1][i-1] - (&M[i][i+2])
+						= M+100i+100+i-1 - (M+100i+i+2)
+						= 97
+			en bytes	= 97*2 = 194
+
+L'offset de la línia 12 (sh $t7, [-204]). El de M[i-1][i]:
+
+	offset (en elements) entre &M[i-1][i] i &M[i][i+2]:
+						= &M[i-1][i] - (&M[i][i+2])
+						= M+100i-100+i - (M+100i+i+2)
+						= -102
+			en bytes	= -102*2 = -204
+
+La instrucció de salt és un [bleu] ja que la condició és i<=j (bl) i estem comparant adreces (u). 
+
+El càlcul de l'últim element del recorregut (a $t1) és embolicat i tot i que no hi havia caixetes a omplir complica la comprensió del codi. El que fa és:
+
+	Últim element quan i==j: &M[j][j+2] = (M+101j+2)*2 = M+202j+4 
+
+	Obtinc primer 202j a $t3:
+	li $t2, 202
+	mult $a1, $t2
+	mflo $t3
+
+	I aquí vé la pirueta de l'exercici. En comptes de simplement sumar-li 4 i després M, el que fa és restar-li 202 i després sumar-li $t0 (primer element del recorregut) que val M+206. 
+
+	subu $t4, $t3, $t2 #$t4 = 202j-202
+	addu $t1, $t0, $t4 #$t1 = 202j-202+M+206 = M+202j+4
+
+
+		  
+		  
+
+
+
+	M[i-1][i]=M[i][i+2]-M[i+1][i-1];
+
+

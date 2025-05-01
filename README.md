@@ -33,7 +33,7 @@ S'ha creat una entrada a Atenea per que pugueu realitzar el lliurament dels prob
 
 ## EC Hall of Fame (Preguntes famoses d'antics exàmens)
 
-[Aquí](./ANTICS_EXAMENS.md) trobareu les solucions explicades a preguntes d'antics exàmens que van destacar per la seva dificultat, per la seva mala redacció o per tenir errors la solució publicada.  
+[Aquí](./ANTICS_EXAMENS.md) trobareu les solucions explicades a preguntes d'antics exàmens que van destacar per la seva dificultat, per la seva mala redacció o per tenir errors la solució publicada. Millor ignoreu-les, no són representatives. Les publico per si us les trobeu navegant.
 
 ## Materials sessions
 
