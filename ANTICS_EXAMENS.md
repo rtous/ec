@@ -1,6 +1,6 @@
 # EC: Estructura de Computadors (material professor R. Tous)
 
-## Preguntes famoses d'antics examens 
+## EC Hall of Fame (Preguntes famoses d'antics examens)
 
 Per minimitzar el nombre d'emails que rebo (especialment els dies anteriors a l'examen final) intento donar resposta aquí als dubtes més freqüents sobre preguntes d'antics exàmens. No són preguntes massa representatives, n'hi ha de molt difícils, algunes amb enunciats no gaire afortunats i algunes amb errors a la solució oficial.
 
@@ -240,3 +240,29 @@ c)
 	t = 6000/30 = 200 s
 
 
+## Pregunta 7 parcial 24-25/Q2
+
+	void subr(short M[][100], int j) {
+		int i;
+		for (i=1; i<=j; i+=2)
+			M[i-1][i]=M[i][i+2]-M[i+1][i-1];
+	}
+
+	Completa el fragment de codi [...].
+
+	subr: 
+		addiu $t0, $a0, **206** #@primer element recorregut
+		li $t2, **202**
+		mult $a1, $t2
+		mflo $t3
+		subu $t4, $t3, $t2
+		addu $t1, $t0, $t4 #@ultim element dintre del recorregut
+		addu $t2, $t2, $t2
+		b test
+	loop: lh $t5, 0($t0) #M[i][i+2]
+		lh $t6, [194] ($t0)
+		subu $t7, $t5, $t6
+		sh $t7, [-204] ($t0)
+		addu $t0, $t0, $t2
+	test: [bleu] $t0, $t1, loop
+		jr $ra

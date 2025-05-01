@@ -31,6 +31,10 @@ Quan sigui possible, les classes també es podran seguir via Google Meet a l'enl
 
 S'ha creat una entrada a Atenea per que pugueu realitzar el lliurament dels problemes.
 
+## EC Hall of Fame (Preguntes famoses d'antics exàmens)
+
+[Aquí](./ANTICS_EXAMENS.md) trobareu les solucions explicades a preguntes d'antics exàmens que van destacar per la seva dificultat, per la seva mala redacció o per tenir errors la solució publicada.  
+
 ## Materials sessions
 
 Sessió 1: dilluns 10 de febrer
