@@ -178,7 +178,7 @@ Sessió 12: dimecres 19 de març
 
 * Tema 1. Problemes resolts: 1.3, 1.6 (rendiment i consum)
 
-* Tema 1. Examen de problemes [enunciats](./problemes/expr1_v2.pdf) [solucions](./problemes/expr1_v2s.pdf)
+* Tema 1. Problemes d'examen [enunciats](./problemes/expr1_v2.pdf) [solucions](./problemes/expr1_v2s.pdf)
 
 * Solucions problemes 4.2, 4.9, 1.7, 1.11 (no els hem treballat a classe però per si algú vol ampliar): [solucions](./problemes/tema1_4_2_4_9_1_7_1_11.pdf)
 
@@ -286,14 +286,16 @@ Sessió 19: dilluns 5 de maig
 
 <hr>
 
+<!--
+
 Sessió 20: dimecres 7 de maig
 
-* Tema 6. Solució problemes encarregats: 6.7 <!-- [solucions](./problemes/tema6_6_7_6_11.pdf) -->
+* Tema 6. Solució problemes encarregats: 6.7 <!- - [solucions](./problemes/tema6_6_7_6_11.pdf) - ->
 
-* Tema 6. Examen de problemes [enunciats](./problemes/expr6.pdf) i [solucions](./problemes/expr6s.pdf)
+* Tema 6. Problemes d'examen [enunciats](./problemes/expr6.pdf) <!- -i [solucions](./problemes/expr6s.pdf) - ->
 
 
-<!--
+
 
 
 <hr>
