@@ -274,7 +274,7 @@ Sessió 18: dimecres 30 d'abril
 
 Sessió 19: dilluns 5 de maig
 
-* NOTA: He publicat una explicació de la sol·lució del problema 7 de l'examen parcial (recorregut seqüencial) [aquí](./ANTICS_EXAMENS.md#parcial2425Q2pregunta7)
+* *NOTA: He publicat una explicació de la sol·lució del problema 7 de l'examen parcial (recorregut seqüencial) [aquí](./ANTICS_EXAMENS.md#parcial2425Q2pregunta7)*
 
 * Tema 6. Solució problemes encarregats: 6.2
 
