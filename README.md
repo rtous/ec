@@ -276,27 +276,24 @@ Sessió 19: dilluns 5 de maig
 
 * NOTA: He publicat una explicació de la sol·lució del problema 7 de l'examen parcial (recorregut seqüencial) [aquí](./ANTICS_EXAMENS.md#parcial2425Q2pregunta7)
 
-* Tema 6. Problemes resolts: 6.2
+* Tema 6. Solució problemes encarregats: 6.2
 
 * Tema 6. Memòria cache / Part 2: Gestió de les escriptures (continuació)
 
 * Tema 6. Memòria cache / Part 3: Model de temps i millores (part 1) [slides](./slides/sessio23_1_tema6_3.pdf)
 
-* Problemes per dijous dilluns 5 de maig: 6.7
-
-<!--
+* Problemes per dimecres 7 de maig: 6.7
 
 <hr>
 
 Sessió 20: dimecres 7 de maig
 
+* Tema 6. Solució problemes encarregats: 6.7 <!-- [solucions](./problemes/tema6_6_7_6_11.pdf) -->
 
 * Tema 6. Examen de problemes [enunciats](./problemes/expr6.pdf) i [solucions](./problemes/expr6s.pdf)
 
-* Problemes per dilluns 6 de maig: 6.7
 
-
-
+<!--
 
 
 <hr>
@@ -304,13 +301,11 @@ Sessió 20: dimecres 7 de maig
 Sessió 21: dilluns 12 de maig
 
 
-* Tema 6. Solució problemes encarregats: 6.7 [solucions](./problemes/tema6_6_7_6_11.pdf) 
-
 * Tema 6. Memòria cache / Part 3: Model de temps i millores (part 2)
 
 * Tema 6. Problemes resolts: 6.10 
 
-<!- - * Problemes per dijous 9 de maig:  6.11 - ->
+* Problemes per dijous 9 de maig:  6.11
 
 
 <hr>
