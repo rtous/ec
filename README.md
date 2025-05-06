@@ -292,7 +292,7 @@ Sessió 20: dimecres 7 de maig
 
 * Tema 6. Memòria cache / Part 3: Model de temps i millores (part 2)
 
-* Tema 6. Problemes d'examen (part 1) <!--[enunciats](./problemes/expr6.pdf) i [solucions](./problemes/expr6s.pdf) -->
+* Tema 6. Problemes d'examen (part 1) [enunciats](./problemes/expr6.pdf) <!--i [solucions](./problemes/expr6s.pdf) -->
 
 <hr>
 
