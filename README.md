@@ -294,10 +294,7 @@ Sessió 20: dimecres 7 de maig
 
 * Tema 6. Problemes resolts: 6.10 
 
-<!--
-* Tema 6. Problemes d'examen [enunciats](./problemes/expr6.pdf) i [solucions](./problemes/expr6s.pdf) -->
-
-
+* Tema 6. Problemes d'examen [enunciats](./problemes/expr6.pdf) <!-- i [solucions](./problemes/expr6s.pdf) -->
 
 
 <!--
