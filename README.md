@@ -301,7 +301,7 @@ Sessió 21: dilluns 12 de maig
 
 * Tema 6. Problemes resolts: 6.10 
 
-* Tema 6. Problemes resolts: 6.11 
+<!-- * Tema 6. Problemes resolts: 6.11 -->
 
 * Tema 6. Memòria cache / Part 3: Model de temps i millores (part 2) continuació
 
