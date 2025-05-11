@@ -299,7 +299,7 @@ Sessió 20: dimecres 7 de maig
 
 Sessió 21: dilluns 12 de maig
 
-* Tema 6. Problemes resolts: 6.10 
+* Tema 6. Problemes resolts: 6.10 i 6.11
 
 <!-- * Tema 6. Problemes resolts: 6.11 -->
 
