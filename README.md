@@ -330,7 +330,7 @@ Sessió 22: dimecres 14 de maig
 
 Sessió 23: dilluns 19 de maig
 
-* Tema 6. Solució problemes encarregats: 7.4 <!--[solucions](./problemes/tema7_7_4.pdf) -->
+* Tema 6. Solució problemes encarregats: 7.4 [solucions](./problemes/tema7_7_4.pdf) 
 
 * Tema 7. Memòria virtual (TLB)
 
@@ -343,23 +343,23 @@ Sessió 24: dimecres 21 de maig
 
 * Tema 7. Memòria virtual (protecció i compartició)
 
-* Tema 7. Examen de problemes [enunciats](./problemes/expr7.pdf)) <!--[solucions](./problemes/expr7s2.pdf)-->
+* Tema 7. Examen de problemes [enunciats](./problemes/expr7.pdf)) [solucions](./problemes/expr7s2.pdf)
 
-
-<!--
 
 
 <hr>
 
 Sessió 25: dilluns 26 de maig
 
-* Tema 7. Solució problemes encarregats: 7.6
+<!-- * Tema 7. Solució problemes encarregats: 7.6
 
 * Tema 7. Memòria virtual (protecció i compartició)
 
 * Tema 7. Examen de problemes [enunciats](./problemes/expr7.pdf)) [solucions](./problemes/expr7s2.pdf)
 
+-->
 
+* Tema 8 ([apunts](https://docencia.ac.upc.edu/FIB/grau/EC/privat/TeoriaEC-tema8.pdf))
 
 <hr>
 
@@ -369,7 +369,7 @@ Sessió 26: dimecres 28 de maig
 
 
 
-
+<!--
 * Tema 8 (continuació)
 
 * Tema 8. Examen de problemes [enunciats](./problemes/expr8.pdf) [solucions](./problemes/expr8s.pdf)
