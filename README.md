@@ -343,7 +343,7 @@ Sessió 24: dimecres 21 de maig
 
 * Tema 7. Memòria virtual (protecció i compartició)
 
-* Tema 7. Examen de problemes [enunciats](./problemes/expr7.pdf)) [solucions](./problemes/expr7s2.pdf)
+* Tema 7. Problemes d'examen MV [enunciats](./problemes/expr7.pdf)) [solucions](./problemes/expr7s2.pdf)
 
 
 
@@ -351,23 +351,15 @@ Sessió 24: dimecres 21 de maig
 
 Sessió 25: dilluns 26 de maig
 
-<!-- * Tema 7. Solució problemes encarregats: 7.6
-
-* Tema 7. Memòria virtual (protecció i compartició)
-
-* Tema 7. Examen de problemes [enunciats](./problemes/expr7.pdf)) [solucions](./problemes/expr7s2.pdf)
-
--->
-
 * Tema 8 ([apunts](https://docencia.ac.upc.edu/FIB/grau/EC/privat/TeoriaEC-tema8.pdf))
 
 <hr>
 
 Sessió 26: dimecres 28 de maig
 
-* Tema 8 ([apunts](https://docencia.ac.upc.edu/FIB/grau/EC/privat/TeoriaEC-tema8.pdf))
+* Tema 8 (continuació)
 
-
+* Tema 8. Problemes d'examen Tema 8 [enunciats](./problemes/expr8.pdf) <!--[solucions](./problemes/expr8s.pdf)-->
 
 <!--
 * Tema 8 (continuació)
