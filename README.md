@@ -200,8 +200,9 @@ Sessió 14: dimecres 25 de març
 * Problemes per dilluns 31 de març: 5.23
 
 
-**************** SETMANA SANTA *****************
 <hr>
+
+**************** SETMANA SANTA *****************
 
 <hr>
 
@@ -343,20 +344,21 @@ Sessió 25: dimecres 20 de maig
 
 <hr>
 
-Sessió 26: dimecres 28 de maig
+Sessió 26: dimecres 27 de maig
 
 * Tema 8 (continuació)
 
 * Tema 8. Problemes d'examen Tema 8 [enunciats](./problemes/expr8.pdf) 
 
+<!--
 
 <hr>
 
 Sessió 27: dimecres 27 de maig
 
-* Repàs temes 6 (MC) i 7 (MV). Examen problemes [enunciats](./problemes/expr10_repas_mc_i_mv.pdf) <!-- [solucions](./problemes/expr8s.pdf) -->
+* Repàs temes 6 (MC) i 7 (MV). Examen problemes [enunciats](./problemes/expr10_repas_mc_i_mv.pdf) <!- - [solucions](./problemes/expr8s.pdf) - ->
 
-
+-->
 
 
 
