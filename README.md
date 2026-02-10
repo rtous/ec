@@ -93,8 +93,11 @@ En cas que no es pugui fer la 5a hora del tema 2 s'encarrega l'examen de problem
 - Si el tema 5 no entra al parcial (o si entra però el parcial és molt tard)
 - + si calendari sessió 2 (subrutines) ho permet
 - Sempre és convenient, si hi ha 26 classes en comptes de 27 simplement no hi haurà classe de repas al final. 
--->
+
+
 <hr>
+-->
+
 
 <!--
 Sessió 5: dilluns 23 de febrer
