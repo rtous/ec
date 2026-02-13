@@ -52,7 +52,7 @@ Sessió 2: dimecres 11 de febrer
 
 <hr>
 
-<!--
+
 Sessió 3: dilluns 16 de febrer
 
 * Tema 2. Instruccions i tipus de dades bàsics / Repàs naturals i enters [slides](./slides/sessio3_1_tema2_enters.pdf)
@@ -61,10 +61,10 @@ Sessió 3: dilluns 16 de febrer
 
 * Tema 2. Problemes resolts: 2.3
 
-* Tema 2. Problemes per dimecres 19 de febrer: 2.6, 2.32.a, 2.32.b
+* Tema 2. Problemes per dimecres 18 de febrer: 2.6, 2.32.a, 2.32.b
 
 <hr>
--->
+
 
 <!--
 Sessió 4: dimecres 18 de febrer
