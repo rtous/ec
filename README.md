@@ -66,7 +66,7 @@ Sessió 3: dilluns 16 de febrer
 <hr>
 
 
-<!--
+
 Sessió 4: dimecres 18 de febrer
 
 * Tema 2. Solució problemes encarregats: 2.6 (memòria) i 2.32.a, 2.32.b (vectors) [solucions 2.6](./problemes/tema2_2_6.pdf) [solucions 2.32](./problemes/tema2_2_32.pdf) 
@@ -78,14 +78,13 @@ Sessió 4: dimecres 18 de febrer
 
 * Tema 2. Problemes resolts: 2.26, 2.30, 2.27 (punters) [solucions](./problemes/tema2_2_26_2_30_2_27.pdf)
 
-* Tema 2. Problemes per dilluns 24 de febrer: 2.22, 2.32.c, 2.31
+* Tema 2. Problemes per dilluns 23 de febrer: 2.22, 2.32.c, 2.31
 
 
-<!- -
+<!--
 En cas que no es pugui fer la 5a hora del tema 2 s'encarrega l'examen de problemes per casa.
 
 * Tema 2. Examen de problemes (lliurar a Atenea abans de la classe de dilluns 4 de març) [enunciats](./problemes/expr2_extended_nomessegona.pdf) i [solucions](./problemes/expr2s_extended_nomessegona.pdf)
-- ->
 -->
 
 <!--
