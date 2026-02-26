@@ -123,17 +123,17 @@ Les solucions als problemes del tema 2 només si no s'ha pogut fer la 5a hora de
 * Problemes per dilluns 2 de març: 3.5.a, 3.9 (bits)
 
 <hr>
--->
-<!--
+
+
 Sessió 7: dilluns 2 de març
 
-* Tema 3. Solució problemes encarregats: 3.5.a, 3.9 (bits) [solucions](./problemes/tema3_3_5_3_9.pdf)
+* Tema 3. Solució problemes encarregats: 3.5.a, 3.9 (bits) <!--[solucions](./problemes/tema3_3_5_3_9.pdf)-->
 
 * Tema 3. Traducció de programes / subrutines [slides](./slides/sessio7_2_tema3_subrutines.pdf)
 
 
 <hr>
--->
+
 
 <!--
 Sessió 8: dimecres 4 de març
