@@ -138,7 +138,7 @@ Sessió 8: dimecres 4 de març
 
 * Tema 3. Traducció de programes / subrutines (continuació)
 
-* Tema 3. Problemes resolts: 3.28 (subrutines)
+* Tema 3. Problemes resolts: 3.26, 3.28 (subrutines)
 
 * Tema 3. Problemes d'examen subrutines [enunciats](./problemes/expr3_1hora.pdf) <!-- i [solucions](./problemes/expr3s_1hora.pdf) -->
 
