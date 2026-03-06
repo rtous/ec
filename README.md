@@ -147,25 +147,23 @@ Sessió 8: dimecres 4 de març
 <hr>
 
 
-<!--
+
 Sessió 9: dilluns 9 de març
 
-<!- -* Tema 3. Estructura de la memòria, compilació, assemblatge, enllaçat i càrrega PART 2 [vídeo](https://youtu.be/2CKO7oWH3iw) - ->
+<!--* Tema 3. Estructura de la memòria, compilació, assemblatge, enllaçat i càrrega PART 2 [vídeo](https://youtu.be/2CKO7oWH3iw) -->
 
-* Tema 3. Solució problemes d'examen subrutines [enunciats](./problemes/expr3_1hora.pdf) i [solucions](./problemes/expr3s_1hora.pdf)
+* Tema 3. Solució problemes d'examen subrutines <!--[enunciats](./problemes/expr3_1hora.pdf) i [solucions](./problemes/expr3s_1hora.pdf)-->
 
 * Tema 3. Estructura de la memòria, compilació, assemblatge, enllaçat i càrrega [slides](./slides/sessio9_1_tema3_mem_i_compilacio.pdf)
 
-<!- -* Tema 3. Solució problemes encarregats: 3.34, 3.26, 3.36 (subrutines) 
-[solucions](./problemes/tema3_3_34_3_26_3_36.pdf) i vídeos ([3.34](https://youtu.be/P6WxssL83DM), [3.26](https://youtu.be/IpW8fy4tp_s), [3.36](https://youtu.be/URdodRJMRiI)) - ->
+<!--* Tema 3. Solució problemes encarregats: 3.34, 3.26, 3.36 (subrutines) 
+[solucions](./problemes/tema3_3_34_3_26_3_36.pdf) i vídeos ([3.34](https://youtu.be/P6WxssL83DM), [3.26](https://youtu.be/IpW8fy4tp_s), [3.36](https://youtu.be/URdodRJMRiI)) -->
 
 * Tema 4. Matrius [slides](./slides/sessio9_2_tema4_matrius1.pdf) 
 
-
-
 <hr>
 
--->
+
 
 <!--
 
