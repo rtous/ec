@@ -140,7 +140,7 @@ Sessió 8: dimecres 4 de març
 
 * Tema 3. Problemes resolts: 3.26, 3.28 (subrutines)
 
-* Tema 3. Problemes d'examen subrutines [enunciats](./problemes/expr3_1hora.pdf) <!-- i [solucions](./problemes/expr3s_1hora.pdf) -->
+* Tema 3. Problemes d'examen subrutines [enunciats](./problemes/expr3_1hora.pdf) i [solucions](./problemes/expr3s_1hora.pdf)
 
 <!-- * Problemes per dilluns 10 de març: 3.34, 3.26, 3.36 (subrutines)-->
 
@@ -164,21 +164,17 @@ Sessió 9: dilluns 9 de març
 <hr>
 
 
-
-<!--
-
 Sessió 10: dimecres 11 de març
 
 * Tema 4. Matrius (continuació)
 
 * Tema 4. Problemes resolts: 4.4, 4.5, 4.8 (matrius)
 
-* Tema 4. Problemes d'examen matrius [enunciats](./problemes/expr4_1hora.pdf) i [solucions](./problemes/expr4s_1hora.pdf)
+* Tema 4. Problemes d'examen matrius [enunciats](./problemes/expr4_1hora.pdf) <!--i [solucions](./problemes/expr4s_1hora.pdf)-->
 
-<!- - * Tema 4. Examen de problemes subrutines i matrius (lliurar a Atenea abans de la classe de dilluns 17 de març) [enunciats](./problemes/expr3i4.pdf)--> <!--[solucions](./problemes/expr3i4s.pdf) - ->
+<!-- * Tema 4. Examen de problemes subrutines i matrius (lliurar a Atenea abans de la classe de dilluns 17 de març) [enunciats](./problemes/expr3i4.pdf)--> <!--[solucions](./problemes/expr3i4s.pdf) -->
 
 <hr>
--->
 
 <!--
 
