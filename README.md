@@ -178,7 +178,7 @@ Sessió 10: dimecres 11 de març
 
 Sessió 11: dilluns 16 de març
 
-<!- - * Tema 4. Problemes resolts: 4.8 - ->
+<!-- * Tema 4. Problemes resolts: 4.8 -->
 
 * Tema 1. Rendiment i consum [slides](./slides/sessio11_1_tema1_rendiment.pdf)
 
