@@ -1,8 +1,4 @@
-To embed a Mermaid diagram into Markdown, you need to use a fenced code block with the `mermaid` language identifier. Some Markdown editors and platforms (like GitHub) have native Mermaid support and will render the diagram.
 
-Here is how you can write it:
-
-```
 ```mermaid
 graph TD
     subgraph Logical_Address [Adreça lògica]
@@ -78,6 +74,4 @@ graph TD
     R_H_Dot_PPN --> PPN
     
     PO --> PO_Phys
-```
-
 ```
