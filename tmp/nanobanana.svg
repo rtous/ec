@@ -1,0 +1,159 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 740 500" width="740" height="500">
+  <text x="5" y="40" font-family="Arial" font-size="14">Adreça lògica</text>
+  
+  <rect x="135" y="15" width="415" height="70" fill="none" stroke="black" stroke-width="1"/>
+  
+  <line x1="510" y1="15" x2="510" y2="85" stroke="black" stroke-width="1"/>
+  
+  <text x="325" y="55" font-family="Arial" font-size="14" text-anchor="middle">VPN</text>
+  <text x="630" y="55" font-family="Arial" font-size="14" text-anchor="middle">page offset</text>
+  
+  <g font-family="Arial" font-size="8">
+    <text x="138" y="12">31</text>
+    <text x="150" y="12">30</text>
+    <text x="162" y="12">29</text>
+    <text x="174" y="12">28</text>
+    <text x="186" y="12">27</text>
+    <text x="198" y="12">26</text>
+    <text x="210" y="12">25</text>
+    <text x="222" y="12">24</text>
+    <text x="234" y="12">23</text>
+    <text x="246" y="12">22</text>
+    <text x="258" y="12">21</text>
+    <text x="270" y="12">20</text>
+    <text x="282" y="12">19</text>
+    <text x="294" y="12">18</text>
+    <text x="306" y="12">17</text>
+    <text x="318" y="12">16</text>
+    <text x="330" y="12">15</text>
+    <text x="342" y="12">14</text>
+    <text x="354" y="12">13</text>
+    <text x="366" y="12">12</text>
+    <text x="378" y="12">11</text>
+    <text x="390" y="12">10</text>
+    <text x="402" y="12">09</text>
+    <text x="414" y="12">08</text>
+    <text x="426" y="12">07</text>
+    <text x="438" y="12">06</text>
+    <text x="450" y="12">05</text>
+    <text x="462" y="12">04</text>
+    <text x="474" y="12">03</text>
+    <text x="486" y="12">02</text>
+    <text x="498" y="12">01</text>
+    <text x="510" y="12">00</text>
+  </g>
+  
+  <g fill="none" stroke="black" stroke-width="1">
+    <path d="M135 7 L510 7"/>
+    <path d="M135 3 L135 11"/>
+    <path d="M510 3 L510 11"/>
+    
+    <path d="M510 7 L725 7"/>
+    <path d="M510 3 L510 11"/>
+    <path d="M725 3 L725 11"/>
+  </g>
+  
+  <text x="322" y="2" font-family="Arial" font-size="12" text-anchor="middle">20 bits</text>
+  <text x="617" y="2" font-family="Arial" font-size="12" text-anchor="middle">12 bits</text>
+  
+  <text x="5" y="230" font-family="Arial" font-size="18" font-weight="bold">Taula de Pàgines</text>
+  
+  <rect x="42" y="115" width="180" height="40" fill="none" stroke="black" stroke-width="1"/>
+  <text x="132" y="140" font-family="Arial" font-size="12" text-anchor="middle">Registre de Taula de Pàgines</text>
+  <path d="M222 135 L260 135" stroke="black" stroke-width="1" marker-end="url(#arrowhead)"/>
+  
+  <g transform="translate(330, 115)">
+    <rect x="0" y="0" width="180" height="210" fill="none" stroke="black" stroke-width="1"/>
+    
+    <text x="15" y="-10" font-family="Arial" font-size="12" text-anchor="middle">VPN</text>
+    <text x="40" y="-10" font-family="Arial" font-size="12" text-anchor="middle">P</text>
+    <text x="65" y="-10" font-family="Arial" font-size="12" text-anchor="middle">D</text>
+    <text x="125" y="-10" font-family="Arial" font-size="12" text-anchor="middle">PPN</text>
+    
+    <line x1="30" y1="0" x2="30" y2="210" stroke="black" stroke-width="1"/>
+    <line x1="55" y1="0" x2="55" y2="210" stroke="black" stroke-width="1"/>
+    <line x1="80" y1="0" x2="80" y2="210" stroke="black" stroke-width="1"/>
+    
+    <text x="-5" y="20" font-family="Arial" font-size="12" text-anchor="end">0</text>
+    <line x1="30" y1="30" x2="180" y2="30" stroke="black" stroke-width="1"/>
+    
+    <text x="-5" y="55" font-family="Arial" font-size="12" text-anchor="end">1</text>
+    <line x1="30" y1="65" x2="180" y2="65" stroke="black" stroke-width="1"/>
+    
+    <text x="-5" y="100" font-family="Arial" font-size="12" text-anchor="end">...</text>
+    <line x1="30" y1="110" x2="180" y2="110" stroke="black" stroke-width="1" stroke-dasharray="3,3"/>
+    
+    <rect x="30" y="110" width="150" height="35" fill="lightgray" stroke="black" stroke-width="1"/>
+    <circle cx="42.5" y="127.5" r="3" fill="black"/>
+    <circle cx="125" y="127.5" r="3" fill="black"/>
+    
+    <line x1="30" y1="145" x2="180" y2="145" stroke="black" stroke-width="1"/>
+    <text x="-5" y="155" font-family="Arial" font-size="12" text-anchor="end">...</text>
+    
+    <line x1="30" y1="180" x2="180" y2="180" stroke="black" stroke-width="1" stroke-dasharray="3,3"/>
+    <text x="-5" y="200" font-family="Arial" font-size="12" text-anchor="end">2²⁰-1</text>
+    
+    <g font-family="Arial" font-size="10" text-anchor="middle">
+      <text x="67.5" y="100">...</text>
+      <text x="110" y="100">...</text>
+      <text x="67.5" y="165">...</text>
+      <text x="110" y="165">...</text>
+    </g>
+  </g>
+  
+  <path d="M295 85 L295 242.5 L360 242.5" fill="none" stroke="black" stroke-width="1" marker-end="url(#arrowhead)"/>
+  
+  <path d="M372.5 255 L372.5 350 L270 350" fill="none" stroke="black" stroke-width="1" marker-end="url(#arrowhead)"/>
+  <text x="260" y="340" font-family="Arial" font-size="10" text-anchor="end">
+    Bit de presència (P). Si és 0<tspan x="260" dy="12">la pàgina està al disc. Si és</tspan><tspan x="260" dy="12">1 està a la memòria</tspan>
+  </text>
+  
+  <text x="350" y="410" font-family="Arial" font-size="14">Adreça física</text>
+  
+  <rect x="460" y="380" width="265" height="40" fill="none" stroke="black" stroke-width="1"/>
+  
+  <line x1="510" y1="380" x2="510" y2="420" stroke="black" stroke-width="1"/>
+  
+  <text x="485" y="405" font-family="Arial" font-size="14" text-anchor="middle">PPN</text>
+  <text x="617.5" y="405" font-family="Arial" font-size="14" text-anchor="middle">page offset</text>
+  
+  <g font-family="Arial" font-size="8">
+    <text x="462" y="430">13</text>
+    <text x="474" y="430">12</text>
+    <text x="486" y="430">11</text>
+    <text x="498" y="430">10</text>
+    <text x="510" y="430">09</text>
+    <text x="522" y="430">08</text>
+    <text x="534" y="430">07</text>
+    <text x="546" y="430">06</text>
+    <text x="558" y="430">05</text>
+    <text x="570" y="430">04</text>
+    <text x="582" y="430">03</text>
+    <text x="594" y="430">02</text>
+    <text x="606" y="430">01</text>
+    <text x="618" y="430">00</text>
+  </g>
+  
+  <path d="M455 242.5 L477.5 242.5 L477.5 380" fill="none" stroke="black" stroke-width="1" marker-end="url(#arrowhead)"/>
+  
+  <path d="M630 85 L630 380" fill="none" stroke="black" stroke-width="1" marker-end="url(#arrowhead)"/>
+  
+  <g fill="none" stroke="black" stroke-width="1">
+    <path d="M460 445 L510 445"/>
+    <path d="M460 441 L460 449"/>
+    <path d="M510 441 L510 449"/>
+    
+    <path d="M510 445 L725 445"/>
+    <path d="M510 441 L510 449"/>
+    <path d="M725 441 L725 449"/>
+  </g>
+  
+  <text x="485" y="460" font-family="Arial" font-size="12" text-anchor="middle">2 bits</text>
+  <text x="617.5" y="460" font-family="Arial" font-size="12" text-anchor="middle">12 bits</text>
+  
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="black"/>
+    </marker>
+  </defs>
+</svg>
