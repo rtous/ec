@@ -1,0 +1,147 @@
+<svg width="100%" viewBox="0 0 680 472">
+<defs>
+  <marker id="arr" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+    <path d="M2 1L8 5L2 9" fill="none" stroke="context-stroke" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </marker>
+</defs>
+
+<!-- ── LOGICAL ADDRESS ─────────────────────────────────── -->
+<text class="ts" x="340" y="20" text-anchor="middle">Adreça lògica</text>
+
+<!-- bit labels above bar -->
+<text class="ts" x="22"  y="36">31</text>
+<text class="ts" x="418" y="36" text-anchor="end">12</text>
+<text class="ts" x="423" y="36">11</text>
+<text class="ts" x="658" y="36" text-anchor="end">0</text>
+
+<!-- VPN field (bits 31..12 → 20 bits → 400 px) -->
+<g class="c-blue">
+  <rect x="20" y="44" width="400" height="32" rx="0" stroke-width="0.8"/>
+  <text class="th" x="220" y="60" text-anchor="middle" dominant-baseline="central">VPN</text>
+</g>
+
+<!-- page offset field (bits 11..0 → 12 bits → 240 px) -->
+<g class="c-amber">
+  <rect x="420" y="44" width="240" height="32" rx="0" stroke-width="0.8"/>
+  <text class="th" x="540" y="60" text-anchor="middle" dominant-baseline="central">page offset</text>
+</g>
+
+<!-- bit-count labels below bar -->
+<text class="ts" x="220" y="88" text-anchor="middle">20 bits</text>
+<text class="ts" x="540" y="88" text-anchor="middle">12 bits</text>
+
+<!-- ── PTBR REGISTER ───────────────────────────────────── -->
+<g class="c-purple">
+  <rect x="20" y="108" width="188" height="38" rx="4" stroke-width="0.5"/>
+  <text class="ts" x="114" y="122" text-anchor="middle" dominant-baseline="central">Registre de Taula de</text>
+  <text class="ts" x="114" y="138" text-anchor="middle" dominant-baseline="central">Pàgines</text>
+</g>
+
+<!-- PTBR → table top-left -->
+<path d="M114,146 L114,156 L200,156" fill="none" stroke="var(--color-text-secondary)" stroke-width="1" marker-end="url(#arr)"/>
+
+<!-- ── PAGE TABLE ───────────────────────────────────────── -->
+<text class="th" x="380" y="140" text-anchor="middle">Taula de Pàgines</text>
+
+<!-- table outer rect -->
+<rect x="200" y="156" width="360" height="182" rx="0" fill="var(--color-background-primary)" stroke="var(--color-border-primary)" stroke-width="0.8"/>
+
+<!-- header row -->
+<rect x="200" y="156" width="360" height="24" rx="0" fill="var(--color-background-secondary)" stroke="none"/>
+<line x1="200" y1="180" x2="560" y2="180" stroke="var(--color-border-primary)" stroke-width="0.8"/>
+
+<!-- column dividers (full height) -->
+<line x1="300" y1="156" x2="300" y2="338" stroke="var(--color-border-primary)" stroke-width="0.5"/>
+<line x1="342" y1="156" x2="342" y2="338" stroke="var(--color-border-primary)" stroke-width="0.5"/>
+<line x1="384" y1="156" x2="384" y2="338" stroke="var(--color-border-primary)" stroke-width="0.5"/>
+
+<!-- header labels -->
+<text class="ts" x="250" y="168" text-anchor="middle" dominant-baseline="central">VPN</text>
+<text class="ts" x="321" y="168" text-anchor="middle" dominant-baseline="central">P</text>
+<text class="ts" x="363" y="168" text-anchor="middle" dominant-baseline="central">D</text>
+<text class="ts" x="472" y="168" text-anchor="middle" dominant-baseline="central">PPN</text>
+
+<!-- row 0 -->
+<line x1="200" y1="202" x2="560" y2="202" stroke="var(--color-border-tertiary)" stroke-width="0.5"/>
+<text class="ts" x="250" y="191" text-anchor="middle" dominant-baseline="central" font-family="var(--font-mono)">0</text>
+
+<!-- row 1 -->
+<line x1="200" y1="224" x2="560" y2="224" stroke="var(--color-border-tertiary)" stroke-width="0.5"/>
+<text class="ts" x="250" y="213" text-anchor="middle" dominant-baseline="central" font-family="var(--font-mono)">1</text>
+
+<!-- dots -->
+<line x1="200" y1="246" x2="560" y2="246" stroke="var(--color-border-tertiary)" stroke-width="0.5"/>
+<text class="ts" x="250" y="235" text-anchor="middle" dominant-baseline="central">···</text>
+
+<!-- SELECTED / MATCHED ROW (green fill) -->
+<rect x="201" y="247" width="358" height="24" fill="var(--color-background-success)" stroke="none"/>
+<line x1="200" y1="271" x2="560" y2="271" stroke="var(--color-border-primary)" stroke-width="0.5"/>
+<text class="ts" x="250" y="259" text-anchor="middle" dominant-baseline="central" font-family="var(--font-mono)">···</text>
+<text class="th"  x="321" y="259" text-anchor="middle" dominant-baseline="central">●</text>
+<text class="th"  x="363" y="259" text-anchor="middle" dominant-baseline="central">●</text>
+<text class="ts"  x="472" y="259" text-anchor="middle" dominant-baseline="central" font-family="var(--font-mono)" style="font-weight:500">PPN</text>
+
+<!-- dots -->
+<line x1="200" y1="293" x2="560" y2="293" stroke="var(--color-border-tertiary)" stroke-width="0.5"/>
+<text class="ts" x="250" y="282" text-anchor="middle" dominant-baseline="central">···</text>
+
+<!-- row 2^20 − 1 -->
+<line x1="200" y1="315" x2="560" y2="315" stroke="var(--color-border-tertiary)" stroke-width="0.5"/>
+<text class="ts" x="250" y="304" text-anchor="middle" dominant-baseline="central" font-family="var(--font-mono)">2²⁰−1</text>
+
+<!-- bottom dots -->
+<text class="ts" x="250" y="327" text-anchor="middle" dominant-baseline="central">···</text>
+
+<!-- ── ANNOTATION (P bit) ─────────────────────────────── -->
+<g class="c-gray">
+  <rect x="16" y="226" width="176" height="66" rx="4" stroke-width="0.5"/>
+  <text class="ts" x="26" y="244" dominant-baseline="central">Bit de presència (P). Si és</text>
+  <text class="ts" x="26" y="260" dominant-baseline="central">0 la pàgina està al disc.</text>
+  <text class="ts" x="26" y="276" dominant-baseline="central">Si és 1 està a la memòria</text>
+</g>
+
+<!-- leader line: annotation → P column centre in selected row -->
+<line x1="192" y1="259" x2="308" y2="259" fill="none" stroke="var(--color-text-secondary)" stroke-width="0.8" stroke-dasharray="4,3" marker-end="url(#arr)"/>
+
+<!-- ── TRANSLATION ARROWS ──────────────────────────────── -->
+
+<!-- 1. VPN from logical bar → into table (L-bend) -->
+<path d="M220,76 L220,126 L250,126 L250,156" fill="none" stroke="var(--color-text-secondary)" stroke-width="1" marker-end="url(#arr)"/>
+
+<!-- 2. page offset: straight vertical copy (dashed) -->
+<line x1="618" y1="76" x2="618" y2="400" fill="none" stroke="var(--color-text-secondary)" stroke-width="1" stroke-dasharray="5,4" marker-end="url(#arr)"/>
+
+<!-- 3. PPN out of matched row → to physical address bar -->
+<path d="M560,259 L600,259 L600,382 L400,382 L400,400" fill="none" stroke="var(--color-text-success)" stroke-width="1.2" marker-end="url(#arr)"/>
+
+<!-- ── PHYSICAL ADDRESS ────────────────────────────────── -->
+
+<!-- bit labels above physical bar -->
+<text class="ts" x="382" y="390">13</text>
+<text class="ts" x="420" y="390" text-anchor="end">12</text>
+<text class="ts" x="423" y="390">11</text>
+<text class="ts" x="658" y="390" text-anchor="end">0</text>
+
+<!-- physical address label -->
+<text class="ts" x="520" y="390" text-anchor="middle">Adreça física</text>
+
+<!-- PPN (2 bits, x=380–420) -->
+<g class="c-green">
+  <rect x="380" y="400" width="40" height="32" rx="0" stroke-width="0.8"/>
+  <text class="ts" x="400" y="416" text-anchor="middle" dominant-baseline="central">PPN</text>
+</g>
+
+<!-- page offset (12 bits, x=420–660) – same x range as logical offset -->
+<g class="c-amber">
+  <rect x="420" y="400" width="240" height="32" rx="0" stroke-width="0.8"/>
+  <text class="th" x="540" y="416" text-anchor="middle" dominant-baseline="central">page offset</text>
+</g>
+
+<!-- bit-count labels below physical bar -->
+<text class="ts" x="400" y="446" text-anchor="middle">2 bits</text>
+<text class="ts" x="540" y="446" text-anchor="middle">12 bits</text>
+
+<!-- vertical alignment markers (tick at offset boundary) -->
+<line x1="420" y1="76"  x2="420" y2="84"  stroke="var(--color-border-primary)" stroke-width="0.5"/>
+<line x1="420" y1="396" x2="420" y2="400" stroke="var(--color-border-primary)" stroke-width="0.5"/>
+</svg>

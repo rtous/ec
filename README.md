@@ -170,7 +170,7 @@ Sessió 10: dimecres 11 de març
 
 * Tema 4. Problemes resolts: 4.4, 4.5, 4.8 (matrius)
 
-* Tema 4. Problemes d'examen matrius [enunciats](./problemes/expr4_1hora.pdf) <!--i [solucions](./problemes/expr4s_1hora.pdf)-->
+* Tema 4. Problemes d'examen matrius [enunciats](./problemes/expr4_1hora.pdf) i [solucions](./problemes/expr4s_1hora.pdf)
 
 <!-- * Tema 4. Examen de problemes subrutines i matrius (lliurar a Atenea abans de la classe de dilluns 17 de març) [enunciats](./problemes/expr3i4.pdf)--> <!--[solucions](./problemes/expr3i4s.pdf) -->
 
@@ -182,36 +182,37 @@ Sessió 11: dilluns 16 de març
 
 * Tema 1. Rendiment i consum [slides](./slides/sessio11_1_tema1_rendiment.pdf)
 
+* Tema 1. Problemes resolts: 1.3, 1.6 (rendiment i consum)
+
 <hr>
 
 
-<!--
-Sessió 12: dimecres 18 de març
 
-* Tema 1. Problemes resolts: 1.3, 1.6 (rendiment i consum)
+Sessió 12: dimecres 18 de març
 
 * Tema 1. Problemes d'examen [enunciats](./problemes/expr1_v2.pdf) [solucions](./problemes/expr1_v2s.pdf)
 
-* Solucions problemes 4.2, 4.9, 1.7, 1.11 (no els hem treballat a classe però per si algú vol ampliar): [solucions](./problemes/tema1_4_2_4_9_1_7_1_11.pdf)
+<!--* Solucions problemes 4.2, 4.9, 1.7, 1.11 (no els hem treballat a classe però per si algú vol ampliar): [solucions](./problemes/tema1_4_2_4_9_1_7_1_11.pdf) -->
+
+* Tema 5. Aritmètica d'enters i coma flotant / 5.1-5.3 Aritmètica d'enters [slides](./slides/sessio12_1_tema5_1_aritmeticaentera_1.pdf) 
 
 <hr>
--->
 
 
-<!--
+
 Sessió 13: dilluns 23 de març
 
-* Tema 5. Aritmètica d'enters i coma flotant / 5.1-5.3 Aritmètica d'enters [slides](./slides/sessio12_1_tema5_1_aritmeticaentera_1.pdf)
-	
 * Tema 5. Problemes resolts: 5.11.b, 5.15.a
 
+* Tema 5. Aritmètica d'enters i coma flotant / 5.4 Representació [slides](./slides/sessio16_1_tema5_2_floats_1.pdf)
+
+
 <hr>
--->
 
 <!--
 Sessió 14: dimecres 25 de març 
 
-* Tema 5. Aritmètica d'enters i coma flotant / 5.4 Representació [slides](./slides/sessio16_1_tema5_2_floats_1.pdf)
+* Tema 5. Aritmètica d'enters i coma flotant / 5.4 Representació (continuació)
 
 * Problemes per dilluns 31 de març: 5.23
 
@@ -232,8 +233,6 @@ EXAMEN PARCIAL: ???? d'abril (mireu convocatòria al Racó)
 Sessió 15: dimecres 15 d'abril
 
 * Tema 5. Solució problemes encarregats: 5.23
-
-* Tema 5. Aritmètica d'enters i coma flotant / 5.4 Representació (continuació)
 
 * Tema 5. Aritmètica d'enters i coma flotant / Suma i resta [slides](./slides/sessio17_1_tema5_2_floats_2.pdf)
 

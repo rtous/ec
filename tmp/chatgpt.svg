@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="650" viewBox="0 0 1100 650">
+
+<style>
+text{font-family:Arial, Helvetica, sans-serif}
+.label{font-size:22px;font-weight:bold}
+.small{font-size:14px}
+.boxtext{font-size:20px;font-weight:bold}
+</style>
+
+<!-- LOGICAL ADDRESS TITLE -->
+<text x="40" y="70" class="label">Adreça lògica</text>
+
+<!-- Logical address bar -->
+<rect x="230" y="40" width="620" height="60" fill="none" stroke="black" stroke-width="2"/>
+<line x1="580" y1="40" x2="580" y2="100" stroke="black" stroke-width="2"/>
+
+<text x="380" y="78" class="boxtext">VPN</text>
+<text x="660" y="78" class="boxtext">page offset</text>
+
+<!-- bit size arrows -->
+<line x1="230" y1="20" x2="580" y2="20" stroke="black"/>
+<polygon points="230,20 240,15 240,25"/>
+<polygon points="580,20 570,15 570,25"/>
+<text x="390" y="15" class="small">20 bits</text>
+
+<line x1="580" y1="20" x2="850" y2="20" stroke="black"/>
+<polygon points="580,20 590,15 590,25"/>
+<polygon points="850,20 840,15 840,25"/>
+<text x="690" y="15" class="small">12 bits</text>
+
+<!-- Page table title -->
+<text x="90" y="350" font-size="40" font-weight="bold">Taula de Pàgines</text>
+
+<!-- Page table register -->
+<rect x="80" y="180" width="260" height="60" fill="none" stroke="black" stroke-width="2"/>
+<text x="100" y="215" class="small">Registre de Taula de Pàgines</text>
+
+<line x1="340" y1="210" x2="420" y2="210" stroke="black" stroke-width="2"/>
+<polygon points="420,210 408,205 408,215"/>
+
+<!-- Page table -->
+<rect x="420" y="120" width="240" height="360" fill="none" stroke="black" stroke-width="2"/>
+
+<!-- columns -->
+<line x1="480" y1="120" x2="480" y2="480" stroke="black"/>
+<line x1="520" y1="120" x2="520" y2="480" stroke="black"/>
+
+<!-- headers -->
+<text x="440" y="110" class="small">VPN</text>
+<text x="495" y="110" class="small">P</text>
+<text x="535" y="110" class="small">D</text>
+<text x="590" y="110" class="small">PPN</text>
+
+<!-- rows -->
+<line x1="420" y1="170" x2="660" y2="170" stroke="black"/>
+<line x1="420" y1="230" x2="660" y2="230" stroke="black"/>
+<line x1="420" y1="290" x2="660" y2="290" stroke="black"/>
+<line x1="420" y1="350" x2="660" y2="350" stroke="black"/>
+<line x1="420" y1="410" x2="660" y2="410" stroke="black"/>
+
+<!-- highlighted row -->
+<rect x="420" y="290" width="240" height="60" fill="#cccccc"/>
+
+<!-- dots indicating example entry -->
+<circle cx="450" cy="320" r="6" fill="black"/>
+<circle cx="620" cy="320" r="6" fill="black"/>
+
+<!-- presence bit explanation -->
+<text x="90" y="450" class="small">
+Bit de presència (P). Si és 0
+</text>
+<text x="90" y="470" class="small">
+la pàgina està al disc. Si és
+</text>
+<text x="90" y="490" class="small">
+1 està a la memòria
+</text>
+
+<!-- arrows from VPN and offset -->
+<line x1="430" y1="100" x2="430" y2="120" stroke="black"/>
+<line x1="760" y1="100" x2="760" y2="520" stroke="black"/>
+
+<!-- Physical address -->
+<text x="520" y="550" class="label">Adreça física</text>
+
+<rect x="680" y="520" width="70" height="50" fill="none" stroke="black" stroke-width="2"/>
+<rect x="750" y="520" width="200" height="50" fill="none" stroke="black" stroke-width="2"/>
+
+<text x="700" y="550" class="boxtext">PPN</text>
+<text x="800" y="550" class="boxtext">page offset</text>
+
+<!-- arrows to physical address -->
+<line x1="620" y1="320" x2="715" y2="520" stroke="black"/>
+<polygon points="715,520 705,505 725,505"/>
+
+<line x1="760" y1="520" x2="760" y2="520" stroke="black"/>
+
+<!-- physical bits -->
+<text x="700" y="590" class="small">2 bits</text>
+<text x="830" y="590" class="small">12 bits</text>
+
+</svg>
