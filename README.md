@@ -209,12 +209,12 @@ Sessió 13: dilluns 23 de març
 
 <hr>
 
-<!--
+
 Sessió 14: dimecres 25 de març 
 
 * Tema 5. Aritmètica d'enters i coma flotant / 5.4 Representació (continuació)
 
-* Problemes per dilluns 31 de març: 5.23
+<!--* Problemes per dilluns 31 de març: 5.23-->
 
 <hr>
 
@@ -222,11 +222,11 @@ Sessió 14: dimecres 25 de març
 
 <hr>
 
-EXAMEN PARCIAL: ???? d'abril (mireu convocatòria al Racó)
+EXAMEN PARCIAL: dilluns 8 d'abril 10:30 - 12:30 (mireu convocatòria al Racó)
 
 <hr>
 
--->
+
 
 <!--
 
