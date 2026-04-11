@@ -227,19 +227,18 @@ EXAMEN PARCIAL: dilluns 8 d'abril 10:30 - 12:30 (mireu convocatòria al Racó)
 <hr>
 
 
-
-<!--
-
 Sessió 15: dimecres 15 d'abril
 
-* Tema 5. Solució problemes encarregats: 5.23
+<!-- * Tema 5. Solució problemes encarregats: 5.23 -->
+
+* Tema 5. Problemes resolts: 5.23 
 
 * Tema 5. Aritmètica d'enters i coma flotant / Suma i resta [slides](./slides/sessio17_1_tema5_2_floats_2.pdf)
 
 * Problemes per dimecres 9 d'abril: 5.27
 
 <hr>
--->
+
 
 <!--
 
