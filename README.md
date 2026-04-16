@@ -254,7 +254,7 @@ Sessió 16: dilluns 20 d'abril
 	* problemes d'examen coma flotant (part 2) [enunciats](./problemes/expr5_part2.pdf) i [solucions](./problemes/expr5_part2s.pdf)
 -->
 <hr>
--->
+
 <!--
 
 Sessió 17: dimecres 22 d'abril
