@@ -246,7 +246,7 @@ Sessió 16: dilluns 20 d'abril
 
 * Tema 5. Aritmètica d'enters i coma flotant / Multiplicació i coma flotant a MIPS [slides](./slides/sessio17_2_tema5_3_floats_3.pdf)
 
-* Tema 5. Problemes d'examen [enunciats](./problemes/expr5.pdf) <!--[solucions](./problemes/expr1_v2s.pdf)-->
+* Tema 5. Problemes d'examen [enunciats](./problemes/expr5.pdf) [solucions](./problemes/expr5s.pdf)
 
 <!--
 * Problemes per dimecres 23 d'abril: 
@@ -255,7 +255,7 @@ Sessió 16: dilluns 20 d'abril
 -->
 <hr>
 
-<!--
+
 
 Sessió 17: dimecres 22 d'abril
 
@@ -263,14 +263,14 @@ Sessió 17: dimecres 22 d'abril
 
 * Tema 6. Memòria cache / Introducció i disseny bàsic [slides](./slides/sessio19_1_tema6_1.pdf)
 
-<!- -
+<!--
 * Tema 5. Examen de problemes [enunciats](./problemes/expr5_part1.pdf) i [solucions](./problemes/expr5_part1s.pdf) 
 
 * Problemes per dilluns 29 d'abril: exercici de floats de l'examen parcial 16/17-Q2 posat a la pissarra. 
  
  
 * Tema 5. Examen de problemes [enunciats](./problemes/expr5_part2.pdf)  i [solucions](./problemes/expr5_part2s.pdf) 
-- ->
+-->
 
 <hr>
 -->
