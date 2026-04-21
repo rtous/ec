@@ -273,7 +273,7 @@ Sessió 17: dimecres 22 d'abril
 -->
 
 <hr>
--->
+
 <!--
 
 Sessió 18: dilluns 27 d'abril
