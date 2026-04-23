@@ -274,8 +274,6 @@ Sessió 17: dimecres 22 d'abril
 
 <hr>
 
-<!--
-
 Sessió 18: dilluns 27 d'abril
 
 * Tema 6. Problemes resolts: 6.1
@@ -285,7 +283,7 @@ Sessió 18: dilluns 27 d'abril
 * Problemes per dilluns 5 de maig: 6.2
 
 <hr>
--->
+
 <!--
 
 Sessió 19: dimecres 29 d'abril
