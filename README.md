@@ -275,6 +275,14 @@ Sessió 17: dimecres 22 d'abril
 <hr>
 
 Sessió 18: dilluns 27 d'abril
+	
+* sessió suspesa
+
+<hr>
+
+Sessió 19: dimecres 29 d'abril
+	
+* sessió suspesa
 
 * Tema 6. Problemes resolts: 6.1
 
