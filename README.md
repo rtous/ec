@@ -287,26 +287,20 @@ Sessió 19: dimecres 29 d'abril
 
 * Tema 6. Memòria cache / Part 2: Gestió de les escriptures [slides](./slides/sessio22_1_tema6_2.pdf)
 
-* Problemes per dilluns 5 de maig: 6.2
+* Problemes per dilluns 4 de maig: 6.2
 
 <hr>
 
-<!--
-
-Sessió 19: dimecres 29 d'abril
-
-* *NOTA: He publicat una explicació de la sol·lució del problema 7 de l'examen parcial (recorregut seqüencial) [aquí](./ANTICS_EXAMENS.md#parcial2425Q2pregunta7)*
+Sessió 20: dilluns 4 de maig
 
 * Tema 6. Solució problemes encarregats: 6.2
 
-* Tema 6. Memòria cache / Part 2: Gestió de les escriptures (continuació)
+* Tema 6. Memòria cache / Part 3: Model de temps i millores [slides](./slides/sessio23_1_tema6_3.pdf)
 
-* Tema 6. Memòria cache / Part 3: Model de temps i millores (part 1) [slides](./slides/sessio23_1_tema6_3.pdf)
-
-* Problemes per dimecres 7 de maig: 6.7
+* Tema 6. Problemes resolts: 6.7
 
 <hr>
--->
+
 <!--
 
 Sessió 20: dilluns 4 de maig
