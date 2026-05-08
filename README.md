@@ -297,38 +297,35 @@ Sessió 20: dilluns 4 de maig
 
 * Tema 6. Memòria cache / Part 3: Model de temps i millores [slides](./slides/sessio23_1_tema6_3.pdf)
 
-* Tema 6. Problemes resolts: 6.7
+
+<!-- NOTA: millor els problemes d'examen 1 abans que explicar les millores -->
 
 <hr>
 
-<!--
+Sessió 21: dimecres 6 de maig
 
-Sessió 20: dilluns 4 de maig
-
-* Tema 6. Solució problemes encarregats: 6.7 [solucions](./problemes/tema6_6_7_6_11.pdf) 
-
-* Tema 6. Memòria cache / Part 3: Model de temps i millores (part 2)
+* Tema 6. Problemes resolts: 6.7, 6.10, 6.11 [solucions](./problemes/tema6_6_7_6_11.pdf)
 
 * Tema 6. Problemes d'examen (part 1) [enunciats](./problemes/expr6.pdf) i [solucions](./problemes/expr6s.pdf) 
 
 <hr>
--->
-<!--
 
 
-Sessió 21: dimecres 6 de maig
+Sessió 22: dilluns 11 de maig
 
-* Tema 6. Problemes resolts: 6.10 i 6.11
+* Tema 6. Problemes resolts: Exercici 3 Problemes d'examen (part 1)
 
-<!- - * Tema 6. Problemes resolts: 6.11 - ->
+* Tema 6. Problemes resolts: 6.3 i 6.11
 
-* Tema 6. Memòria cache / Part 3: Model de temps i millores (part 2) continuació
+<!-- * Tema 6. Problemes resolts: 6.10 i 6.11 -->
 
-* Tema 6. Problemes d'examen (part 2) [enunciats](./problemes/expr6_2.pdf) i [solucions](./problemes/expr6_2s.pdf)
+<!-- * Tema 6. Problemes resolts: 6.11 -->
+
+* Tema 6. Problemes d'examen (part 2) [enunciats](./problemes/expr6_2.pdf) <!-- i [solucions](./problemes/expr6_2s.pdf) -->
 
 
 <hr>
--->
+
 <!--
 
 Sessió 22: dilluns 11 de maig
