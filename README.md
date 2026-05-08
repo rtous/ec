@@ -304,7 +304,7 @@ Sessió 20: dilluns 4 de maig
 
 Sessió 21: dimecres 6 de maig
 
-* Tema 6. Problemes resolts: 6.7, 6.10, 6.11 [solucions](./problemes/tema6_6_7_6_11.pdf)
+* Tema 6. Problemes resolts: 6.7, 6.10 [solucions](./problemes/tema6_6_7_6_11.pdf)
 
 * Tema 6. Problemes d'examen (part 1) [enunciats](./problemes/expr6.pdf) i [solucions](./problemes/expr6s.pdf) 
 
