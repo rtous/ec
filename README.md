@@ -321,14 +321,13 @@ Sessió 22: dilluns 11 de maig
 
 <!-- * Tema 6. Problemes resolts: 6.11 -->
 
-* Tema 6. Problemes d'examen (part 2) [enunciats](./problemes/expr6_2.pdf) <!-- i [solucions](./problemes/expr6_2s.pdf) -->
+* Tema 6. Problemes d'examen (part 2) [enunciats](./problemes/expr6_2.pdf) i [solucions](./problemes/expr6_2s.pdf)
 
 
 <hr>
 
-<!--
 
-Sessió 22: dilluns 11 de maig
+Sessió 23: dimecres 13 de maig
 
 * Tema 7. Memòria virtual [slides](./slides/sessio26_1_tema7_1.pdf)
 
@@ -336,13 +335,8 @@ Sessió 22: dilluns 11 de maig
 
 * Problemes per dilluns 19 de maig: 7.4
 
-<!- -
-* Tema 6. Problemes resolts: 6.11 [solucions](./problemes/tema6_6_7_6_11.pdf) 
-
-* Tema 6. Examen de problemes 2 [enunciats](./problemes/expr6_2.pdf) i [solucions](./problemes/expr6_2s.pdf)- ->
-
 <hr>
--->
+
 <!--
 
 Sessió 23: dimecres 13 de maig
