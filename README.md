@@ -337,18 +337,18 @@ Sessió 23: dimecres 13 de maig
 
 <hr>
 
-<!--
+
 
 Sessió 23: dimecres 13 de maig
 
-* Tema 6. Solució problemes encarregats: 7.4 [solucions](./problemes/tema7_7_4.pdf) 
+* Tema 6. Solució problemes encarregats: 7.4 <!-- [solucions](./problemes/tema7_7_4.pdf) -->
 
 * Tema 7. Memòria virtual (TLB)
 
 * Tema 7. Problemes resolts: 7.6
 
 <hr>
--->
+
 <!--
 
 Sessió 24: dilluns 18 de maig
